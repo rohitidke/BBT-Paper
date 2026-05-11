@@ -1,0 +1,143 @@
+=== Run 4 start: 2026-03-13T14:09:24Z ===
+params: isColumnSplit=true, max_col=18, max_row=22, prah=0.55
+Category Match Analysis
+=======================
+Run ID: 4
+Deleni params: {"isColumnSplit": true, "max_col": 18, "max_row": 22, "prah": 0.55}
+Labels: 36
+Mean purity: 76.02%
+Weighted purity: 71.38%
+Best distinct 5-category match: 114/162 (70.37%)
+Category totals:
+clothing: 29
+kitchen utensils: 33
+musical instruments: 26
+tools: 28
+vehicles: 28
+weapons: 18
+Best distinct mapping (category -> label):
+clothing -> Label 34 (matched=25, purity=100.00%, recall=86.21%)
+kitchen utensils -> Label 17 (matched=18, purity=90.00%, recall=54.55%)
+musical instruments -> Label 35 (matched=15, purity=75.00%, recall=57.69%)
+tools -> Label 9 (matched=24, purity=60.00%, recall=85.71%)
+vehicles -> Label 3 (matched=25, purity=71.43%, recall=89.29%)
+weapons -> Label 19 (matched=7, purity=70.00%, recall=38.89%)
+Saved: output/experiments/bmf/artifacts/exemplar/all/4/animals_by_label.txt
+Saved: output/experiments/bmf/artifacts/exemplar/all/4/label_category_analysis.txt
+Saved: output/experiments/bmf/artifacts/exemplar/all/4/label_category_analysis.csv
+Saved: output/experiments/bmf/artifacts/exemplar/all/4/summary.txt
+Saved: output/experiments/bmf/artifacts/exemplar/all/4/summary.json
+Updated leaderboard: output/experiments/bmf/artifacts/exemplar/all/leaderboard.csv
+Processing duration: 0.184s
+Run: 4
+Base matrix: 166x1295
+Background label: 1
+Labels used for boxes (excluding background): 36
+Rows annotated: 166
+Columns inferred due to missing mappings: 0
+Metrics source: output/experiments/bmf/artifacts/exemplar/all/4/label_category_analysis.csv
+Selected labels source: output/experiments/bmf/artifacts/exemplar/all/leaderboard.csv
+Selected labels in best_distinct_mapping: [3, 9, 17, 19, 34, 35]
+Saved SVG: output/experiments/bmf/artifacts/exemplar/all/4/bundle_overlay.svg
+Processing duration: 0.358s
+Run: 4
+Category -> Label mapping: {'clothing': 34, 'kitchen utensils': 17, 'musical instruments': 35, 'tools': 9, 'vehicles': 3, 'weapons': 19}
+Used labels: [3, 9, 17, 19, 34, 35]
+Collected cells: 2950
+Out-of-bounds cells skipped: 0
+Saved matrix CSV: output/experiments/bmf/artifacts/exemplar/all/4/reconstructed_matrix.csv
+Processing duration: 0.183s
+Loading incidence CSV data...
+  Base data: data/artifacts/artifact_exemplar_feature_matrix_dichotomized.csv
+  Model data: output/experiments/bmf/artifacts/exemplar/all/4/reconstructed_matrix.csv
+
+Base matrix shape: (166, 1295)
+Model matrix shape: (166, 1295)
+
+Computing Jaccard similarity...
+  Row-wise Jaccard scores: 166 rows
+  Overall Jaccard: 0.0963
+  Exemplars in input data: 166 exemplars
+
+Loading typicality ratings from: data/artifacts/typicality_ratings.csv
+  Found 162 unique exemplars in typicality data
+  Found 6 unique bundles in model incidences
+
+Warning: 1 exemplars couldn't be mapped to Jaccard scores:
+  First few unmapped: ['oil can']
+
+Warning: 1 exemplars couldn't be mapped to bundles:
+  First few unmapped: ['oil can']
+
+Sample of successful mappings:
+  anvil                -> Jaccard: 0.2451
+  chisel               -> Jaccard: 0.2030
+  axe                  -> Jaccard: 0.1779
+
+Dataframe after merging similarity scores:
+  category exemplar  typicality_rating  rowwise_similarity  bundles
+0    tools    anvil          11.142857            0.245098        3
+1    tools   chisel          16.107143            0.203008        3
+2    tools      axe          15.964286            0.177914        3
+3    tools    drill          17.357143            0.178344        3
+4    tools  crowbar          14.892857            0.174603        3
+
+================================================================================
+BUNDLE DISTRIBUTION BY CATEGORY (COUNTS):
+================================================================================
+bundles               1   2   3   4   5  6
+category                                  
+clothing              0   1   0  28   0  0
+kitchen utensils     18  11   3   1   0  0
+musical instruments   0  11   0  16   0  0
+tools                 2   1  25   0   0  0
+vehicles              0   1   2   0  24  3
+weapons               0   0  10   0   1  7
+
+Overall Pearson correlation: r = -0.2347, p-value = 0.002408
+
+================================================================================
+BY CATEGORY:
+================================================================================
+                     avg_typicality  avg_jaccard  count
+category                                               
+clothing                    14.8762       0.0091     29
+kitchen utensils            15.4113       0.0233     33
+musical instruments         16.5278       0.0048     27
+tools                       14.1843       0.1906     29
+vehicles                    13.6069       0.1583     30
+weapons                     14.5972       0.1973     18
+
+================================================================================
+PEARSON CORRELATION BY CATEGORY:
+================================================================================
+tools               : r = +0.243818, p = 0.211184 not significant (n = 28)
+vehicles            : r = -0.328050, p = 0.076760 not significant (n = 30)
+clothing            : r = +0.121092, p = 0.531495 not significant (n = 29)
+kitchen utensils    : r = +0.193868, p = 0.279679 not significant (n = 33)
+musical instruments : r = +0.137897, p = 0.492767 not significant (n = 27)
+weapons             : r = -0.697041, p = 0.001305 very significant (n = 18)
+
+================================================================================
+CORRELATION SUMMARY:
+================================================================================
+Mean correlation across categories: -0.0547
+Std deviation: 0.3758
+Min correlation: -0.6970 (weapons)
+Max correlation: 0.2438 (tools)
+
+================================================================================
+COMPLETE RESULTS TABLE:
+================================================================================
+           category  correlation  p_value  n_samples     significance
+              tools     0.243818 0.211184         28  not significant
+           vehicles    -0.328050 0.076760         30  not significant
+           clothing     0.121092 0.531495         29  not significant
+   kitchen utensils     0.193868 0.279679         33  not significant
+musical instruments     0.137897 0.492767         27  not significant
+            weapons    -0.697041 0.001305         18 very significant
+
+Results saved to: output/experiments/bmf/artifacts/exemplar/all/4/correlation_analysis_results.csv
+Enriched table saved to: output/experiments/bmf/artifacts/exemplar/all/4/typicality_similarity_enriched.csv
+Processing duration: 0.130s
+=== Run 4 done: 2026-03-13T14:09:26Z ===

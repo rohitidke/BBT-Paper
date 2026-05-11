@@ -1,0 +1,7 @@
+category,correlation,p_value,n_samples,significance
+tools,-0.0282,0.886728,28,not significant
+vehicles,0.185531,0.326311,30,not significant
+clothing,-0.33558,0.075129,29,not significant
+kitchen utensils,0.058636,0.745841,33,not significant
+musical instruments,0.489074,0.009629,27,very significant
+weapons,-0.143534,0.569897,18,not significant

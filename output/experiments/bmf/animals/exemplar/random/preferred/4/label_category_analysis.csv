@@ -1,0 +1,11 @@
+label,n_animals,dominant_category,dominant_count,dominant_category_total,purity_percent,dominant_recall_percent,dominant_f1_percent,n_features,mapped_feature_count,avg_feature_freq_weight,birds,fish,insects,mammals,reptiles,unknown,selected
+2,57,birds,26,30,45.61,86.67,59.77,39,39,0.052704,26,0,23,5,0,3,true
+3,72,mammals,25,30,34.72,83.33,49.02,39,39,0.052704,2,23,2,25,19,1,true
+4,19,birds,17,30,89.47,56.67,69.39,19,19,0.081271,17,0,0,0,0,2,true
+5,3,mammals,2,30,66.67,6.67,12.12,1,1,0.026694,0,0,1,2,0,0,false
+6,32,fish,15,23,46.88,65.22,54.55,4,4,0.047741,0,15,0,7,9,1,true
+7,10,fish,7,23,70.0,30.43,42.42,4,4,0.047741,0,7,0,0,3,0,false
+8,16,insects,10,26,62.5,38.46,47.62,4,4,0.047741,5,0,10,1,0,0,true
+9,9,insects,5,26,55.56,19.23,28.57,4,4,0.047741,2,0,5,2,0,0,false
+10,1,mammals,1,30,100.0,3.33,6.45,6,6,0.029774,0,0,0,1,0,0,false
+11,22,insects,14,26,63.64,53.85,58.33,6,6,0.029774,6,0,14,2,0,0,false

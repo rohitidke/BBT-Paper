@@ -1,0 +1,13 @@
+total_objects=129
+total_attributes=225
+empty_objects_all_zero=16
+empty_attributes_all_zero=95
+objects_non_zero=113
+attributes_non_zero=130
+attributes_relevance_ratio=0.577778
+objects_relevance_ratio=0.875969
+average_attribute_freq_weight=0.073675
+top_n_average_attribute_freq_weight=0.129231
+median_attribute_set_size=73.000000
+median_f1score=86.790000
+overall_jaccard=0.449952

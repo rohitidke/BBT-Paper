@@ -1,0 +1,139 @@
+Category Match Analysis
+=======================
+Run ID: 2
+Deleni params: {"isColumnSplit": true, "max_col": 15, "max_row": 15, "prah": 0.6}
+Labels: 44
+Mean purity: 83.60%
+Weighted purity: 74.00%
+Best distinct 5-category match: 66/129 (51.16%)
+Category totals:
+birds: 30
+fish: 23
+insects: 26
+mammals: 30
+reptiles: 20
+Best distinct mapping (category -> label):
+birds -> Label 35 (matched=8, purity=50.00%, recall=26.67%)
+fish -> Label 39 (matched=10, purity=100.00%, recall=43.48%)
+insects -> Label 9 (matched=21, purity=95.45%, recall=80.77%)
+mammals -> Label 18 (matched=16, purity=100.00%, recall=53.33%)
+reptiles -> Label 17 (matched=11, purity=40.74%, recall=55.00%)
+Saved: output/experiments/bmf/animals/exemplar/all/2/animals_by_label.txt
+Saved: output/experiments/bmf/animals/exemplar/all/2/label_category_analysis.txt
+Saved: output/experiments/bmf/animals/exemplar/all/2/label_category_analysis.csv
+Saved: output/experiments/bmf/animals/exemplar/all/2/summary.txt
+Saved: output/experiments/bmf/animals/exemplar/all/2/summary.json
+Updated leaderboard: output/experiments/bmf/animals/exemplar/all/leaderboard.csv
+Processing duration: 0.091s
+Run: 2
+Base matrix: 129x764
+Background label: 1
+Labels used for boxes (excluding background): 44
+Rows annotated: 129
+Columns inferred due to missing mappings: 0
+Metrics source: output/experiments/bmf/animals/exemplar/all/2/label_category_analysis.csv
+Selected labels source: output/experiments/bmf/animals/exemplar/all/leaderboard.csv
+Selected labels in best_distinct_mapping: [9, 17, 18, 35, 39]
+Saved SVG: output/experiments/bmf/animals/exemplar/all/2/bundle_overlay.svg
+Processing duration: 0.169s
+Run: 2
+Category -> Label mapping: {'birds': 35, 'fish': 39, 'insects': 9, 'mammals': 18, 'reptiles': 17}
+Used labels: [9, 17, 18, 35, 39]
+Collected cells: 1461
+Out-of-bounds cells skipped: 0
+Saved matrix CSV: output/experiments/bmf/animals/exemplar/all/2/reconstructed_matrix.csv
+Processing duration: 0.084s
+Loading incidence CSV data...
+  Base data: data/animal_exemplar_feature_matrix_dichotomized.csv
+  Model data: output/experiments/bmf/animals/exemplar/all/2/reconstructed_matrix.csv
+
+Base matrix shape: (129, 764)
+Model matrix shape: (129, 764)
+
+Computing Jaccard similarity...
+  Row-wise Jaccard scores: 129 rows
+  Overall Jaccard: 0.0677
+  Exemplars in input data: 129 exemplars
+
+Loading typicality ratings from: data/typicality_ratings.csv
+  Found 129 unique exemplars in typicality data
+  Found 5 unique bundles in model incidences
+
+Warning: 4 exemplars couldn't be mapped to Jaccard scores:
+  First few unmapped: ['canary', 'chicken', 'cockchafer', 'viper']
+
+Warning: 4 exemplars couldn't be mapped to bundles:
+  First few unmapped: ['canary', 'chicken', 'cockchafer', 'viper']
+
+Sample of successful mappings:
+  eagle                -> Jaccard: 0.2419
+  dove                 -> Jaccard: 0.0000
+  duck                 -> Jaccard: 0.0000
+
+Dataframe after merging similarity scores:
+  category  exemplar  typicality_rating  rowwise_similarity  bundles
+0    birds     eagle          16.925926            0.241935        2
+1    birds      dove          18.142857            0.000000        3
+2    birds      duck          12.785714            0.000000        3
+3    birds    magpie          17.892857            0.034884        4
+4    birds  pheasant          13.714286            0.000000        3
+
+================================================================================
+BUNDLE DISTRIBUTION BY CATEGORY (COUNTS):
+================================================================================
+bundles    1   2   3   4   5
+category                    
+birds      0   8  12   8   0
+fish       0   3   4   6  10
+insects    0   0   3  22   0
+mammals   16   4  10   0   0
+reptiles   0  11   8   0   0
+
+Overall Pearson correlation: r = -0.1626, p-value = 0.070111
+
+================================================================================
+BY CATEGORY:
+================================================================================
+          avg_typicality  avg_jaccard  count
+category                                    
+birds            15.3547       0.0837     30
+fish             14.5604       0.0322     23
+insects          15.2620       0.0252     26
+mammals          15.9250       0.0396     30
+reptiles         14.0575       0.1360     20
+
+================================================================================
+PEARSON CORRELATION BY CATEGORY:
+================================================================================
+birds               : r = -0.277035, p = 0.153520 not significant (n = 28)
+fish                : r = -0.458560, p = 0.027754 significant (n = 23)
+insects             : r = +0.466806, p = 0.018651 significant (n = 25)
+mammals             : r = -0.581927, p = 0.000743 highly significant (n = 30)
+reptiles            : r = +0.449134, p = 0.053725 not significant (n = 19)
+
+================================================================================
+CORRELATION SUMMARY:
+================================================================================
+Mean correlation across categories: -0.0803
+Std deviation: 0.5032
+Min correlation: -0.5819 (mammals)
+Max correlation: 0.4668 (insects)
+
+================================================================================
+COMPLETE RESULTS TABLE:
+================================================================================
+category  correlation  p_value  n_samples       significance
+   birds    -0.277035 0.153520         28    not significant
+    fish    -0.458560 0.027754         23        significant
+ insects     0.466806 0.018651         25        significant
+ mammals    -0.581927 0.000743         30 highly significant
+reptiles     0.449134 0.053725         19    not significant
+
+Results saved to: output/experiments/bmf/animals/exemplar/all/2/correlation_analysis_results.csv
+Enriched table saved to: output/experiments/bmf/animals/exemplar/all/2/typicality_similarity_enriched.csv
+Processing duration: 0.083s
+
+==========================================================================================
+Run 2 | started 2026-03-13T10:01:50.590699Z
+==========================================================================================
+\n$ .venv/bin/python scripts/extract_animals_by_label.py --run 2 --runs-root output/experiments/bmf/animals/exemplar/all --animals data/animal_exemplar_feature_matrix_dichotomized.csv --feature-freq data/sum_features_freq_normalized_exemplar.csv --param isColumnSplit=true --param max_col=15 --param max_row=15 --param prah=0.60\n\n$ .venv/bin/python scripts/visualize_bundles.py --run 2 --runs-root output/experiments/bmf/animals/exemplar/all --base-matrix data/animal_exemplar_feature_matrix_dichotomized.csv\n\n$ .venv/bin/python scripts/reconstruct_matrix_from_best_mapping.py 2 --runs-root output/experiments/bmf/animals/exemplar/all --rows 129 --cols 764 --no-print\n\n$ .venv/bin/python scripts/correlation_analysis.py --run 2 --runs-root output/experiments/bmf/animals/exemplar/all --input-path data/animal_exemplar_feature_matrix_dichotomized.csv --domain animal --similarity-measure jaccard\n\nRun 2 | finished 2026-03-13T10:01:51.812296Z\n

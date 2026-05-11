@@ -1,0 +1,17 @@
+Run ID: user_based
+Labels: 76
+Mean purity: 73.45%
+Weighted purity: 48.55%
+Best distinct 5-category match: 93/129 (72.09%)
+Category totals:
+birds: 30
+fish: 23
+insects: 26
+mammals: 30
+reptiles: 20
+Best distinct mapping (category -> label):
+birds -> Label 9 (matched=28, purity=54.90%, recall=93.33%)
+fish -> Label 33 (matched=17, purity=50.00%, recall=73.91%)
+insects -> Label 54 (matched=22, purity=91.67%, recall=84.62%)
+mammals -> Label 43 (matched=21, purity=100.00%, recall=70.00%)
+reptiles -> Label 71 (matched=5, purity=100.00%, recall=25.00%)

@@ -1,0 +1,20 @@
+Run ID: 2
+Deleni params: {"isColumnSplit": true, "max_col": 15, "max_row": 15, "prah": 0.6}
+Labels: 28
+Mean purity: 82.07%
+Weighted purity: 74.91%
+Best distinct 5-category match: 115/162 (70.99%)
+Category totals:
+clothing: 29
+kitchen utensils: 33
+musical instruments: 26
+tools: 28
+vehicles: 28
+weapons: 18
+Best distinct mapping (category -> label):
+clothing -> Label 8 (matched=14, purity=87.50%, recall=48.28%)
+kitchen utensils -> Label 20 (matched=29, purity=82.86%, recall=87.88%)
+musical instruments -> Label 2 (matched=26, purity=72.22%, recall=100.00%)
+tools -> Label 14 (matched=23, purity=74.19%, recall=82.14%)
+vehicles -> Label 26 (matched=8, purity=100.00%, recall=28.57%)
+weapons -> Label 16 (matched=15, purity=88.24%, recall=83.33%)

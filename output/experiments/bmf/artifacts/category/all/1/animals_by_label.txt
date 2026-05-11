@@ -1,0 +1,329 @@
+Label 2:
+blouse
+pants
+shirt
+hat
+coat
+jeans
+dress
+suit
+beanie
+cap
+pyjamas
+skirt
+dungarees
+shorts
+scarf
+sweater
+top
+pullover
+t-shirt
+mittens
+
+Label 3:
+mug
+car
+scooter
+motorbike
+bus
+truck
+van
+submarine
+helicopter
+hovercraft
+jeep
+subway train
+motorbike.1
+tractor
+tram
+train
+airplane
+truck.1
+
+Label 4:
+bra
+tie
+tracksuit
+boots
+belt
+shoes
+panties
+socks
+bathing suit
+accordion
+banjo
+bass guitar
+cello
+double bass
+bagpipe
+drum set
+flute
+bassoon
+flute.1
+guitar
+harp
+clarinet
+harpsichord
+harmonica
+organ
+pan flute
+piano
+saxophone
+synthesizer
+tambourine
+trombone
+drum
+trumpet
+violin
+
+Label 5:
+blouse
+pants
+shirt
+hat
+coat
+dress
+beanie
+pyjamas
+skirt
+dungarees
+shorts
+scarf
+sweater
+top
+pullover
+t-shirt
+mittens
+
+Label 6:
+sword
+anvil
+adjustable spanner
+wheelbarrow
+wrench
+oil can
+plough
+screwdriver
+grinding disc
+nail
+wire brush
+file
+level
+
+Label 7:
+can opener
+whisk
+nutcracker
+pan
+grater
+scissors
+colander
+wok
+sieve
+knuckle dusters
+bow
+slingshot
+club
+spear
+sword
+whip
+anvil
+drill
+wheelbarrow
+oil can
+plough
+grinding disc
+nail
+wire brush
+paint brush
+file
+level
+
+Label 8:
+car
+
+Label 9:
+bra
+tie
+jeans
+tracksuit
+suit
+cap
+panties
+socks
+bathing suit
+
+Label 10:
+bazooka
+dagger
+rifle
+grenade
+canon
+machine gun
+pistol
+chisel
+adjustable spanner
+hammer
+clamp
+knife
+wrench
+filling knife
+plane
+screwdriver
+tongs
+saw
+
+Label 11:
+truck
+van
+submarine
+jeep
+tractor
+truck.1
+
+Label 12:
+dagger
+
+Label 13:
+double barrelled shotgun
+axe
+crowbar
+pickaxe
+crowbar.1
+shovel
+
+Label 14:
+paint brush
+
+Label 15:
+bazooka
+dagger
+rifle
+machine gun
+pistol
+knife
+
+Label 16:
+can opener
+whisk
+nutcracker
+pan
+grater
+scissors
+colander
+wok
+sieve
+knuckle dusters
+bow
+canon
+slingshot
+club
+spear
+sword
+whip
+anvil
+drill
+adjustable spanner
+clamp
+wheelbarrow
+wrench
+oil can
+plough
+plane
+screwdriver
+grinding disc
+nail
+wire brush
+tongs
+paint brush
+file
+level
+
+Label 17:
+toaster
+stove
+spatula
+shield
+rope
+
+Label 18:
+plate
+bottle
+fridge
+glass
+percolator
+bowl
+microwave oven
+oven
+electric kettle
+rocket
+stick
+vacuum cleaner
+
+Label 19:
+mug
+scooter
+motorbike
+bus
+helicopter
+hovercraft
+subway train
+motorbike.1
+tram
+train
+airplane
+
+Label 20:
+bass guitar
+drum set
+flute
+bassoon
+flute.1
+harpsichord
+harmonica
+organ
+pan flute
+piano
+saxophone
+synthesizer
+tambourine
+trombone
+drum
+trumpet
+violin
+
+Label 21:
+boots
+belt
+accordion
+banjo
+cello
+double bass
+bagpipe
+guitar
+harp
+clarinet
+
+Label 22:
+sword
+anvil
+wheelbarrow
+oil can
+plough
+nail
+wire brush
+file
+level
+
+Label 23:
+piano
+violin
+
+Label 24:
+scissors
+grinding disc
+
+Label 25:
+pan
+colander
+wok

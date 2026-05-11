@@ -1,0 +1,494 @@
+Label 2:
+towel
+place mat
+boots
+car
+boat
+scooter
+motorbike
+bus
+truck
+van
+trailer
+submarine
+bicycle
+go-cart
+helicopter
+hovercraft
+jeep
+cart
+carriage
+(hot air) balloon
+subway train
+motorbike
+rocket
+skateboard
+sled
+kick scooter
+taxi
+tractor
+tram
+train
+airplane
+truck
+Zeppelin
+
+Label 3:
+apron
+bra
+tie
+hat
+suit
+pyjamas
+belt
+dungarees
+top
+bathing suit
+
+Label 4:
+blouse
+pants
+shirt
+coat
+jeans
+tracksuit
+dress
+beanie
+cap
+skirt
+shoes
+shorts
+scarf
+panties
+socks
+sweater
+pullover
+t-shirt
+mittens
+
+Label 5:
+accordion
+banjo
+cello
+cymbals
+double bass
+bagpipe
+drum set
+flute
+bassoon
+harp
+clarinet
+harpsichord
+organ
+pan flute
+saxophone
+synthesizer
+tambourine
+triangle
+trombone
+trumpet
+violin
+
+Label 6:
+can opener
+bottle
+glass
+grater
+spatula
+fork
+sieve
+lawn mower
+vacuum cleaner
+
+Label 7:
+blouse
+shirt
+coat
+jeans
+tracksuit
+dress
+beanie
+cap
+shoes
+shorts
+scarf
+panties
+t-shirt
+
+Label 8:
+pants
+skirt
+socks
+sweater
+pullover
+mittens
+
+Label 9:
+can opener
+bottle
+glass
+grater
+scissors
+spatula
+fork
+sieve
+bass guitar
+harmonica
+piano
+bazooka
+knuckle dusters
+bow
+dagger
+rifle
+grenade
+canon
+slingshot
+club
+machine gun
+pistol
+shield
+spear
+stick
+double barrelled shotgun
+sword
+whip
+anvil
+chisel
+axe
+drill
+crowbar
+adjustable spanner
+lawn mower
+hammer
+clamp
+pickaxe
+wheelbarrow
+knife
+wrench
+oilcan
+filling knife
+plough
+plane
+shovel
+screwdriver
+grinding disc
+nail
+wire brush
+vacuum cleaner
+tongs
+rope
+paint brush
+file
+level
+saw
+
+Label 10:
+plate
+spoon
+mixer
+nutcracker
+pot
+
+Label 11:
+plate
+toaster
+stove
+fridge
+kettle
+whisk
+percolator
+bowl
+spoon
+microwave oven
+mixer
+nutcracker
+place mat
+oven
+pan
+pot
+mug
+teaspoon
+colander
+electric kettle
+scales
+wok
+boat
+truck
+van
+submarine
+helicopter
+hovercraft
+jeep
+(hot air) balloon
+subway train
+rocket
+skateboard
+sled
+kick scooter
+tractor
+tram
+train
+airplane
+Zeppelin
+tank
+
+Label 12:
+towel
+boots
+car
+scooter
+motorbike
+bus
+trailer
+bicycle
+go-cart
+cart
+motorbike
+taxi
+truck
+
+Label 13:
+plate
+toaster
+stove
+fridge
+kettle
+whisk
+percolator
+bowl
+spoon
+microwave oven
+mixer
+nutcracker
+oven
+pan
+pot
+mug
+teaspoon
+colander
+electric kettle
+scales
+wok
+tank
+
+Label 14:
+towel
+place mat
+boots
+car
+boat
+scooter
+motorbike
+bus
+truck
+van
+trailer
+submarine
+bicycle
+go-cart
+helicopter
+hovercraft
+jeep
+cart
+(hot air) balloon
+subway train
+motorbike
+rocket
+skateboard
+sled
+kick scooter
+taxi
+tractor
+tram
+train
+airplane
+truck
+Zeppelin
+
+Label 15:
+recorder
+guitar
+drum
+crowbar
+
+Label 16:
+nutcracker
+
+Label 17:
+plate
+toaster
+stove
+fridge
+kettle
+whisk
+percolator
+bowl
+spoon
+microwave oven
+mixer
+oven
+pan
+pot
+mug
+teaspoon
+colander
+electric kettle
+scales
+wok
+tank
+
+Label 18:
+car
+scooter
+motorbike
+bus
+trailer
+go-cart
+motorbike
+
+Label 19:
+crowbar
+adjustable spanner
+clamp
+tongs
+
+Label 20:
+scissors
+bass guitar
+harmonica
+piano
+bazooka
+knuckle dusters
+bow
+dagger
+rifle
+grenade
+canon
+slingshot
+club
+machine gun
+pistol
+shield
+spear
+stick
+double barrelled shotgun
+sword
+whip
+anvil
+chisel
+axe
+drill
+lawn mower
+hammer
+pickaxe
+wheelbarrow
+knife
+wrench
+oilcan
+filling knife
+plough
+plane
+shovel
+screwdriver
+grinding disc
+nail
+wire brush
+rope
+paint brush
+file
+level
+saw
+
+Label 21:
+nail
+saw
+
+Label 22:
+scissors
+harmonica
+piano
+bazooka
+knuckle dusters
+bow
+dagger
+rifle
+grenade
+canon
+slingshot
+club
+machine gun
+pistol
+shield
+spear
+stick
+double barrelled shotgun
+sword
+whip
+anvil
+chisel
+axe
+drill
+lawn mower
+hammer
+pickaxe
+wheelbarrow
+knife
+wrench
+oilcan
+filling knife
+plough
+plane
+shovel
+screwdriver
+grinding disc
+wire brush
+rope
+paint brush
+file
+level
+
+Label 23:
+anvil
+chisel
+axe
+drill
+hammer
+pickaxe
+knife
+wrench
+oilcan
+filling knife
+shovel
+screwdriver
+grinding disc
+wire brush
+rope
+file
+
+Label 24:
+scissors
+bazooka
+knuckle dusters
+bow
+dagger
+rifle
+grenade
+canon
+slingshot
+club
+machine gun
+pistol
+shield
+spear
+stick
+double barrelled shotgun
+sword
+whip
+lawn mower
+wheelbarrow
+knife
+plough
+paint brush
+
+Label 25:
+knife

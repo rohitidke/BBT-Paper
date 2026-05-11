@@ -1,0 +1,6 @@
+category,correlation,p_value,n_samples,significance
+birds,-0.16941,0.388788,28,not significant
+fish,-0.050812,0.8179,23,not significant
+insects,-0.03579,0.865135,25,not significant
+mammals,0.440518,0.014836,30,significant
+reptiles,0.572883,0.010353,19,significant

@@ -1,0 +1,349 @@
+Label 2:
+monkey
+beaver
+bison
+donkey
+giraffe
+deer
+dog
+polar bear
+kangaroo
+cat
+cow
+lion
+rhinoceros
+hippopotamus
+elephant
+horse
+sheep
+tiger
+pig
+fox
+wolf
+zebra
+penguin
+anchovy
+dolphin
+trout
+shark
+herring
+squid
+cod
+carp
+orca
+eel
+piranha
+plaice
+flatfish
+sperm whale
+ray
+sardine
+pike
+stickleback
+sole
+whale
+salmon
+swordfish
+
+Label 3:
+dromedary
+llama
+
+Label 4:
+bison
+dromedary
+donkey
+giraffe
+deer
+dog
+polar bear
+cow
+llama
+lion
+rhinoceros
+hippopotamus
+elephant
+horse
+tiger
+zebra
+dolphin
+shark
+carp
+orca
+sperm whale
+whale
+
+Label 5:
+cricket
+wasp
+
+Label 6:
+magpie
+pheasant
+rooster
+turkey
+cabary
+kip
+cuckoo
+crow
+chickadee
+blackbird
+sparrow
+parrot
+parakeet
+peacock
+robin
+woodpecker
+swallow
+bee
+leech
+horsefly
+centipede
+fruit fly
+bumblebee
+cockroach
+beetle
+dragonfly
+ladybug
+louse
+maybug
+ant
+moth
+mosquito
+earwig
+wood louse
+caterpillar
+spider
+grasshopper
+fly
+butterfly
+flee
+worm
+blindworm
+
+Label 7:
+mouse
+bat
+eagle
+dove
+duck
+vulture
+seagull
+stork
+pelican
+heron
+owl
+falcon
+swan
+viger
+boa
+cobra
+gecko
+lizard
+chameleon
+frog
+iguana
+toad
+python
+salamander
+snake
+monitor lizard
+
+Label 8:
+squirrel
+hedgehog
+hamster
+rabbit
+ostrich
+goldfish
+alligator
+dinosaur
+caiman
+crocodile
+tortoise
+turtle
+
+Label 9:
+alligator
+caiman
+crocodile
+
+Label 10:
+beaver
+bison
+donkey
+giraffe
+deer
+dog
+polar bear
+kangaroo
+cow
+lion
+rhinoceros
+hippopotamus
+elephant
+horse
+tiger
+wolf
+zebra
+dolphin
+trout
+shark
+carp
+orca
+sperm whale
+pike
+stickleback
+sole
+whale
+salmon
+swordfish
+
+Label 11:
+dromedary
+llama
+lion
+elephant
+horse
+zebra
+
+Label 12:
+bison
+donkey
+giraffe
+deer
+dog
+polar bear
+cow
+rhinoceros
+hippopotamus
+horse
+tiger
+zebra
+dolphin
+shark
+carp
+orca
+sperm whale
+whale
+
+Label 13:
+wolf
+
+Label 14:
+monkey
+
+Label 15:
+beaver
+kangaroo
+sheep
+fox
+wolf
+anchovy
+trout
+herring
+squid
+cod
+piranha
+plaice
+flatfish
+ray
+sardine
+pike
+stickleback
+sole
+salmon
+swordfish
+
+Label 16:
+beaver
+kangaroo
+trout
+pike
+stickleback
+sole
+salmon
+swordfish
+
+Label 17:
+magpie
+pheasant
+rooster
+turkey
+cabary
+kip
+cuckoo
+crow
+chickadee
+blackbird
+sparrow
+parrot
+parakeet
+peacock
+robin
+woodpecker
+swallow
+spider
+blindworm
+
+Label 18:
+mouse
+bat
+eagle
+dove
+duck
+vulture
+seagull
+heron
+owl
+falcon
+viger
+gecko
+lizard
+chameleon
+frog
+toad
+salamander
+
+Label 19:
+stork
+pelican
+swan
+boa
+cobra
+iguana
+python
+snake
+monitor lizard
+
+Label 20:
+beaver
+kangaroo
+trout
+pike
+stickleback
+sole
+salmon
+swordfish
+
+Label 21:
+bison
+donkey
+giraffe
+deer
+dog
+polar bear
+cow
+lion
+rhinoceros
+hippopotamus
+elephant
+horse
+tiger
+zebra
+dolphin
+shark
+carp
+orca
+sperm whale
+whale

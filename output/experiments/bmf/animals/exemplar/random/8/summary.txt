@@ -1,0 +1,18 @@
+Run ID: 8
+Deleni params: {"isColumnSplit": false, "max_col": 16, "max_row": 20, "prah": 0.55}
+Labels: 6
+Mean purity: 62.09%
+Weighted purity: 56.14%
+Best distinct 5-category match: 83/129 (64.34%)
+Category totals:
+birds: 30
+fish: 23
+insects: 26
+mammals: 30
+reptiles: 20
+Best distinct mapping (category -> label):
+birds -> Label 2 (matched=17, purity=89.47%, recall=56.67%)
+fish -> Label 5 (matched=22, purity=42.31%, recall=95.65%)
+insects -> Label 3 (matched=16, purity=69.57%, recall=61.54%)
+mammals -> Label 4 (matched=19, purity=54.29%, recall=63.33%)
+reptiles -> Label 6 (matched=9, purity=46.88%, recall=45.00%)

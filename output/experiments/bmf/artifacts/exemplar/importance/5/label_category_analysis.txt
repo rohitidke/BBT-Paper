@@ -1,0 +1,185 @@
+Label 2 (n=44):
+clothing: 0
+kitchen utensils: 1
+musical instruments: 3
+tools: 24
+vehicles: 0
+weapons: 15
+unknown: 1
+dominant: tools (24/44, purity=54.5%, recall=24/28=85.7%, f1=66.7%)
+avg_feature_freq_weight: 0.0715 (mapped_features=31/31)
+
+Label 3 (n=36):
+clothing: 0
+kitchen utensils: 0
+musical instruments: 26
+tools: 9
+vehicles: 0
+weapons: 0
+unknown: 1
+dominant: musical instruments (26/36, purity=72.2%, recall=26/26=100.0%, f1=83.9%)
+avg_feature_freq_weight: 0.0765 (mapped_features=13/13)
+
+Label 4 (n=49):
+clothing: 0
+kitchen utensils: 2
+musical instruments: 3
+tools: 26
+vehicles: 0
+weapons: 17
+unknown: 1
+dominant: tools (26/49, purity=53.1%, recall=26/28=92.9%, f1=67.5%)
+avg_feature_freq_weight: 0.0084 (mapped_features=10/10)
+
+Label 5 (n=25):
+clothing: 0
+kitchen utensils: 0
+musical instruments: 23
+tools: 1
+vehicles: 0
+weapons: 0
+unknown: 1
+dominant: musical instruments (23/25, purity=92.0%, recall=23/26=88.5%, f1=90.2%)
+avg_feature_freq_weight: 0.0297 (mapped_features=7/7)
+
+Label 6 (n=67):
+clothing: 1
+kitchen utensils: 31
+musical instruments: 0
+tools: 3
+vehicles: 29
+weapons: 3
+dominant: kitchen utensils (31/67, purity=46.3%, recall=31/33=93.9%, f1=62.0%)
+avg_feature_freq_weight: 0.0593 (mapped_features=17/17)
+
+Label 7 (n=30):
+clothing: 28
+kitchen utensils: 1
+musical instruments: 0
+tools: 0
+vehicles: 1
+weapons: 0
+dominant: clothing (28/30, purity=93.3%, recall=28/29=96.6%, f1=94.9%)
+avg_feature_freq_weight: 0.0593 (mapped_features=17/17)
+
+Label 8 (n=15):
+clothing: 0
+kitchen utensils: 14
+musical instruments: 0
+tools: 1
+vehicles: 0
+weapons: 0
+dominant: kitchen utensils (14/15, purity=93.3%, recall=14/33=42.4%, f1=58.3%)
+avg_feature_freq_weight: 0.0110 (mapped_features=1/1)
+
+Label 9 (n=21):
+clothing: 0
+kitchen utensils: 0
+musical instruments: 21
+tools: 0
+vehicles: 0
+weapons: 0
+dominant: musical instruments (21/21, purity=100.0%, recall=21/26=80.8%, f1=89.4%)
+avg_feature_freq_weight: 0.0110 (mapped_features=1/1)
+
+Label 10 (n=4):
+clothing: 0
+kitchen utensils: 0
+musical instruments: 2
+tools: 1
+vehicles: 0
+weapons: 0
+unknown: 1
+dominant: musical instruments (2/4, purity=50.0%, recall=2/26=7.7%, f1=13.3%)
+avg_feature_freq_weight: 0.0110 (mapped_features=1/1)
+
+Label 11 (n=21):
+clothing: 0
+kitchen utensils: 0
+musical instruments: 21
+tools: 0
+vehicles: 0
+weapons: 0
+dominant: musical instruments (21/21, purity=100.0%, recall=21/26=80.8%, f1=89.4%)
+avg_feature_freq_weight: 0.0486 (mapped_features=4/4)
+
+Label 12 (n=4):
+clothing: 0
+kitchen utensils: 0
+musical instruments: 2
+tools: 1
+vehicles: 0
+weapons: 0
+unknown: 1
+dominant: musical instruments (2/4, purity=50.0%, recall=2/26=7.7%, f1=13.3%)
+avg_feature_freq_weight: 0.0597 (mapped_features=6/6)
+
+Label 13 (n=17):
+clothing: 0
+kitchen utensils: 0
+musical instruments: 0
+tools: 2
+vehicles: 0
+weapons: 15
+dominant: weapons (15/17, purity=88.2%, recall=15/18=83.3%, f1=85.7%)
+avg_feature_freq_weight: 0.0730 (mapped_features=1/1)
+
+Label 14 (n=6):
+clothing: 0
+kitchen utensils: 2
+musical instruments: 0
+tools: 2
+vehicles: 0
+weapons: 2
+dominant: kitchen utensils (2/6, purity=33.3%, recall=2/33=6.1%, f1=10.3%)
+avg_feature_freq_weight: 0.0486 (mapped_features=4/4)
+
+Label 15 (n=61):
+clothing: 1
+kitchen utensils: 29
+musical instruments: 0
+tools: 1
+vehicles: 29
+weapons: 1
+dominant: kitchen utensils (29/61, purity=47.5%, recall=29/33=87.9%, f1=61.7%)
+avg_feature_freq_weight: 0.0486 (mapped_features=4/4)
+
+Label 16 (n=28):
+clothing: 1
+kitchen utensils: 2
+musical instruments: 0
+tools: 0
+vehicles: 25
+weapons: 0
+dominant: vehicles (25/28, purity=89.3%, recall=25/28=89.3%, f1=89.3%)
+avg_feature_freq_weight: 0.0424 (mapped_features=37/37)
+
+Label 17 (n=30):
+clothing: 28
+kitchen utensils: 1
+musical instruments: 0
+tools: 0
+vehicles: 1
+weapons: 0
+dominant: clothing (28/30, purity=93.3%, recall=28/29=96.6%, f1=94.9%)
+avg_feature_freq_weight: 0.0382 (mapped_features=11/11)
+
+Label 18 (n=8):
+clothing: 0
+kitchen utensils: 0
+musical instruments: 0
+tools: 0
+vehicles: 8
+weapons: 0
+dominant: vehicles (8/8, purity=100.0%, recall=8/28=28.6%, f1=44.4%)
+avg_feature_freq_weight: 0.1169 (mapped_features=6/6)
+
+Label 19 (n=19):
+clothing: 19
+kitchen utensils: 0
+musical instruments: 0
+tools: 0
+vehicles: 0
+weapons: 0
+dominant: clothing (19/19, purity=100.0%, recall=19/29=65.5%, f1=79.2%)
+avg_feature_freq_weight: 0.0491 (mapped_features=8/8)

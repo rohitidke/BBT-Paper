@@ -1,0 +1,167 @@
+category,exemplar,typicality_rating
+tools,anvil,11.1428571428571
+tools,chisel,16.1071428571428
+tools,axe,15.9642857142857
+tools,drill,17.3571428571428
+tools,crowbar,14.8928571428571
+tools,adjustable spanner,16.4074074074074
+tools,lawn mower,12.1785714285714
+tools,hammer,18.4285714285714
+tools,clamp,12.2592592592592
+tools,pickaxe,14.9629629629629
+tools,crowbar,14.5714285714285
+tools,wheelbarrow,14.5714285714285
+tools,wrench,16.037037037037
+tools,oil can,10.7777777777777
+tools,filling knife,14.1428571428571
+tools,plough,12.7142857142857
+tools,plane,13.1153846153846
+tools,shovel,17.5357142857142
+tools,screwdriver,17.5714285714285
+tools,grinding disc,15.3214285714285
+tools,nail,11.9642857142857
+tools,wire brush,11.6428571428571
+tools,vacuum cleaner,8.21428571428571
+tools,tongs,16.8571428571428
+tools,rope,9.46428571428571
+tools,paint brush,13.0
+tools,file,12.0357142857142
+tools,level,14.1428571428571
+tools,saw,17.9642857142857
+vehicles,car,19.6785714285714
+vehicles,boat,12.75
+vehicles,scooter,16.75
+vehicles,motorbike,17.25
+vehicles,bus,18.5
+vehicles,truck,17.0714285714285
+vehicles,van,18.1785714285714
+vehicles,trailer,12.6071428571428
+vehicles,submarine,7.32142857142857
+vehicles,bicycle,17.0714285714285
+vehicles,go-cart,9.96428571428571
+vehicles,helicopter,12.6785714285714
+vehicles,hovercraft,9.52173913043478
+vehicles,jeep,17.9285714285714
+vehicles,cart,10.2142857142857
+vehicles,carriage,11.8571428571428
+vehicles,(hot air) balloon,9.28571428571428
+vehicles,subway train,13.8148148148148
+vehicles,motorbike,17.3214285714285
+vehicles,rocket,6.5
+vehicles,skateboard,8.53571428571428
+vehicles,sled,8.07142857142857
+vehicles,kick scooter,10.3214285714285
+vehicles,taxi,17.5
+vehicles,tractor,12.1071428571428
+vehicles,tram,16.5714285714285
+vehicles,train,17.5357142857142
+vehicles,airplane,15.0357142857142
+vehicles,truck,17.8928571428571
+vehicles,Zeppelin,8.37037037037037
+clothing,bra,13.6785714285714
+clothing,blouse,17.4285714285714
+clothing,pants,18.25
+clothing,tie,12.9285714285714
+clothing,shirt,18.0714285714285
+clothing,hat,11.2142857142857
+clothing,coat,17.7857142857142
+clothing,jeans,18.0
+clothing,tracksuit,15.5357142857142
+clothing,dress,17.0357142857142
+clothing,suit,17.0357142857142
+clothing,boots,12.5357142857142
+clothing,beanie,11.4642857142857
+clothing,cap,11.9285714285714
+clothing,pyjamas,13.1071428571428
+clothing,belt,10.8571428571428
+clothing,skirt,17.8214285714285
+clothing,dungarees,14.2307692307692
+clothing,shoes,12.3571428571428
+clothing,shorts,16.6785714285714
+clothing,scarf,12.0
+clothing,panties,13.6428571428571
+clothing,socks,14.4285714285714
+clothing,sweater,17.3214285714285
+clothing,t-shirt,16.9642857142857
+clothing,top,18.2857142857142
+clothing,pullover,17.7857142857142
+clothing,mittens,11.2142857142857
+clothing,bathing suit,11.8214285714285
+kitchen utensils,can opener,15.8214285714285
+kitchen utensils,plate,16.1785714285714
+kitchen utensils,toaster,15.4642857142857
+kitchen utensils,bottle,11.7857142857142
+kitchen utensils,stove,18.4642857142857
+kitchen utensils,fridge,15.8214285714285
+kitchen utensils,glass,14.3214285714285
+kitchen utensils,towel,12.3928571428571
+kitchen utensils,kettle,14.8214285714285
+kitchen utensils,whisk,16.9285714285714
+kitchen utensils,percolator,16.7777777777777
+kitchen utensils,bowl,15.8928571428571
+kitchen utensils,spoon,16.4285714285714
+kitchen utensils,knife,16.4285714285714
+kitchen utensils,microwave oven,17.1428571428571
+kitchen utensils,mixer,17.4642857142857
+kitchen utensils,nutcracker,12.2962962962962
+kitchen utensils,place mat,12.1071428571428
+kitchen utensils,oven,17.75
+kitchen utensils,pan,18.3928571428571
+kitchen utensils,pot,16.9285714285714
+kitchen utensils,grater,16.2142857142857
+kitchen utensils,scissors,10.9285714285714
+kitchen utensils,apron,14.3571428571428
+kitchen utensils,spatula,14.8571428571428
+kitchen utensils,mug,14.1428571428571
+kitchen utensils,teaspoon,14.6428571428571
+kitchen utensils,colander,16.4285714285714
+kitchen utensils,fork,16.3571428571428
+kitchen utensils,electric kettle,16.3571428571428
+kitchen utensils,scales,12.3928571428571
+kitchen utensils,wok,17.1071428571428
+kitchen utensils,sieve,15.1785714285714
+musical instruments,accordion,15.8928571428571
+musical instruments,banjo,14.8571428571428
+musical instruments,bass guitar,17.5
+musical instruments,cello,17.2857142857142
+musical instruments,cymbals,14.3214285714285
+musical instruments,double bass,16.9285714285714
+musical instruments,bagpipe,15.1428571428571
+musical instruments,drum set,17.6785714285714
+musical instruments,flute,18.0
+musical instruments,bassoon,15.4444444444444
+musical instruments,flute,17.8571428571428
+musical instruments,guitar,19.25
+musical instruments,harp,16.0
+musical instruments,clarinet,17.25
+musical instruments,harpsichord,14.4230769230769
+musical instruments,harmonica,15.7142857142857
+musical instruments,organ,16.1785714285714
+musical instruments,pan flute,14.25
+musical instruments,piano,19.4285714285714
+musical instruments,saxophone,18.4642857142857
+musical instruments,synthesizer,15.6785714285714
+musical instruments,tambourine,14.3333333333333
+musical instruments,triangle,14.5357142857142
+musical instruments,trombone,15.9259259259259
+musical instruments,drum,16.6071428571428
+musical instruments,trumpet,18.4444444444444
+musical instruments,violin,18.8571428571428
+weapons,bazooka,18.5
+weapons,knuckle dusters,11.1071428571428
+weapons,bow,11.3571428571428
+weapons,dagger,17.2142857142857
+weapons,rifle,19.3928571428571
+weapons,grenade,17.3214285714285
+weapons,canon,16.9642857142857
+weapons,slingshot,11.5714285714285
+weapons,club,14.3928571428571
+weapons,machine gun,18.8571428571428
+weapons,pistol,19.4285714285714
+weapons,shield,7.10714285714285
+weapons,spear,13.8928571428571
+weapons,stick,9.0
+weapons,tank,13.1428571428571
+weapons,double barrelled shotgun,16.5714285714285
+weapons,sword,17.0714285714285
+weapons,whip,9.85714285714285

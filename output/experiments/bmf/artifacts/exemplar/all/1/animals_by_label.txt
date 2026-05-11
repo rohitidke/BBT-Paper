@@ -1,0 +1,889 @@
+Label 2:
+boat
+scooter
+motorbike
+submarine
+helicopter
+hovercraft
+subway train
+rocket
+taxi
+tram
+airplane
+tank
+
+Label 3:
+car
+bus
+truck
+van
+jeep
+motorbike.1
+tractor
+train
+truck.1
+
+Label 4:
+kick scooter
+bow
+dagger
+slingshot
+club
+spear
+sword
+axe
+lawn mower
+crowbar.1
+wheelbarrow
+plough
+grinding disc
+saw
+
+Label 5:
+trailer
+bicycle
+go-cart
+cart
+carriage
+(hot air) balloon
+Zeppelin
+bazooka
+rifle
+grenade
+canon
+machine gun
+pistol
+double barrelled shotgun
+
+Label 6:
+fridge
+sled
+knuckle dusters
+shield
+stick
+whip
+anvil
+chisel
+crowbar
+hammer
+pickaxe
+knife
+plane
+shovel
+vacuum cleaner
+
+Label 7:
+towel
+apron
+bra
+blouse
+pants
+tie
+shirt
+hat
+coat
+jeans
+tracksuit
+dress
+suit
+boots
+beanie
+cap
+pyjamas
+belt
+skirt
+dungarees
+shoes
+shorts
+scarf
+panties
+socks
+sweater
+top
+pullover
+t-shirt
+mittens
+bathing suit
+accordion
+banjo
+bass guitar
+cello
+cymbals
+double bass
+bagpipe
+drum set
+flute
+bassoon
+recorder
+guitar
+harp
+clarinet
+harpsichord
+harmonica
+organ
+pan flute
+piano
+saxophone
+synthesizer
+tambourine
+triangle
+trombone
+drum
+trumpet
+violin
+
+Label 8:
+place mat
+
+Label 9:
+can opener
+plate
+toaster
+bottle
+stove
+glass
+kettle
+whisk
+percolator
+bowl
+spoon
+mixer
+nutcracker
+oven
+pan
+pot
+grater
+scissors
+spatula
+mug
+teaspoon
+colander
+fork
+electric kettle
+scales
+wok
+sieve
+oilcan
+rope
+paint brush
+
+Label 10:
+fridge
+microwave oven
+skateboard
+sled
+knuckle dusters
+shield
+stick
+whip
+anvil
+chisel
+drill
+crowbar
+adjustable spanner
+hammer
+clamp
+pickaxe
+knife
+wrench
+filling knife
+plane
+shovel
+screwdriver
+nail
+wire brush
+vacuum cleaner
+tongs
+file
+level
+
+Label 11:
+stove
+fridge
+microwave oven
+mixer
+oven
+scissors
+skateboard
+sled
+knuckle dusters
+shield
+stick
+whip
+anvil
+chisel
+drill
+crowbar
+adjustable spanner
+hammer
+clamp
+pickaxe
+knife
+wrench
+oilcan
+filling knife
+plane
+shovel
+screwdriver
+nail
+wire brush
+vacuum cleaner
+tongs
+file
+level
+
+Label 12:
+kick scooter
+bow
+dagger
+slingshot
+club
+spear
+sword
+axe
+crowbar.1
+wheelbarrow
+plough
+grinding disc
+saw
+
+Label 13:
+apron
+boots
+cap
+belt
+shoes
+bathing suit
+accordion
+banjo
+bass guitar
+cello
+double bass
+bagpipe
+flute
+bassoon
+recorder
+guitar
+harp
+clarinet
+harmonica
+pan flute
+saxophone
+trombone
+violin
+
+Label 14:
+towel
+apron
+bra
+blouse
+pants
+tie
+shirt
+hat
+coat
+jeans
+tracksuit
+dress
+suit
+boots
+beanie
+cap
+pyjamas
+belt
+skirt
+dungarees
+shoes
+shorts
+scarf
+panties
+socks
+sweater
+top
+pullover
+t-shirt
+mittens
+bathing suit
+accordion
+banjo
+bass guitar
+cello
+double bass
+bagpipe
+flute
+bassoon
+recorder
+guitar
+harp
+clarinet
+harmonica
+pan flute
+saxophone
+trombone
+trumpet
+violin
+
+Label 15:
+cymbals
+drum set
+harpsichord
+organ
+piano
+synthesizer
+tambourine
+triangle
+drum
+
+Label 16:
+towel
+apron
+boots
+belt
+accordion
+banjo
+bass guitar
+cello
+cymbals
+double bass
+bagpipe
+drum set
+flute
+bassoon
+recorder
+harp
+clarinet
+harpsichord
+harmonica
+organ
+pan flute
+piano
+saxophone
+synthesizer
+tambourine
+triangle
+trombone
+drum
+trumpet
+violin
+
+Label 17:
+skateboard
+sled
+knuckle dusters
+whip
+drill
+crowbar
+hammer
+pickaxe
+shovel
+
+Label 18:
+can opener
+toaster
+kettle
+whisk
+percolator
+spoon
+nutcracker
+pan
+pot
+grater
+spatula
+teaspoon
+colander
+fork
+electric kettle
+scales
+wok
+sieve
+rope
+paint brush
+
+Label 19:
+can opener
+toaster
+percolator
+nutcracker
+electric kettle
+rope
+paint brush
+
+Label 20:
+microwave oven
+shield
+stick
+anvil
+chisel
+adjustable spanner
+clamp
+knife
+wrench
+filling knife
+plane
+screwdriver
+nail
+wire brush
+tongs
+file
+level
+
+Label 21:
+bra
+tie
+hat
+coat
+jeans
+tracksuit
+suit
+beanie
+cap
+pyjamas
+skirt
+dungarees
+scarf
+top
+mittens
+bathing suit
+
+Label 22:
+tie
+hat
+jeans
+tracksuit
+suit
+dungarees
+
+Label 23:
+shield
+
+Label 24:
+can opener
+toaster
+kettle
+percolator
+mixer
+nutcracker
+scissors
+electric kettle
+scales
+rope
+paint brush
+
+Label 25:
+towel
+boots
+belt
+accordion
+bass guitar
+cello
+cymbals
+double bass
+bagpipe
+drum set
+flute
+bassoon
+harp
+clarinet
+harpsichord
+harmonica
+organ
+piano
+saxophone
+synthesizer
+tambourine
+triangle
+trombone
+drum
+trumpet
+
+Label 26:
+plate
+bottle
+glass
+whisk
+bowl
+spoon
+spatula
+mug
+teaspoon
+colander
+sieve
+
+Label 27:
+kettle
+pan
+pot
+grater
+fork
+scales
+wok
+
+Label 28:
+skateboard
+
+Label 29:
+plate
+bottle
+glass
+bowl
+place mat
+mug
+teaspoon
+drum set
+synthesizer
+
+Label 30:
+skateboard
+drill
+
+Label 31:
+skateboard
+
+Label 32:
+boots
+
+Label 33:
+blouse
+pants
+shirt
+dress
+beanie
+skirt
+shorts
+scarf
+panties
+socks
+sweater
+pullover
+t-shirt
+mittens
+
+Label 34:
+bra
+tie
+hat
+coat
+jeans
+tracksuit
+suit
+pyjamas
+dungarees
+top
+bathing suit
+
+Label 35:
+bra
+coat
+tracksuit
+pyjamas
+top
+
+Label 36:
+bathing suit
+
+Label 37:
+apron
+boots
+cap
+shoes
+accordion
+banjo
+bass guitar
+cello
+double bass
+bagpipe
+flute
+bassoon
+recorder
+guitar
+harp
+clarinet
+harmonica
+pan flute
+saxophone
+trombone
+violin
+
+Label 38:
+whisk
+pot
+spatula
+fork
+
+Label 39:
+can opener
+toaster
+kettle
+percolator
+mixer
+nutcracker
+pan
+grater
+scissors
+electric kettle
+scales
+wok
+rope
+paint brush
+
+Label 40:
+bra
+blouse
+pants
+shirt
+coat
+dress
+beanie
+pyjamas
+skirt
+shorts
+scarf
+panties
+socks
+sweater
+top
+pullover
+t-shirt
+mittens
+
+Label 41:
+tie
+hat
+coat
+jeans
+tracksuit
+suit
+cap
+pyjamas
+dungarees
+bathing suit
+
+Label 42:
+harpsichord
+piano
+
+Label 43:
+boots
+bass guitar
+cello
+double bass
+bassoon
+harmonica
+saxophone
+
+Label 44:
+towel
+belt
+accordion
+bagpipe
+flute
+harp
+clarinet
+trombone
+trumpet
+
+Label 45:
+bottle
+
+Label 46:
+dress
+sweater
+pullover
+t-shirt
+
+Label 47:
+bra
+pants
+coat
+beanie
+pyjamas
+skirt
+shorts
+scarf
+panties
+socks
+top
+mittens
+
+Label 48:
+cap
+
+Label 49:
+apron
+boots
+shoes
+accordion
+banjo
+bass guitar
+cello
+double bass
+bagpipe
+flute
+bassoon
+recorder
+guitar
+harp
+clarinet
+harmonica
+pan flute
+saxophone
+trombone
+violin
+
+Label 50:
+bra
+blouse
+pants
+tie
+shirt
+hat
+coat
+jeans
+tracksuit
+dress
+suit
+beanie
+pyjamas
+skirt
+dungarees
+shorts
+scarf
+panties
+socks
+sweater
+top
+pullover
+t-shirt
+mittens
+bathing suit
+
+Label 51:
+apron
+boots
+cap
+shoes
+accordion
+banjo
+bass guitar
+cello
+double bass
+bagpipe
+flute
+bassoon
+recorder
+guitar
+clarinet
+harmonica
+pan flute
+saxophone
+trombone
+violin
+
+Label 52:
+boots
+accordion
+bass guitar
+cello
+double bass
+bagpipe
+flute
+bassoon
+harp
+clarinet
+harmonica
+saxophone
+trombone
+
+Label 53:
+towel
+belt
+cymbals
+harpsichord
+organ
+piano
+tambourine
+triangle
+drum
+trumpet
+
+Label 54:
+stove
+microwave oven
+mixer
+oven
+scissors
+clamp
+oilcan
+filling knife
+wire brush
+file
+level
+
+Label 55:
+adjustable spanner
+wrench
+screwdriver
+nail
+tongs
+
+Label 56:
+mixer
+scissors
+
+Label 57:
+microwave oven
+
+Label 58:
+stove
+oven
+oilcan
+
+Label 59:
+shield
+stick
+anvil
+adjustable spanner
+knife
+plane
+screwdriver
+nail
+tongs
+
+Label 60:
+piano
+
+Label 61:
+apron
+shoes
+banjo
+bassoon
+recorder
+guitar
+pan flute
+violin
+
+Label 62:
+t-shirt
+
+Label 63:
+bra
+pants
+tie
+hat
+coat
+jeans
+tracksuit
+suit
+beanie
+pyjamas
+skirt
+dungarees
+shorts
+scarf
+panties
+socks
+sweater
+top
+pullover
+mittens
+bathing suit

@@ -1,0 +1,270 @@
+Label 2:
+bee
+leech
+horsefly
+centipede
+fruit fly
+bumblebee
+cockroach
+beetle
+cricket
+dragonfly
+ladybug
+louse
+maybug
+ant
+moth
+mosquito
+earwig
+wood louse
+caterpillar
+grasshopper
+fly
+butterfly
+flee
+wasp
+worm
+
+Label 3:
+cricket
+wasp
+
+Label 4:
+magpie
+pheasant
+rooster
+turkey
+cabary
+kip
+cuckoo
+crow
+chickadee
+seagull
+blackbird
+sparrow
+parrot
+parakeet
+peacock
+robin
+woodpecker
+swallow
+spider
+gecko
+blindworm
+
+Label 5:
+frog
+
+Label 6:
+bison
+donkey
+giraffe
+deer
+dog
+polar bear
+cow
+lion
+rhinoceros
+hippopotamus
+elephant
+horse
+tiger
+zebra
+dolphin
+shark
+carp
+orca
+sperm whale
+whale
+
+Label 7:
+dromedary
+llama
+
+Label 8:
+magpie
+pheasant
+cabary
+kip
+cuckoo
+crow
+chickadee
+blackbird
+sparrow
+parrot
+parakeet
+peacock
+robin
+woodpecker
+swallow
+spider
+
+Label 9:
+mouse
+bat
+eagle
+duck
+vulture
+heron
+owl
+falcon
+viger
+lizard
+chameleon
+frog
+iguana
+toad
+python
+salamander
+snake
+
+Label 10:
+squirrel
+hedgehog
+hamster
+rabbit
+stork
+pelican
+ostrich
+swan
+goldfish
+alligator
+boa
+cobra
+dinosaur
+caiman
+crocodile
+tortoise
+monitor lizard
+turtle
+
+Label 11:
+alligator
+caiman
+crocodile
+
+Label 12:
+pig
+penguin
+
+Label 13:
+monkey
+beaver
+kangaroo
+cat
+sheep
+fox
+wolf
+anchovy
+trout
+herring
+squid
+cod
+eel
+piranha
+plaice
+flatfish
+ray
+sardine
+pike
+stickleback
+sole
+salmon
+swordfish
+
+Label 14:
+python
+snake
+
+Label 15:
+anchovy
+herring
+ray
+sardine
+
+Label 16:
+horsefly
+centipede
+cockroach
+beetle
+dragonfly
+ant
+moth
+mosquito
+earwig
+caterpillar
+grasshopper
+flee
+worm
+
+Label 17:
+leech
+wood louse
+butterfly
+
+Label 18:
+monkey
+
+Label 19:
+beaver
+kangaroo
+trout
+pike
+stickleback
+sole
+salmon
+swordfish
+
+Label 20:
+python
+snake
+
+Label 21:
+bumblebee
+
+Label 22:
+mouse
+bat
+eagle
+duck
+vulture
+heron
+owl
+falcon
+viger
+lizard
+chameleon
+frog
+toad
+salamander
+
+Label 23:
+stork
+pelican
+swan
+boa
+cobra
+iguana
+python
+snake
+monitor lizard
+
+Label 24:
+stork
+pelican
+swan
+boa
+cobra
+python
+snake
+monitor lizard
+
+Label 25:
+squirrel
+hedgehog
+hamster
+ostrich
+goldfish
+dinosaur
+tortoise
+turtle

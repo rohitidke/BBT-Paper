@@ -1,0 +1,352 @@
+Label 2:
+car
+boat
+scooter
+motorbike
+bus
+truck
+van
+trailer
+submarine
+bicycle
+go-cart
+helicopter
+hovercraft
+jeep
+cart
+carriage
+subway train
+motorbike
+rocket
+taxi
+tractor
+tram
+train
+airplane
+truck
+Zeppelin
+tank
+lawn mower
+
+Label 3:
+place mat
+apron
+bra
+blouse
+pants
+tie
+shirt
+hat
+coat
+jeans
+tracksuit
+dress
+suit
+boots
+beanie
+cap
+pyjamas
+belt
+skirt
+dungarees
+shoes
+shorts
+scarf
+panties
+socks
+sweater
+top
+pullover
+t-shirt
+mittens
+bathing suit
+accordion
+banjo
+bass guitar
+cello
+cymbals
+double bass
+bagpipe
+drum set
+flute
+bassoon
+recorder
+guitar
+harp
+clarinet
+harpsichord
+harmonica
+organ
+pan flute
+piano
+saxophone
+tambourine
+triangle
+trombone
+drum
+trumpet
+violin
+
+Label 4:
+can opener
+plate
+toaster
+bottle
+glass
+towel
+kettle
+whisk
+percolator
+bowl
+spoon
+microwave oven
+mixer
+nutcracker
+pan
+pot
+grater
+scissors
+spatula
+mug
+teaspoon
+colander
+fork
+electric kettle
+scales
+wok
+sieve
+synthesizer
+bow
+dagger
+club
+spear
+stick
+whip
+anvil
+chisel
+axe
+drill
+crowbar
+adjustable spanner
+hammer
+clamp
+crowbar
+knife
+wrench
+oilcan
+filling knife
+plane
+shovel
+screwdriver
+nail
+wire brush
+vacuum cleaner
+tongs
+rope
+paint brush
+file
+level
+saw
+
+Label 5:
+grenade
+slingshot
+
+Label 6:
+boat
+bus
+truck
+trailer
+bicycle
+go-cart
+
+Label 7:
+place mat
+banjo
+bass guitar
+cello
+cymbals
+double bass
+drum set
+recorder
+guitar
+harp
+harpsichord
+harmonica
+organ
+piano
+tambourine
+triangle
+drum
+trumpet
+paint brush
+
+Label 8:
+toaster
+kettle
+pan
+scissors
+wok
+stick
+whip
+anvil
+chisel
+drill
+hammer
+screwdriver
+nail
+vacuum cleaner
+tongs
+
+Label 9:
+car
+scooter
+motorbike
+van
+submarine
+helicopter
+hovercraft
+jeep
+cart
+carriage
+subway train
+motorbike
+rocket
+taxi
+tractor
+tram
+train
+airplane
+truck
+Zeppelin
+tank
+
+Label 10:
+bicycle
+go-cart
+
+Label 11:
+tie
+accordion
+bagpipe
+flute
+bassoon
+clarinet
+pan flute
+saxophone
+trombone
+violin
+
+Label 12:
+nutcracker
+pot
+fork
+
+Label 13:
+place mat
+tie
+accordion
+banjo
+bass guitar
+cello
+cymbals
+double bass
+bagpipe
+drum set
+flute
+bassoon
+recorder
+guitar
+harp
+clarinet
+harpsichord
+harmonica
+organ
+pan flute
+saxophone
+tambourine
+triangle
+trombone
+drum
+trumpet
+violin
+
+Label 14:
+whisk
+percolator
+nutcracker
+grater
+colander
+fork
+electric kettle
+sieve
+filling knife
+wire brush
+level
+
+Label 15:
+can opener
+toaster
+kettle
+pan
+pot
+wok
+stick
+whip
+chisel
+adjustable spanner
+clamp
+wrench
+screwdriver
+nail
+vacuum cleaner
+tongs
+file
+
+Label 16:
+microwave oven
+mixer
+scissors
+bow
+dagger
+club
+spear
+anvil
+axe
+drill
+crowbar
+hammer
+crowbar
+knife
+plane
+shovel
+saw
+
+Label 17:
+car
+boat
+bus
+truck
+van
+trailer
+cart
+motorbike
+truck
+
+Label 18:
+scooter
+motorbike
+submarine
+helicopter
+hovercraft
+jeep
+carriage
+subway train
+rocket
+taxi
+tractor
+tram
+train
+airplane
+Zeppelin
+tank

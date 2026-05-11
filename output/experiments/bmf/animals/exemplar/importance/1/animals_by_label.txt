@@ -1,0 +1,372 @@
+Label 2:
+anchovy
+trout
+herring
+squid
+cod
+carp
+eel
+piranha
+plaice
+flatfish
+ray
+sardine
+pike
+stickleback
+sole
+salmon
+swordfish
+leech
+
+Label 3:
+goldfish
+shark
+sperm whale
+bee
+horsefly
+centipede
+fruit fly
+bumblebee
+cockroach
+beetle
+cricket
+dragonfly
+ladybug
+louse
+maybug
+ant
+moth
+mosquito
+earwig
+wood louse
+caterpillar
+spider
+fly
+butterfly
+flee
+wasp
+worm
+blindworm
+toad
+
+Label 4:
+dolphin
+orca
+whale
+grasshopper
+viger
+alligator
+boa
+cobra
+gecko
+lizard
+caiman
+chameleon
+frog
+crocodile
+iguana
+python
+salamander
+tortoise
+snake
+monitor lizard
+turtle
+
+Label 5:
+owl
+
+Label 6:
+trout
+herring
+cod
+eel
+
+Label 7:
+sperm whale
+
+Label 8:
+beaver
+bison
+dromedary
+hedgehog
+giraffe
+hamster
+deer
+polar bear
+kangaroo
+rabbit
+mouse
+rhinoceros
+hippopotamus
+elephant
+pig
+bat
+zebra
+penguin
+dinosaur
+
+Label 9:
+monkey
+squirrel
+donkey
+dog
+cat
+cow
+llama
+lion
+horse
+sheep
+tiger
+fox
+wolf
+eagle
+dove
+duck
+magpie
+pheasant
+vulture
+rooster
+turkey
+cabary
+kip
+cuckoo
+crow
+chickadee
+seagull
+blackbird
+sparrow
+stork
+parrot
+parakeet
+peacock
+pelican
+heron
+robin
+woodpecker
+ostrich
+falcon
+swan
+swallow
+
+Label 10:
+lion
+tiger
+wolf
+
+Label 11:
+goldfish
+sperm whale
+horsefly
+centipede
+fruit fly
+bumblebee
+cockroach
+dragonfly
+louse
+ant
+moth
+mosquito
+earwig
+wood louse
+caterpillar
+spider
+flee
+worm
+
+Label 12:
+bee
+maybug
+fly
+wasp
+toad
+
+Label 13:
+toad
+
+Label 14:
+monkey
+squirrel
+donkey
+dog
+cat
+cow
+llama
+horse
+sheep
+fox
+dove
+duck
+pheasant
+vulture
+rooster
+turkey
+kip
+crow
+seagull
+pelican
+ostrich
+swan
+
+Label 15:
+eagle
+magpie
+cabary
+cuckoo
+chickadee
+blackbird
+sparrow
+stork
+parrot
+parakeet
+peacock
+heron
+robin
+woodpecker
+falcon
+swallow
+
+Label 16:
+eagle
+dove
+magpie
+pheasant
+vulture
+rooster
+turkey
+cabary
+kip
+cuckoo
+crow
+chickadee
+seagull
+blackbird
+sparrow
+stork
+parrot
+parakeet
+peacock
+pelican
+heron
+robin
+woodpecker
+ostrich
+falcon
+swallow
+
+Label 17:
+goldfish
+horsefly
+centipede
+fruit fly
+cockroach
+dragonfly
+louse
+ant
+earwig
+wood louse
+spider
+flee
+
+Label 18:
+sperm whale
+bee
+bumblebee
+maybug
+moth
+mosquito
+caterpillar
+fly
+wasp
+worm
+
+Label 19:
+monkey
+squirrel
+donkey
+dog
+cat
+cow
+llama
+horse
+sheep
+fox
+dove
+duck
+vulture
+seagull
+pelican
+ostrich
+swan
+
+Label 20:
+pheasant
+rooster
+turkey
+kip
+crow
+
+Label 21:
+eagle
+cabary
+cuckoo
+chickadee
+sparrow
+heron
+robin
+woodpecker
+falcon
+swallow
+
+Label 22:
+goldfish
+sperm whale
+horsefly
+centipede
+fruit fly
+cockroach
+dragonfly
+louse
+ant
+earwig
+wood louse
+spider
+flee
+worm
+
+Label 23:
+vulture
+
+Label 24:
+dove
+seagull
+pelican
+ostrich
+
+Label 25:
+eagle
+magpie
+pheasant
+vulture
+rooster
+turkey
+cabary
+kip
+cuckoo
+crow
+chickadee
+blackbird
+sparrow
+stork
+parrot
+parakeet
+peacock
+heron
+robin
+woodpecker
+falcon
+swallow
+
+Label 26:
+squirrel
+llama
+fox

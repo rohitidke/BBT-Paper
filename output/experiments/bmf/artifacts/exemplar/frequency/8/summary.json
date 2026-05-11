@@ -1,0 +1,88 @@
+{
+  "run_id": "8",
+  "created_utc": "2026-03-14T21:09:09.239059+00:00",
+  "inputs": {
+    "animals": "output/experiments/bmd/artifacts/exemplar/frequency/data_matrix.csv",
+    "labels": "output/experiments/bmf/artifacts/exemplar/frequency/8/label_membership_cells.csv",
+    "typicality": "data/artifacts/typicality_ratings.csv",
+    "feature_freq": "data/artifacts/sum_features_freq_normalized_artifacts_exemplar.csv",
+    "skip_label": null
+  },
+  "params": {
+    "isColumnSplit": "false",
+    "max_col": "16",
+    "max_row": "20",
+    "prah": "0.55"
+  },
+  "metrics": {
+    "n_labels": 16,
+    "mean_purity_percent": 82.47,
+    "weighted_purity_percent": 72.97,
+    "distinct_category_match_count": 107,
+    "distinct_category_match_accuracy_percent": 66.05,
+    "category_totals": {
+      "clothing": 29,
+      "kitchen utensils": 33,
+      "musical instruments": 26,
+      "tools": 28,
+      "vehicles": 28,
+      "weapons": 18
+    },
+    "best_distinct_mapping": [
+      {
+        "category": "clothing",
+        "label": 3,
+        "matched_count": 29,
+        "purity_percent": 50.88,
+        "avg_feature_freq_weight": 0.152368,
+        "recall_percent": 100.0,
+        "f1_percent": 67.44
+      },
+      {
+        "category": "kitchen utensils",
+        "label": 4,
+        "matched_count": 28,
+        "purity_percent": 47.46,
+        "avg_feature_freq_weight": 0.149011,
+        "recall_percent": 84.85,
+        "f1_percent": 60.87
+      },
+      {
+        "category": "musical instruments",
+        "label": 12,
+        "matched_count": 24,
+        "purity_percent": 88.89,
+        "avg_feature_freq_weight": 0.198806,
+        "recall_percent": 92.31,
+        "f1_percent": 90.57
+      },
+      {
+        "category": "tools",
+        "label": 14,
+        "matched_count": 9,
+        "purity_percent": 52.94,
+        "avg_feature_freq_weight": 0.094525,
+        "recall_percent": 32.14,
+        "f1_percent": 40.0
+      },
+      {
+        "category": "vehicles",
+        "label": 17,
+        "matched_count": 15,
+        "purity_percent": 93.75,
+        "avg_feature_freq_weight": 0.185262,
+        "recall_percent": 53.57,
+        "f1_percent": 68.18
+      },
+      {
+        "category": "weapons",
+        "label": 6,
+        "matched_count": 2,
+        "purity_percent": 100.0,
+        "avg_feature_freq_weight": 0.115828,
+        "recall_percent": 11.11,
+        "f1_percent": 20.0
+      }
+    ]
+  }
+}

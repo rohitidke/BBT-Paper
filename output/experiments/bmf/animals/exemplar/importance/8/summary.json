@@ -1,0 +1,78 @@
+{
+  "run_id": "8",
+  "created_utc": "2026-03-14T12:54:56.791184+00:00",
+  "inputs": {
+    "animals": "output/experiments/bmd/animals/exemplar/importance/data_matrix.csv",
+    "labels": "output/experiments/bmf/animals/exemplar/importance/8/label_membership_cells.csv",
+    "typicality": "data/animals/typicality_ratings.csv",
+    "feature_freq": "data/animals/sum_features_freq_normalized_exemplar.csv",
+    "skip_label": null
+  },
+  "params": {
+    "isColumnSplit": "false",
+    "max_col": "16",
+    "max_row": "20",
+    "prah": "0.55"
+  },
+  "metrics": {
+    "n_labels": 19,
+    "mean_purity_percent": 82.42,
+    "weighted_purity_percent": 74.41,
+    "distinct_category_match_count": 62,
+    "distinct_category_match_accuracy_percent": 48.06,
+    "category_totals": {
+      "birds": 30,
+      "fish": 23,
+      "insects": 26,
+      "mammals": 30,
+      "reptiles": 20
+    },
+    "best_distinct_mapping": [
+      {
+        "category": "birds",
+        "label": 11,
+        "matched_count": 11,
+        "purity_percent": 50.0,
+        "avg_feature_freq_weight": 0.162218,
+        "recall_percent": 36.67,
+        "f1_percent": 42.31
+      },
+      {
+        "category": "fish",
+        "label": 2,
+        "matched_count": 17,
+        "purity_percent": 94.44,
+        "avg_feature_freq_weight": 0.057888,
+        "recall_percent": 73.91,
+        "f1_percent": 82.92
+      },
+      {
+        "category": "insects",
+        "label": 3,
+        "matched_count": 23,
+        "purity_percent": 79.31,
+        "avg_feature_freq_weight": 0.057888,
+        "recall_percent": 88.46,
+        "f1_percent": 83.64
+      },
+      {
+        "category": "mammals",
+        "label": 16,
+        "matched_count": 10,
+        "purity_percent": 58.82,
+        "avg_feature_freq_weight": 0.080082,
+        "recall_percent": 33.33,
+        "f1_percent": 42.55
+      },
+      {
+        "category": "reptiles",
+        "label": 10,
+        "matched_count": 1,
+        "purity_percent": 100.0,
+        "avg_feature_freq_weight": 0.074655,
+        "recall_percent": 5.0,
+        "f1_percent": 9.52
+      }
+    ]
+  }
+}

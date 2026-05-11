@@ -1,0 +1,4 @@
+exemplar,categories,n_categories,reason
+axe,tools | weapons,2,ambiguous_exemplar_multiple_categories
+knife,kitchen utensils | tools,2,ambiguous_exemplar_multiple_categories
+rope,tools | weapons,2,ambiguous_exemplar_multiple_categories

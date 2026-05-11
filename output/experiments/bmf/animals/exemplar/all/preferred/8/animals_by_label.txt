@@ -1,0 +1,235 @@
+Label 2:
+alligator
+dinosaur
+caiman
+crocodile
+
+Label 3:
+bee
+fruit fly
+bumblebee
+louse
+moth
+mosquito
+flee
+wasp
+
+Label 4:
+herring
+leech
+horsefly
+centipede
+cockroach
+beetle
+cricket
+dragonfly
+ladybug
+maybug
+ant
+earwig
+wood louse
+caterpillar
+grasshopper
+fly
+butterfly
+worm
+
+Label 5:
+bee
+horsefly
+centipede
+fruit fly
+bumblebee
+cockroach
+beetle
+cricket
+dragonfly
+ladybug
+louse
+maybug
+ant
+moth
+mosquito
+earwig
+wood louse
+caterpillar
+grasshopper
+fly
+butterfly
+flee
+wasp
+worm
+
+Label 6:
+dove
+magpie
+rooster
+cabary
+cuckoo
+crow
+chickadee
+blackbird
+sparrow
+parakeet
+robin
+woodpecker
+swallow
+anchovy
+trout
+goldfish
+squid
+cod
+carp
+eel
+plaice
+flatfish
+ray
+sardine
+pike
+stickleback
+sole
+salmon
+swordfish
+spider
+
+Label 7:
+duck
+pheasant
+turkey
+kip
+seagull
+swan
+piranha
+sperm whale
+blindworm
+frog
+toad
+salamander
+
+Label 8:
+dromedary
+donkey
+lion
+elephant
+tiger
+
+Label 9:
+monkey
+bison
+giraffe
+dog
+polar bear
+kangaroo
+cat
+cow
+llama
+rhinoceros
+hippopotamus
+elephant
+horse
+sheep
+tiger
+fox
+wolf
+zebra
+
+Label 10:
+dromedary
+donkey
+lion
+
+Label 11:
+llama
+rhinoceros
+hippopotamus
+sheep
+
+Label 12:
+bee
+horsefly
+centipede
+fruit fly
+bumblebee
+cockroach
+beetle
+cricket
+dragonfly
+ladybug
+louse
+maybug
+ant
+moth
+mosquito
+earwig
+wood louse
+caterpillar
+fly
+flee
+wasp
+worm
+
+Label 13:
+grasshopper
+butterfly
+
+Label 14:
+magpie
+cabary
+crow
+chickadee
+blackbird
+sparrow
+robin
+woodpecker
+swallow
+anchovy
+trout
+goldfish
+squid
+cod
+carp
+eel
+plaice
+flatfish
+ray
+sardine
+pike
+stickleback
+sole
+salmon
+swordfish
+spider
+
+Label 15:
+cuckoo
+parakeet
+
+Label 16:
+louse
+flee
+
+Label 17:
+chickadee
+blackbird
+sparrow
+woodpecker
+swallow
+anchovy
+trout
+squid
+cod
+carp
+eel
+plaice
+flatfish
+ray
+sardine
+pike
+stickleback
+sole
+salmon
+swordfish
+spider
+
+Label 18:
+goldfish

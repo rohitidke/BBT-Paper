@@ -1,0 +1,386 @@
+Label 2:
+plate
+towel
+bowl
+place mat
+apron
+mug
+bra
+blouse
+pants
+tie
+shirt
+hat
+tracksuit
+dress
+beanie
+cap
+pyjamas
+skirt
+shorts
+scarf
+panties
+socks
+sweater
+top
+pullover
+t-shirt
+mittens
+bathing suit
+
+Label 3:
+bass guitar
+cymbals
+flute
+bassoon
+recorder
+guitar
+clarinet
+tambourine
+triangle
+boat
+scooter
+motorbike
+bus
+truck
+submarine
+helicopter
+jeep
+cart
+subway train
+motorbike
+rocket
+taxi
+tractor
+tram
+train
+airplane
+truck
+bazooka
+rifle
+grenade
+canon
+slingshot
+machine gun
+pistol
+shield
+tank
+double barrelled shotgun
+grinding disc
+
+Label 4:
+accordion
+pan flute
+trailer
+(hot air) balloon
+anvil
+
+Label 5:
+clarinet
+submarine
+helicopter
+subway train
+train
+canon
+tank
+
+Label 6:
+accordion
+bass guitar
+cymbals
+flute
+bassoon
+recorder
+guitar
+pan flute
+tambourine
+triangle
+boat
+scooter
+motorbike
+bus
+truck
+trailer
+jeep
+cart
+(hot air) balloon
+motorbike
+rocket
+taxi
+tractor
+tram
+airplane
+truck
+bazooka
+rifle
+grenade
+slingshot
+machine gun
+pistol
+shield
+double barrelled shotgun
+anvil
+grinding disc
+
+Label 7:
+toaster
+kettle
+mixer
+scissors
+wok
+skateboard
+chisel
+adjustable spanner
+clamp
+wrench
+oilcan
+filling knife
+screwdriver
+wire brush
+vacuum cleaner
+tongs
+rope
+paint brush
+
+Label 8:
+fridge
+car
+van
+go-cart
+bow
+club
+spear
+stick
+sword
+whip
+crowbar
+pickaxe
+crowbar
+plough
+
+Label 9:
+toaster
+stove
+kettle
+microwave oven
+mixer
+oven
+scissors
+wok
+harmonica
+bicycle
+skateboard
+sled
+kick scooter
+knuckle dusters
+dagger
+chisel
+axe
+drill
+adjustable spanner
+lawn mower
+hammer
+clamp
+wheelbarrow
+knife
+wrench
+oilcan
+filling knife
+plane
+shovel
+screwdriver
+nail
+wire brush
+vacuum cleaner
+tongs
+rope
+paint brush
+file
+level
+saw
+
+Label 10:
+can opener
+bottle
+glass
+whisk
+percolator
+spoon
+nutcracker
+pan
+pot
+grater
+spatula
+teaspoon
+colander
+fork
+electric kettle
+scales
+sieve
+coat
+jeans
+suit
+boots
+belt
+dungarees
+shoes
+
+Label 11:
+plate
+glass
+towel
+bowl
+place mat
+apron
+mug
+teaspoon
+colander
+tie
+coat
+jeans
+tracksuit
+dress
+suit
+boots
+cap
+pyjamas
+skirt
+dungarees
+shoes
+scarf
+mittens
+
+Label 12:
+bra
+blouse
+pants
+shirt
+hat
+beanie
+shorts
+panties
+socks
+sweater
+top
+pullover
+t-shirt
+bathing suit
+
+Label 13:
+hovercraft
+
+Label 14:
+car
+van
+bow
+club
+spear
+stick
+sword
+whip
+plough
+
+Label 15:
+can opener
+whisk
+percolator
+nutcracker
+pan
+pot
+grater
+fork
+electric kettle
+scales
+sieve
+belt
+
+Label 16:
+anvil
+
+Label 17:
+can opener
+bottle
+glass
+spoon
+pot
+spatula
+teaspoon
+colander
+fork
+coat
+jeans
+suit
+boots
+dungarees
+shoes
+
+Label 18:
+bazooka
+rifle
+
+Label 19:
+axe
+drill
+lawn mower
+wheelbarrow
+shovel
+
+Label 20:
+stove
+kettle
+microwave oven
+mixer
+oven
+harmonica
+bicycle
+sled
+kick scooter
+knuckle dusters
+dagger
+adjustable spanner
+hammer
+clamp
+knife
+plane
+screwdriver
+nail
+wire brush
+vacuum cleaner
+tongs
+file
+level
+saw
+
+Label 21:
+cart
+grenade
+slingshot
+
+Label 22:
+bass guitar
+flute
+bassoon
+recorder
+guitar
+tambourine
+triangle
+boat
+scooter
+motorbike
+bus
+truck
+jeep
+motorbike
+rocket
+taxi
+tractor
+tram
+airplane
+truck
+bazooka
+rifle
+machine gun
+pistol
+shield
+double barrelled shotgun
+grinding disc

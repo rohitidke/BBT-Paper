@@ -1,0 +1,765 @@
+features,freq,normalized_freq
+is small,491.0,1.0
+is a bird,387.0,0.786448
+is an animal,363.0,0.737166
+is big,347.0,0.704312
+can fly,341.0,0.691992
+is an insect,282.0,0.570842
+mammal,281.0,0.568789
+is a fish,273.0,0.552361
+lays eggs,258.0,0.521561
+is brown,239.0,0.482546
+has wings,237.0,0.478439
+lives in water,234.0,0.472279
+is edible,216.0,0.435318
+has four paws,205.0,0.412731
+is grey,185.0,0.371663
+is dangerous,168.0,0.336756
+has feathers,168.0,0.336756
+is green,167.0,0.334702
+lives in the sea,164.0,0.328542
+has a tail,163.0,0.326489
+lives in the zoo,160.0,0.320329
+has scales,156.0,0.312115
+herds,155.0,0.310062
+is a pet,151.0,0.301848
+is black,151.0,0.301848
+can swim,148.0,0.295688
+has a bill,136.0,0.271047
+eats fish,133.0,0.264887
+is a reptile,127.0,0.252567
+lives in the woods,121.0,0.240246
+is white,120.0,0.238193
+has fins,118.0,0.234086
+has gills,117.0,0.232033
+has two paws,115.0,0.227926
+builds nests,112.0,0.221766
+eats insects,102.0,0.201232
+there are many kinds of it,98.0,0.193018
+has sharp teeth,97.0,0.190965
+is tasty,97.0,0.190965
+is fast,97.0,0.190965
+is fished for,89.0,0.174538
+is black and white,89.0,0.174538
+lives in Africa,88.0,0.172485
+stings,86.0,0.168378
+is nasty,85.0,0.166324
+eats plants,83.0,0.162218
+is slippery,83.0,0.162218
+seen mainly in summer,83.0,0.162218
+endangered species,82.0,0.160164
+is a carnivore,81.0,0.158111
+is long,81.0,0.158111
+nocturnal animal,79.0,0.154004
+is beautiful,76.0,0.147844
+has six paws,76.0,0.147844
+has many colours,74.0,0.143737
+crawls,74.0,0.143737
+buzzes,73.0,0.141684
+has a long tail,72.0,0.13963
+has a shield,71.0,0.137577
+lives in warm countries,70.0,0.135524
+is hunted,70.0,0.135524
+stinks,67.0,0.129363
+has a long neck,66.0,0.12731
+has long paws,64.0,0.123203
+the meat is eaten,64.0,0.123203
+runs fast,64.0,0.123203
+can have different colors,61.0,0.117043
+makes a sound,59.0,0.112936
+jumps,59.0,0.112936
+is flat,58.0,0.110883
+lives in a cage,57.0,0.10883
+has feelers,54.0,0.102669
+is an animal of prey,54.0,0.102669
+lives in trees,54.0,0.102669
+is green-brown,53.0,0.100616
+kind of snake,53.0,0.100616
+is slow,52.0,0.098563
+causes itching,50.0,0.094456
+exists in different sizes and kinds,49.0,0.092402
+bites,48.0,0.090349
+eats grass,48.0,0.090349
+is yellow and black,48.0,0.090349
+hairy,48.0,0.090349
+can jump far,48.0,0.090349
+makes a lot of clamor,46.0,0.086242
+sucks blood,46.0,0.086242
+is irritating,45.0,0.084189
+is cute,45.0,0.084189
+quacks,45.0,0.084189
+does not live in Belgium,44.0,0.082136
+lives on a farm,44.0,0.082136
+heavy,44.0,0.082136
+has a pointed mouth,43.0,0.080082
+is a bird of prey,42.0,0.078029
+lives in the wild,42.0,0.078029
+has legs,41.0,0.075975
+is a freshwater fish,41.0,0.075975
+yellow,40.0,0.073922
+appears in fairy tales and stories,40.0,0.073922
+sings (whistles),39.0,0.071869
+has bones,39.0,0.071869
+is thick,38.0,0.069815
+is poisonous,38.0,0.069815
+you can ride on it,38.0,0.069815
+lives in a herd,38.0,0.069815
+eats worms,37.0,0.067762
+has claws,37.0,0.067762
+can be poisonous,37.0,0.067762
+lives nearby the water,37.0,0.067762
+lives in the desert,37.0,0.067762
+makes a hissing noise,37.0,0.067762
+has a long tongue,36.0,0.065708
+doesn't make a sound,36.0,0.065708
+is eaten by birds,36.0,0.065708
+is an amphibian,35.0,0.063655
+is a migratory bird,35.0,0.063655
+takes on the colour of its surroundings,35.0,0.063655
+has a fur (in dutch: vacht),34.0,0.061602
+has no paws,34.0,0.061602
+is ugly,34.0,0.061602
+makes a sharp sound,34.0,0.061602
+is slimy,34.0,0.061602
+feels soft,34.0,0.061602
+sings,34.0,0.061602
+dark colour,33.0,0.059548
+frightens people,33.0,0.059548
+occasionally occurs in films,33.0,0.059548
+is pink,33.0,0.059548
+hunts,32.0,0.057495
+rodent,32.0,0.057495
+lives in grass,32.0,0.057495
+lives in tropical areas,32.0,0.057495
+is smooth,31.0,0.055441
+has a long bill,31.0,0.055441
+doesn't live in our country,31.0,0.055441
+lives on land and sea,31.0,0.055441
+has prickles,30.0,0.053388
+has many paws,30.0,0.053388
+can't fly,30.0,0.053388
+small and large kinds,30.0,0.053388
+lives in nature,30.0,0.053388
+cartoon figure,30.0,0.053388
+incites fear,30.0,0.053388
+is exterminated,30.0,0.053388
+is rare,30.0,0.053388
+gives milk,29.0,0.051335
+is not dangerous,29.0,0.051335
+stands in meadows,29.0,0.051335
+has two eyes,28.0,0.049281
+has a large wingspread,28.0,0.049281
+has short paws,28.0,0.049281
+lives in the ocean,28.0,0.049281
+lives under the ground,28.0,0.049281
+has a sting,27.0,0.047228
+is fin-footed,27.0,0.047228
+is sweet,27.0,0.047228
+does not taste well,27.0,0.047228
+is sometimes eaten by man,27.0,0.047228
+gives pain,26.0,0.045175
+eats grain,26.0,0.045175
+eats plankton,26.0,0.045175
+has a split tongue,26.0,0.045175
+has large eyes,26.0,0.045175
+has eyes,26.0,0.045175
+has teeth,26.0,0.045175
+lives in cold areas,26.0,0.045175
+makes web,26.0,0.045175
+is terrifying,25.0,0.043121
+has large theeth,25.0,0.043121
+has manes,25.0,0.043121
+can be bred,25.0,0.043121
+lives in the jungle,25.0,0.043121
+lives on land,25.0,0.043121
+strong animal,25.0,0.043121
+eats small animals,24.0,0.041068
+has a hunch,24.0,0.041068
+has a trunk,24.0,0.041068
+lives by the sea,24.0,0.041068
+is not very popular among man,24.0,0.041068
+shy,24.0,0.041068
+sheds its skin,24.0,0.041068
+is tinned,24.0,0.041068
+is a scavenging animal,23.0,0.039014
+brings children,23.0,0.039014
+eats mice,23.0,0.039014
+has a big mouth,23.0,0.039014
+is found in a pond,23.0,0.039014
+adores sweetness,23.0,0.039014
+is funny,23.0,0.039014
+lives in a damp climate,23.0,0.039014
+makes an extremely irritating sound,23.0,0.039014
+is red,23.0,0.039014
+does not migrate in the winter,23.0,0.039014
+chirps,23.0,0.039014
+strangles its prey,23.0,0.039014
+eats seed,22.0,0.036961
+has a big bill,22.0,0.036961
+has sharp claws,22.0,0.036961
+can be aggressive,22.0,0.036961
+can talk,22.0,0.036961
+is cold-blooded,22.0,0.036961
+makes honey,22.0,0.036961
+is extinct,22.0,0.036961
+soft fur,22.0,0.036961
+thick skin,21.0,0.034908
+has eight paws,21.0,0.034908
+has hoofs,21.0,0.034908
+is grisly,21.0,0.034908
+feline,21.0,0.034908
+doesn't live long,21.0,0.034908
+resembles horses,21.0,0.034908
+used as a beast of burden,21.0,0.034908
+is found in hair,21.0,0.034908
+is used in competitions,20.0,0.032854
+has long ears,20.0,0.032854
+comes up to light,20.0,0.032854
+occurs frequently,20.0,0.032854
+is a salt-water fish,20.0,0.032854
+is inconspicious,20.0,0.032854
+has an orange bill,20.0,0.032854
+is used in shows,20.0,0.032854
+sits on flowers,20.0,0.032854
+marsupial,19.0,0.030801
+is a thief,19.0,0.030801
+eats bread,19.0,0.030801
+is strong,19.0,0.030801
+lives in australia,19.0,0.030801
+lives in a hole,19.0,0.030801
+rolls up in danger,19.0,0.030801
+tastes salty,19.0,0.030801
+swims in a bowl,19.0,0.030801
+attaches to the body,18.0,0.028747
+has whiskers,18.0,0.028747
+swims in aquariums,18.0,0.028747
+is specked,18.0,0.028747
+is sly,18.0,0.028747
+transferable,18.0,0.028747
+lives on when split in half,18.0,0.028747
+makes a squeaky sound,18.0,0.028747
+bushy tail,18.0,0.028747
+often run over by cars,18.0,0.028747
+sheared for wool,18.0,0.028747
+barks,17.0,0.026694
+grey-white,17.0,0.026694
+has a red breast,17.0,0.026694
+is elongated,17.0,0.026694
+"is red, brown",17.0,0.026694
+is small,17.0,0.026694
+king of animals,17.0,0.026694
+makes not much noise,17.0,0.026694
+reproduces fast,17.0,0.026694
+likes rolling in mud,17.0,0.026694
+graceful,17.0,0.026694
+spits,17.0,0.026694
+is proud,17.0,0.026694
+is eaten when it's Christmas,17.0,0.026694
+makes holes in clothing,16.0,0.024641
+is brown/black,16.0,0.024641
+is a character in Free Willy,16.0,0.024641
+is dangerous to people,16.0,0.024641
+has antlers,16.0,0.024641
+has a crest,16.0,0.024641
+is intelligent,16.0,0.024641
+is reddish brow,16.0,0.024641
+can live to a ripe old age,16.0,0.024641
+makes a sound like a grunt,16.0,0.024641
+is used in stewed eels in chervil sauce,16.0,0.024641
+sleeps upside down,16.0,0.024641
+becomes cocoon,16.0,0.024641
+eats leaves from trees,15.0,0.022587
+eats rats and mice,15.0,0.022587
+shoes and handbags are made of it,15.0,0.022587
+is popular among children,15.0,0.022587
+has tusks,15.0,0.022587
+has white and black stripes,15.0,0.022587
+hibernates,15.0,0.022587
+is well camouflaged,15.0,0.022587
+is orange,15.0,0.022587
+can be found in a fish shop,15.0,0.022587
+is found on plants,15.0,0.022587
+you can find them in homes,15.0,0.022587
+is in a cuckoo clock,15.0,0.022587
+live alone,15.0,0.022587
+lays big eggs,15.0,0.022587
+makes a 'coo' sound,15.0,0.022587
+is red with black spots,15.0,0.022587
+squirts ink,15.0,0.022587
+predecessor of humans,15.0,0.022587
+often becoms a cat's prey,15.0,0.022587
+says cuckoo,15.0,0.022587
+bleats,14.0,0.020534
+has queen,14.0,0.020534
+big ears,14.0,0.020534
+compound eyes,14.0,0.020534
+skin can be used for clothes,14.0,0.020534
+is a type of bee,14.0,0.020534
+is a type of butterfly,14.0,0.020534
+is also a sharp,14.0,0.020534
+can be dangerous,14.0,0.020534
+tickles,14.0,0.020534
+is found in the garden,14.0,0.020534
+creaks when killed,14.0,0.020534
+has peepers,14.0,0.020534
+curly tail,14.0,0.020534
+beautiful colours,14.0,0.020534
+has a sharp view,14.0,0.020534
+kind of lizard,14.0,0.020534
+kind of crocodile,14.0,0.020534
+occasionally washes ashore,14.0,0.020534
+squirts water through an airhole,14.0,0.020534
+sticks its head into the ground,14.0,0.020534
+can be cooked in different ways,14.0,0.020534
+has a fin on its back,14.0,0.020534
+somtimes used in a circus,14.0,0.020534
+glides,14.0,0.020534
+family of the dog,13.0,0.01848
+flutters,13.0,0.01848
+has a horn,13.0,0.01848
+has a small tail,13.0,0.01848
+has horns,13.0,0.01848
+has beautiful feathers,13.0,0.01848
+has two wings,13.0,0.01848
+is dumb,13.0,0.01848
+is initially a caterpillar,13.0,0.01848
+"is grey, brown or white",13.0,0.01848
+is smart,13.0,0.01848
+is a symbol for peace,13.0,0.01848
+is often found under rocks,13.0,0.01848
+comes out of a cocoon,13.0,0.01848
+writhes (twists),13.0,0.01848
+turns in its shell in danger,13.0,0.01848
+lives in fields,13.0,0.01848
+cumbersome,13.0,0.01848
+is messy,13.0,0.01848
+is a girl's name,13.0,0.01848
+is killed by man,13.0,0.01848
+communicates with its congeners,13.0,0.01848
+can be trained,12.0,0.016427
+builds dams,12.0,0.016427
+eats nuts,12.0,0.016427
+striped,12.0,0.016427
+has long hind legs,12.0,0.016427
+has camouflage,12.0,0.016427
+is yellow with brown spots,12.0,0.016427
+can climb well,12.0,0.016427
+appears in songs,12.0,0.016427
+is found in advertising or as brand,12.0,0.016427
+crows,12.0,0.016427
+gets lambs,12.0,0.016427
+lives in America,12.0,0.016427
+live in the mountains,12.0,0.016427
+lives in unhygienic places,12.0,0.016427
+doesn't live on land,12.0,0.016427
+makes an 'oehoe' sound,12.0,0.016427
+makes holes in trees,12.0,0.016427
+makes a strange noise,12.0,0.016427
+is vermin,12.0,0.016427
+is not eaten,12.0,0.016427
+can see in the dark,12.0,0.016427
+exists for ages,11.0,0.014374
+roar,11.0,0.014374
+is lethal,11.0,0.014374
+family of the horse,11.0,0.014374
+has an udder,11.0,0.014374
+has an airhole,11.0,0.014374
+is round,11.0,0.014374
+is bigger than a chicken,11.0,0.014374
+can be caught,11.0,0.014374
+can be won at a fair,11.0,0.014374
+can be filled up,11.0,0.014374
+can purr,11.0,0.014374
+can cause much hinder,11.0,0.014374
+lives in caves,11.0,0.014374
+lives in the dark,11.0,0.014374
+lives in tropical waters,11.0,0.014374
+lives on the north pole,11.0,0.014374
+is used on pizza's,11.0,0.014374
+is a male chicken,11.0,0.014374
+prehistoric animal,11.0,0.014374
+loyal,11.0,0.014374
+is a carnivore and herbivore,11.0,0.014374
+is silvery,11.0,0.014374
+has eight arms,10.0,0.01232
+extracts nectar from flowers,10.0,0.01232
+has a yellow bill,10.0,0.01232
+has a beautiful tail,10.0,0.01232
+has a red dewlap,10.0,0.01232
+swims in rivers,10.0,0.01232
+intelligent,10.0,0.01232
+"is grey, black and white",10.0,0.01232
+is afraid of people,10.0,0.01232
+leaves stings,10.0,0.01232
+is good at diving,10.0,0.01232
+can become pest,10.0,0.01232
+can loose its tail,10.0,0.01232
+stubborn,10.0,0.01232
+produces nits,10.0,0.01232
+wakes up,10.0,0.01232
+the male occurs in different colours,10.0,0.01232
+difficult to exterminate,10.0,0.01232
+prey,10.0,0.01232
+is a type of whale,10.0,0.01232
+doesn't sting,10.0,0.01232
+often sits still,10.0,0.01232
+catches mice,10.0,0.01232
+hides easily,10.0,0.01232
+often sits in parks,10.0,0.01232
+is found on animals,9.0,0.010267
+carries over diseases,9.0,0.010267
+produces blub-sound,9.0,0.010267
+drinks water,9.0,0.010267
+raised by bee-keeper,9.0,0.010267
+eats nectar,9.0,0.010267
+eats flies,9.0,0.010267
+large nostrils,9.0,0.010267
+has two ears,9.0,0.010267
+has a hooked bill,9.0,0.010267
+has a pointed snout,9.0,0.010267
+has a woollen fur,9.0,0.010267
+has bright colours,9.0,0.010267
+has young = cubs,9.0,0.010267
+howls,9.0,0.010267
+lives in a chicken coop,9.0,0.010267
+is found in Belgium,9.0,0.010267
+lives nearby ponds,9.0,0.010267
+lives in a hive,9.0,0.010267
+lives in the North Sea,9.0,0.010267
+lays eggs in the nests of other birds,9.0,0.010267
+looks like a snake,9.0,0.010267
+looks like a lizard,9.0,0.010267
+resembles camels,9.0,0.010267
+moos,9.0,0.010267
+lazy,9.0,0.010267
+lives in the polar regions,9.0,0.010267
+has a rough skin,9.0,0.010267
+swallows its prey in its entirety,9.0,0.010267
+chirps,9.0,0.010267
+waddles,9.0,0.010267
+becomes a butterfly,9.0,0.010267
+is served in a restaurant,9.0,0.010267
+is eaten by other animals,9.0,0.010267
+says heehaw,9.0,0.010267
+is food for larger animals,8.0,0.008214
+protected species,8.0,0.008214
+is expensive,8.0,0.008214
+eats cheese,8.0,0.008214
+used in research,8.0,0.008214
+is eaten on festive dinners,8.0,0.008214
+is athrodopal,8.0,0.008214
+has a large tail,8.0,0.008214
+chews the cud,8.0,0.008214
+has ribs,8.0,0.008214
+is very active,8.0,0.008214
+indians hunted it,8.0,0.008214
+is an exotic animal,8.0,0.008214
+is a type of beetle,8.0,0.008214
+cackles,8.0,0.008214
+has a small head,8.0,0.008214
+climbs in trees,8.0,0.008214
+comes to the surface when it rains,8.0,0.008214
+is found in warm places,8.0,0.008214
+has a long nose in the shape of a sword,8.0,0.008214
+lives in a swamp,8.0,0.008214
+lays eggs in sand,8.0,0.008214
+lies on the sea-floor,8.0,0.008214
+seems mean,8.0,0.008214
+makes a recognizable sound,8.0,0.008214
+is parasite,8.0,0.008214
+is red or black,8.0,0.008214
+stands in the stable,8.0,0.008214
+makes a 'tok tok' sound,8.0,0.008214
+typical ennemy of a cat,8.0,0.008214
+is often released after a wedding,8.0,0.008214
+wings run,8.0,0.008214
+flies high,8.0,0.008214
+the female is brown,8.0,0.008214
+is tinned in oil,8.0,0.008214
+is scary,8.0,0.008214
+can be found in the ardennes,8.0,0.008214
+takes good care of her children,8.0,0.008214
+is used in the saying 'packed like sardines in a tin',7.0,0.00616
+brays,7.0,0.00616
+moves by contracting,7.0,0.00616
+blows up its cheeks,7.0,0.00616
+is bluish grey,7.0,0.00616
+the legs are eaten,7.0,0.00616
+can also refer to a tent stake,7.0,0.00616
+eats acorns,7.0,0.00616
+likes to eat carrots,7.0,0.00616
+eats chicken,7.0,0.00616
+eats people,7.0,0.00616
+family of the camel,7.0,0.00616
+is good for the environment,7.0,0.00616
+has poison fangs,7.0,0.00616
+is a kind of bear,7.0,0.00616
+is aggressive,7.0,0.00616
+the boss among the chickens,7.0,0.00616
+is first a tadpole,7.0,0.00616
+is hermaphrodite,7.0,0.00616
+is white/brown,7.0,0.00616
+can be a greeting,7.0,0.00616
+can be cured,7.0,0.00616
+can climb up a wall,7.0,0.00616
+small cows are calfs,7.0,0.00616
+in the morning,7.0,0.00616
+has beady eyes,7.0,0.00616
+fragile,7.0,0.00616
+lives outdoors,7.0,0.00616
+lives in the open air,7.0,0.00616
+also lives in the city,7.0,0.00616
+especially lives at the coast,7.0,0.00616
+does not lay eggs,7.0,0.00616
+lives in families,7.0,0.00616
+looks like a crocodile,7.0,0.00616
+runs in a mill,7.0,0.00616
+comes up to the surface for air,7.0,0.00616
+mothballs as a remedy,7.0,0.00616
+pecks,7.0,0.00616
+flat tail,7.0,0.00616
+smells blood,7.0,0.00616
+savanne,7.0,0.00616
+some people are allergic to it,7.0,0.00616
+clucks on trees,7.0,0.00616
+lots of hair,7.0,0.00616
+is friendly,7.0,0.00616
+is eaten on Thanksgiving,7.0,0.00616
+sits on fruit,7.0,0.00616
+is attracted by shiny objects,6.0,0.004107
+hatches out other eggs,6.0,0.004107
+carries its child in a pouch,6.0,0.004107
+eats everything,6.0,0.004107
+eats bananas,6.0,0.004107
+eats fruit,6.0,0.004107
+used as a draught animal,6.0,0.004107
+is an articulate animal,6.0,0.004107
+digs holes,6.0,0.004107
+hard,6.0,0.004107
+has round eyes,6.0,0.004107
+has a pungent smell,6.0,0.004107
+has a tongue,6.0,0.004107
+has big claws,6.0,0.004107
+has several stomachs,6.0,0.004107
+usually has one young at a time,6.0,0.004107
+has an eye on its feathers,6.0,0.004107
+has sharp claws,6.0,0.004107
+has pointy ears,6.0,0.004107
+has tentacles,6.0,0.004107
+has many teeth,6.0,0.004107
+has suckers,6.0,0.004107
+leading figures in Jurassic Parc,6.0,0.004107
+is a delicacy,6.0,0.004107
+is healthy,6.0,0.004107
+is lithe,6.0,0.004107
+is light,6.0,0.004107
+is difficult to catch,6.0,0.004107
+is not verry big,6.0,0.004107
+hunts chicken,6.0,0.004107
+can be killed with a fly swatter,6.0,0.004107
+you can boil it,6.0,0.004107
+gnaws on everything,6.0,0.004107
+appears in the tv-programme Skippy,6.0,0.004107
+long teeth,6.0,0.004107
+lives in nests,6.0,0.004107
+lives on the ground,6.0,0.004107
+lives on the steppe,6.0,0.004107
+sometimes lives in church towers,6.0,0.004107
+spring,6.0,0.004107
+lies motionless in the water,6.0,0.004107
+resembles a worm,6.0,0.004107
+male cow = bull,6.0,0.004107
+miaows,6.0,0.004107
+cattle-like animal,6.0,0.004107
+skeletons in museum,6.0,0.004107
+swings from tree to tree,6.0,0.004107
+gabbles,6.0,0.004107
+jumps in the water,6.0,0.004107
+tands in the crib (xmass),6.0,0.004107
+attacks,6.0,0.004107
+often used as laboratory animal,6.0,0.004107
+is sold at the market,6.0,0.004107
+is greasy,6.0,0.004107
+especially occurs in the winter,6.0,0.004107
+used to carry around mail,6.0,0.004107
+wild animal,6.0,0.004107
+shot for its skin,6.0,0.004107
+associated with vampires,6.0,0.004107
+is baked,6.0,0.004107
+zebra crossing (pedestrian-),6.0,0.004107
+is often found on dogs,6.0,0.004107
+attic,6.0,0.004107
+has black eyes,6.0,0.004107
+swims upstream to lay eggs,6.0,0.004107
+breaths under water,5.0,0.002053
+when small piglet,5.0,0.002053
+is blue,5.0,0.002053
+floats on water,5.0,0.002053
+pig nose,5.0,0.002053
+eats plant lice,5.0,0.002053
+eats frogs,5.0,0.002053
+eats from flowers,5.0,0.002053
+eats seals,5.0,0.002053
+soup is made of it,5.0,0.002053
+goes from flower to flower,5.0,0.002053
+"as the saying goes ""a…in the grass""",5.0,0.002053
+not friendly with dogs,5.0,0.002053
+is good for soil,5.0,0.002053
+earths,5.0,0.002053
+grazes,5.0,0.002053
+has a hump to store water,5.0,0.002053
+has a head,5.0,0.002053
+doesn't have 1000 paws,5.0,0.002053
+has large front teeth,5.0,0.002053
+has hierarchy,5.0,0.002053
+has little eyes,5.0,0.002053
+has a mouth,5.0,0.002053
+has a bill with a crop,5.0,0.002053
+has several gaits ao gallop,5.0,0.002053
+has warts,5.0,0.002053
+neighs,5.0,0.002053
+is beige,5.0,0.002053
+is large and fat,5.0,0.002053
+is not expensive,5.0,0.002053
+is cause for arachnophobia,5.0,0.002053
+rises early,5.0,0.002053
+can be used in a salad,5.0,0.002053
+can do without water for long periods,5.0,0.002053
+can kill people,5.0,0.002053
+can sing beautifully,5.0,0.002053
+can be disadvantageous to harvest,5.0,0.002053
+is not good at flying,5.0,0.002053
+can turn his head very far,5.0,0.002053
+has a small bill,5.0,0.002053
+always falls on its paws,5.0,0.002053
+is found all around the world,5.0,0.002053
+short front legs,5.0,0.002053
+"long hind legs, short forelegs",5.0,0.002053
+lives in the primaeval forest,5.0,0.002053
+resembles humans,5.0,0.002053
+resembles cows,5.0,0.002053
+looks like a salamander,5.0,0.002053
+goes slowely,5.0,0.002053
+bleats,5.0,0.002053
+is medium-sized,5.0,0.002053
+neutral scent,5.0,0.002053
+can store food in its bill,5.0,0.002053
+has rings,5.0,0.002053
+rough,5.0,0.002053
+term of abuse (in dutch),5.0,0.002053
+sleeps on a stick,5.0,0.002053
+kind of frog,5.0,0.002053
+is the main character in 'Jaws',5.0,0.002053
+descend from the dinosaur,5.0,0.002053
+is found mainly in southern countries,5.0,0.002053
+especially lives in the country,5.0,0.002053
+is the female of the cock,5.0,0.002053
+was used in medical science in earlier times,5.0,0.002053
+is used in fights,5.0,0.002053
+is collected,5.0,0.002053
+is eaten (with plums),5.0,0.002053
+is eaten with tomato sauce,5.0,0.002053
+is pickled,5.0,0.002053
+is slaughtered,5.0,0.002053
+assosciated with wisdom,5.0,0.002053
+is sandy-coloured,5.0,0.002053
+can be seen on safaris,5.0,0.002053
+is found in clothing,5.0,0.002053
+sits on threads of electricity,5.0,0.002053
+often sits under a piece of wood,5.0,0.002053
+is found in earth,4.0,0.0
+has other name: drosophila,4.0,0.0
+timid animal,4.0,0.0
+known laying in supplies for the winter,4.0,0.0
+is the main character in 'Flipper',4.0,0.0
+vomits pellets,4.0,0.0
+lives in a dolfinarium,4.0,0.0
+carries a ring,4.0,0.0
+skilful person,4.0,0.0
+eats berries,4.0,0.0
+eats hay,4.0,0.0
+eats salad,4.0,0.0
+eats food for fish,4.0,0.0
+external skeleton,4.0,0.0
+related to wasp,4.0,0.0
+filtrate food out of the water with its bill,4.0,0.0
+uses pollen from flowers,4.0,0.0
+is coloured,4.0,0.0
+is difficult to remove from one's body,4.0,0.0
+good sense of smell,4.0,0.0
+is popular and appreciated,4.0,0.0
+inspiration for Batman,4.0,0.0
+has legs,4.0,0.0
+has fat legs,4.0,0.0
+has downy hair,4.0,0.0
+has a 'collar' in its neck,4.0,0.0
+has winter and summerfur,4.0,0.0
+has small paws,4.0,0.0
+has gnawing teeth,4.0,0.0
+leaves stains on one's skin,4.0,0.0
+likes humidity,4.0,0.0
+in a terrarium,4.0,0.0
+Indians or Afrikan,4.0,0.0
+is a type of fly,4.0,0.0
+is not a pet,4.0,0.0
+is short haired,4.0,0.0
+is not poisonous,4.0,0.0
+is seasonal,4.0,0.0
+is spectacular,4.0,0.0
+loves wood,4.0,0.0
+is female,4.0,0.0
+"can be brown, black, white, grey",4.0,0.0
+can be fed,4.0,0.0
+can be taught tricks,4.0,0.0
+can live for a long time without food,4.0,0.0
+can eat people,4.0,0.0
+can be lethal to man,4.0,0.0
+can open its tail,4.0,0.0
+children like to catch them,4.0,0.0
+small ears,4.0,0.0
+smaller than a horse,4.0,0.0
+comes up when it rains,4.0,0.0
+is found on dogs and cats,4.0,0.0
+crawls up trees,4.0,0.0
+breeds rapidly,4.0,0.0
+wags,4.0,0.0
+long hair,4.0,0.0
+lives in dry areas,4.0,0.0
+lives in Europe,4.0,0.0
+doesn't herd,4.0,0.0
+lives among human beings,4.0,0.0
+lays frogspawn,4.0,0.0
+looks like a frog,4.0,0.0
+makes ant hills in sand/earth,4.0,0.0
+builds nests at high altitude,4.0,0.0
+is mostly grey brown,4.0,0.0
+looks like a mosquito,4.0,0.0
+mousetrap,4.0,0.0
+is unhygienic,4.0,0.0
+is also referred to as eel,4.0,0.0
+has an oval shape,4.0,0.0
+has a flat head,4.0,0.0
+fluffy,4.0,0.0
+does not smell well,4.0,0.0
+is cute when it's young,4.0,0.0
+kind of alligator,4.0,0.0
+opens its tail when it is scared,4.0,0.0
+sometimes stands on one paw,4.0,0.0
+descends from wolves,4.0,0.0
+"in dutch expression: once bitten, twice shy",4.0,0.0
+appears in comics,4.0,0.0
+often used as guard,4.0,0.0
+lives in distant countries,4.0,0.0
+collects nuts,4.0,0.0
+flies in formation,4.0,0.0
+is eaten as first-course,4.0,0.0
+more used in agriculture in the past,4.0,0.0
+is used as food for reptiles,4.0,0.0
+is kept by a pigeon fancier,4.0,0.0
+is served as rings from cephalopod,4.0,0.0
+slaughtered as sacrifice,4.0,0.0
+is used to make cod-liver oil,4.0,0.0
+it is sometimes put in a basket,4.0,0.0
+is a prototypical bird,4.0,0.0
+looks clumsy,4.0,0.0
+looks like a snail,4.0,0.0

@@ -1,0 +1,375 @@
+Label 2:
+alligator
+dinosaur
+caiman
+crocodile
+
+Label 3:
+bee
+fruit fly
+bumblebee
+louse
+moth
+mosquito
+flee
+wasp
+
+Label 4:
+herring
+leech
+horsefly
+centipede
+cockroach
+beetle
+cricket
+dragonfly
+ladybug
+maybug
+ant
+earwig
+wood louse
+caterpillar
+grasshopper
+fly
+butterfly
+worm
+
+Label 5:
+duck
+pheasant
+turkey
+kip
+seagull
+swan
+piranha
+sperm whale
+blindworm
+frog
+toad
+salamander
+
+Label 6:
+viger
+
+Label 7:
+dog
+
+Label 8:
+dromedary
+donkey
+lion
+elephant
+tiger
+
+Label 9:
+monkey
+bison
+giraffe
+dog
+polar bear
+kangaroo
+cat
+cow
+llama
+rhinoceros
+hippopotamus
+elephant
+horse
+sheep
+tiger
+fox
+wolf
+zebra
+
+Label 10:
+dromedary
+donkey
+lion
+
+Label 11:
+llama
+rhinoceros
+hippopotamus
+sheep
+
+Label 12:
+dove
+magpie
+rooster
+cabary
+cuckoo
+crow
+chickadee
+blackbird
+sparrow
+parakeet
+robin
+woodpecker
+swallow
+goldfish
+squid
+swordfish
+
+Label 13:
+bee
+horsefly
+centipede
+fruit fly
+bumblebee
+cockroach
+beetle
+cricket
+dragonfly
+ladybug
+louse
+maybug
+ant
+moth
+mosquito
+earwig
+wood louse
+caterpillar
+fly
+flee
+wasp
+worm
+
+Label 14:
+grasshopper
+butterfly
+
+Label 15:
+bee
+horsefly
+fruit fly
+bumblebee
+louse
+maybug
+moth
+mosquito
+flee
+wasp
+
+Label 16:
+centipede
+cockroach
+beetle
+cricket
+dragonfly
+ladybug
+ant
+earwig
+wood louse
+caterpillar
+grasshopper
+fly
+butterfly
+worm
+
+Label 17:
+anchovy
+trout
+cod
+carp
+eel
+plaice
+flatfish
+ray
+sardine
+pike
+stickleback
+sole
+salmon
+spider
+
+Label 18:
+magpie
+cabary
+crow
+chickadee
+blackbird
+sparrow
+robin
+woodpecker
+swallow
+anchovy
+trout
+goldfish
+squid
+cod
+carp
+eel
+plaice
+flatfish
+ray
+sardine
+pike
+stickleback
+sole
+salmon
+swordfish
+spider
+
+Label 19:
+cuckoo
+parakeet
+
+Label 20:
+magpie
+cabary
+cuckoo
+crow
+chickadee
+sparrow
+parakeet
+robin
+woodpecker
+swallow
+goldfish
+swordfish
+
+Label 21:
+horse
+
+Label 22:
+monkey
+giraffe
+kangaroo
+fox
+
+Label 23:
+spider
+
+Label 24:
+louse
+flee
+
+Label 25:
+dove
+magpie
+rooster
+cabary
+cuckoo
+crow
+chickadee
+blackbird
+sparrow
+parakeet
+robin
+woodpecker
+swallow
+goldfish
+squid
+swordfish
+
+Label 26:
+spider
+
+Label 27:
+dove
+magpie
+rooster
+cabary
+cuckoo
+crow
+chickadee
+blackbird
+sparrow
+parakeet
+robin
+woodpecker
+swallow
+goldfish
+squid
+carp
+pike
+salmon
+swordfish
+
+Label 28:
+chickadee
+blackbird
+sparrow
+woodpecker
+swallow
+anchovy
+trout
+squid
+cod
+carp
+eel
+plaice
+flatfish
+ray
+sardine
+pike
+stickleback
+sole
+salmon
+swordfish
+spider
+
+Label 29:
+goldfish
+
+Label 30:
+centipede
+caterpillar
+worm
+
+Label 31:
+blackbird
+anchovy
+trout
+cod
+carp
+eel
+plaice
+flatfish
+ray
+sardine
+pike
+stickleback
+sole
+salmon
+spider
+
+Label 32:
+cockroach
+beetle
+cricket
+dragonfly
+ladybug
+ant
+earwig
+wood louse
+
+Label 33:
+bee
+horsefly
+fruit fly
+bumblebee
+cockroach
+beetle
+dragonfly
+maybug
+ant
+moth
+mosquito
+earwig
+wood louse
+fly
+wasp
+
+Label 34:
+chickadee
+blackbird
+sparrow
+woodpecker
+swallow
+goldfish
+squid
+carp
+pike
+salmon
+swordfish

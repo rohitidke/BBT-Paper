@@ -1,0 +1,11 @@
+total_rows=166
+total_cols=149
+empty_rows_all_zero=0
+empty_cols_all_zero=67
+rows_non_zero=166
+cols_non_zero=82
+attributes_relevance_ratio=0.550336
+objects_relevance_ratio=1.000000
+median_attribute_set_size=
+median_f1score=
+overall_jaccard=0.136542

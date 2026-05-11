@@ -1,0 +1,288 @@
+Label 2:
+towel
+apron
+mug
+blouse
+pants
+tie
+shirt
+hat
+cap
+pyjamas
+scarf
+top
+mittens
+
+Label 3:
+bra
+beanie
+shorts
+panties
+socks
+sweater
+pullover
+t-shirt
+bathing suit
+
+Label 4:
+toaster
+whisk
+percolator
+nutcracker
+pan
+grater
+scissors
+electric kettle
+scales
+sieve
+belt
+oilcan
+filling knife
+
+Label 5:
+can opener
+plate
+bottle
+glass
+bowl
+spoon
+place mat
+pot
+spatula
+teaspoon
+colander
+fork
+coat
+jeans
+tracksuit
+dress
+suit
+boots
+skirt
+dungarees
+shoes
+
+Label 6:
+plate
+glass
+bowl
+place mat
+teaspoon
+colander
+coat
+jeans
+tracksuit
+dress
+suit
+boots
+skirt
+dungarees
+shoes
+
+Label 7:
+can opener
+bottle
+glass
+spoon
+place mat
+pot
+spatula
+teaspoon
+colander
+fork
+coat
+jeans
+dress
+suit
+boots
+dungarees
+shoes
+
+Label 8:
+plate
+bowl
+tracksuit
+skirt
+
+Label 9:
+fridge
+accordion
+bass guitar
+cymbals
+flute
+bassoon
+recorder
+guitar
+clarinet
+pan flute
+synthesizer
+tambourine
+triangle
+drum
+car
+boat
+scooter
+motorbike
+bus
+truck
+van
+trailer
+submarine
+helicopter
+hovercraft
+jeep
+cart
+carriage
+(hot air) balloon
+subway train
+motorbike
+rocket
+taxi
+tractor
+tram
+train
+airplane
+truck
+bazooka
+bow
+rifle
+grenade
+canon
+slingshot
+club
+machine gun
+pistol
+shield
+spear
+stick
+tank
+double barrelled shotgun
+sword
+whip
+anvil
+pickaxe
+plough
+grinding disc
+
+Label 10:
+stove
+microwave oven
+oven
+harmonica
+bicycle
+go-cart
+sled
+kick scooter
+knuckle dusters
+dagger
+axe
+drill
+crowbar
+lawn mower
+hammer
+crowbar
+wheelbarrow
+knife
+plane
+shovel
+nail
+file
+level
+saw
+
+Label 11:
+stove
+microwave oven
+oven
+harmonica
+bicycle
+go-cart
+sled
+knuckle dusters
+dagger
+axe
+drill
+crowbar
+lawn mower
+crowbar
+wheelbarrow
+plane
+shovel
+nail
+file
+level
+saw
+
+Label 12:
+kick scooter
+hammer
+knife
+
+Label 13:
+car
+bow
+club
+spear
+stick
+sword
+whip
+plough
+
+Label 14:
+fridge
+accordion
+recorder
+pan flute
+tambourine
+car
+boat
+scooter
+motorbike
+bus
+truck
+van
+trailer
+jeep
+cart
+(hot air) balloon
+motorbike
+rocket
+taxi
+tractor
+truck
+bow
+grenade
+slingshot
+club
+machine gun
+pistol
+shield
+spear
+stick
+double barrelled shotgun
+sword
+whip
+anvil
+pickaxe
+plough
+grinding disc
+
+Label 15:
+clarinet
+synthesizer
+drum
+submarine
+helicopter
+hovercraft
+carriage
+subway train
+train
+canon
+tank
+
+Label 16:
+spear
+sword
+
+Label 17:
+pickaxe

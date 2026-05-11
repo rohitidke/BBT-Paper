@@ -1,0 +1,1021 @@
+Label 2:
+squirrel
+hamster
+deer
+rabbit
+pig
+orca
+alligator
+dinosaur
+caiman
+crocodile
+
+Label 3:
+monkey
+bison
+dromedary
+donkey
+giraffe
+dog
+polar bear
+kangaroo
+cat
+cow
+llama
+lion
+rhinoceros
+hippopotamus
+elephant
+horse
+sheep
+tiger
+fox
+wolf
+zebra
+
+Label 4:
+vulture
+penguin
+ostrich
+owl
+viger
+chameleon
+iguana
+tortoise
+turtle
+
+Label 5:
+blindworm
+frog
+toad
+
+Label 6:
+boa
+cobra
+python
+snake
+monitor lizard
+
+Label 7:
+monkey
+bison
+dromedary
+donkey
+giraffe
+dog
+polar bear
+kangaroo
+cat
+cow
+rabbit
+llama
+lion
+rhinoceros
+hippopotamus
+elephant
+horse
+sheep
+tiger
+fox
+wolf
+zebra
+alligator
+dinosaur
+caiman
+crocodile
+
+Label 8:
+dove
+magpie
+pheasant
+rooster
+turkey
+cabary
+kip
+cuckoo
+crow
+chickadee
+seagull
+sparrow
+parakeet
+robin
+woodpecker
+swallow
+goldfish
+swordfish
+blindworm
+frog
+toad
+
+Label 9:
+bee
+fruit fly
+bumblebee
+louse
+moth
+mosquito
+flee
+wasp
+
+Label 10:
+horsefly
+maybug
+ant
+fly
+
+Label 11:
+centipede
+cockroach
+beetle
+cricket
+dragonfly
+ladybug
+earwig
+wood louse
+caterpillar
+grasshopper
+butterfly
+worm
+
+Label 12:
+trout
+cod
+carp
+eel
+plaice
+flatfish
+ray
+sardine
+pike
+stickleback
+sole
+salmon
+spider
+
+Label 13:
+squid
+
+Label 14:
+bee
+horsefly
+centipede
+fruit fly
+bumblebee
+cockroach
+beetle
+cricket
+dragonfly
+ladybug
+louse
+maybug
+ant
+moth
+mosquito
+earwig
+wood louse
+caterpillar
+fly
+flee
+wasp
+worm
+
+Label 15:
+grasshopper
+butterfly
+
+Label 16:
+bee
+horsefly
+fruit fly
+bumblebee
+louse
+maybug
+moth
+mosquito
+flee
+wasp
+
+Label 17:
+centipede
+cockroach
+beetle
+cricket
+dragonfly
+ladybug
+ant
+earwig
+wood louse
+caterpillar
+grasshopper
+fly
+butterfly
+worm
+
+Label 18:
+dove
+magpie
+cabary
+cuckoo
+crow
+chickadee
+blackbird
+sparrow
+parakeet
+robin
+woodpecker
+swallow
+anchovy
+trout
+goldfish
+squid
+cod
+carp
+eel
+plaice
+flatfish
+ray
+sardine
+pike
+stickleback
+sole
+salmon
+swordfish
+spider
+
+Label 19:
+anchovy
+trout
+cod
+carp
+eel
+plaice
+flatfish
+ray
+sardine
+pike
+stickleback
+sole
+salmon
+spider
+
+Label 20:
+magpie
+cabary
+crow
+chickadee
+blackbird
+sparrow
+woodpecker
+swallow
+goldfish
+squid
+swordfish
+
+Label 21:
+dove
+duck
+pheasant
+rooster
+turkey
+kip
+cuckoo
+seagull
+parrot
+parakeet
+peacock
+heron
+robin
+swan
+piranha
+sperm whale
+blindworm
+frog
+toad
+salamander
+
+Label 22:
+beaver
+hedgehog
+mouse
+bat
+eagle
+vulture
+stork
+pelican
+penguin
+ostrich
+owl
+falcon
+dolphin
+shark
+whale
+viger
+boa
+cobra
+gecko
+lizard
+chameleon
+iguana
+python
+tortoise
+snake
+monitor lizard
+turtle
+
+Label 23:
+monkey
+bison
+dog
+polar bear
+cat
+cow
+llama
+rhinoceros
+hippopotamus
+elephant
+horse
+sheep
+tiger
+fox
+wolf
+zebra
+
+Label 24:
+dromedary
+donkey
+lion
+
+Label 25:
+blackbird
+
+Label 26:
+monkey
+sheep
+fox
+
+Label 27:
+blindworm
+frog
+toad
+
+Label 28:
+bat
+
+Label 29:
+bison
+dromedary
+donkey
+dog
+polar bear
+cat
+cow
+llama
+rhinoceros
+hippopotamus
+elephant
+horse
+sheep
+tiger
+wolf
+zebra
+
+Label 30:
+butterfly
+
+Label 31:
+piranha
+
+Label 32:
+butterfly
+
+Label 33:
+dove
+cuckoo
+parakeet
+
+Label 34:
+parrot
+peacock
+heron
+lizard
+
+Label 35:
+blackbird
+
+Label 36:
+duck
+parrot
+peacock
+heron
+swan
+piranha
+salamander
+
+Label 37:
+beaver
+hedgehog
+mouse
+bat
+eagle
+duck
+vulture
+kip
+stork
+parrot
+peacock
+pelican
+penguin
+heron
+ostrich
+owl
+falcon
+swan
+dolphin
+shark
+piranha
+sperm whale
+whale
+viger
+gecko
+lizard
+blindworm
+chameleon
+frog
+iguana
+toad
+python
+salamander
+tortoise
+monitor lizard
+turtle
+
+Label 38:
+boa
+cobra
+snake
+
+Label 39:
+magpie
+cabary
+cuckoo
+crow
+chickadee
+sparrow
+parakeet
+robin
+woodpecker
+swallow
+goldfish
+swordfish
+
+Label 40:
+monkey
+giraffe
+kangaroo
+fox
+
+Label 41:
+bison
+dromedary
+donkey
+dog
+polar bear
+cat
+cow
+llama
+lion
+rhinoceros
+hippopotamus
+elephant
+horse
+sheep
+tiger
+wolf
+zebra
+
+Label 42:
+hedgehog
+bat
+vulture
+stork
+pelican
+penguin
+ostrich
+owl
+falcon
+shark
+viger
+gecko
+chameleon
+iguana
+tortoise
+turtle
+
+Label 43:
+dove
+pheasant
+rooster
+turkey
+cuckoo
+seagull
+parakeet
+robin
+
+Label 44:
+bison
+wolf
+
+Label 45:
+vulture
+
+Label 46:
+mouse
+
+Label 47:
+louse
+flee
+
+Label 48:
+fly
+
+Label 49:
+centipede
+cockroach
+beetle
+cricket
+dragonfly
+ladybug
+ant
+earwig
+wood louse
+caterpillar
+grasshopper
+worm
+
+Label 50:
+anchovy
+trout
+cod
+eel
+plaice
+flatfish
+ray
+sardine
+stickleback
+sole
+
+Label 51:
+magpie
+cabary
+crow
+chickadee
+blackbird
+sparrow
+robin
+woodpecker
+swallow
+goldfish
+squid
+carp
+pike
+salmon
+swordfish
+spider
+
+Label 52:
+anchovy
+trout
+cod
+eel
+plaice
+flatfish
+sardine
+stickleback
+sole
+
+Label 53:
+dolphin
+shark
+whale
+
+Label 54:
+anchovy
+trout
+cod
+eel
+plaice
+flatfish
+ray
+sardine
+stickleback
+sole
+
+Label 55:
+spider
+
+Label 56:
+chickadee
+blackbird
+sparrow
+woodpecker
+swallow
+squid
+carp
+pike
+salmon
+spider
+
+Label 57:
+goldfish
+swordfish
+
+Label 58:
+hedgehog
+bat
+vulture
+stork
+pelican
+penguin
+ostrich
+owl
+falcon
+viger
+chameleon
+iguana
+turtle
+
+Label 59:
+beaver
+mouse
+eagle
+dolphin
+shark
+whale
+boa
+cobra
+python
+tortoise
+snake
+monitor lizard
+
+Label 60:
+bison
+dog
+polar bear
+cat
+cow
+horse
+wolf
+zebra
+
+Label 61:
+bison
+polar bear
+cat
+cow
+llama
+rhinoceros
+hippopotamus
+wolf
+zebra
+
+Label 62:
+dromedary
+donkey
+dog
+lion
+elephant
+horse
+tiger
+
+Label 63:
+bison
+polar bear
+cat
+llama
+rhinoceros
+hippopotamus
+sheep
+wolf
+zebra
+
+Label 64:
+dog
+cow
+elephant
+horse
+tiger
+
+Label 65:
+monkey
+llama
+rhinoceros
+hippopotamus
+sheep
+fox
+
+Label 66:
+bison
+dog
+polar bear
+cat
+cow
+elephant
+horse
+wolf
+zebra
+
+Label 67:
+cockroach
+beetle
+cricket
+dragonfly
+ladybug
+ant
+earwig
+wood louse
+
+Label 68:
+anchovy
+trout
+cod
+eel
+plaice
+flatfish
+ray
+sardine
+stickleback
+sole
+
+Label 69:
+giraffe
+kangaroo
+fox
+
+Label 70:
+monkey
+bison
+giraffe
+polar bear
+kangaroo
+cat
+cow
+llama
+rhinoceros
+hippopotamus
+sheep
+fox
+wolf
+zebra
+
+Label 71:
+louse
+flee
+
+Label 72:
+bee
+horsefly
+fruit fly
+bumblebee
+cockroach
+beetle
+dragonfly
+maybug
+ant
+moth
+mosquito
+earwig
+wood louse
+fly
+wasp
+
+Label 73:
+blackbird
+woodpecker
+swallow
+squid
+
+Label 74:
+anchovy
+trout
+cod
+carp
+eel
+plaice
+flatfish
+ray
+sardine
+pike
+stickleback
+sole
+salmon
+spider
+
+Label 75:
+hedgehog
+bat
+vulture
+stork
+pelican
+penguin
+falcon
+viger
+gecko
+chameleon
+iguana
+turtle
+
+Label 76:
+ostrich
+owl
+tortoise
+
+Label 77:
+dolphin
+shark
+whale
+
+Label 78:
+beaver
+mouse
+eagle
+boa
+cobra
+python
+snake
+monitor lizard
+
+Label 79:
+vulture
+penguin
+ostrich
+owl
+viger
+
+Label 80:
+hedgehog
+bat
+stork
+pelican
+falcon
+chameleon
+turtle
+
+Label 81:
+beaver
+mouse
+eagle
+vulture
+penguin
+ostrich
+owl
+dolphin
+shark
+whale
+viger
+boa
+cobra
+iguana
+python
+tortoise
+snake
+monitor lizard
+
+Label 82:
+beaver
+hedgehog
+mouse
+bat
+eagle
+vulture
+stork
+pelican
+penguin
+ostrich
+owl
+falcon
+dolphin
+shark
+whale
+viger
+boa
+cobra
+gecko
+lizard
+chameleon
+iguana
+python
+tortoise
+snake
+monitor lizard
+turtle
+
+Label 83:
+blindworm
+frog
+toad
+
+Label 84:
+hedgehog
+bat
+duck
+kip
+stork
+parrot
+peacock
+pelican
+heron
+falcon
+swan
+piranha
+sperm whale
+gecko
+lizard
+chameleon
+salamander
+turtle
+
+Label 85:
+horsefly
+cockroach
+beetle
+dragonfly
+maybug
+ant
+mosquito
+earwig
+wood louse
+fly
+wasp
+
+Label 86:
+cricket
+ladybug
+
+Label 87:
+bison
+polar bear
+cat
+cow
+llama
+rhinoceros
+hippopotamus
+wolf
+zebra
+
+Label 88:
+trout
+cod
+eel
+flatfish
+sardine
+stickleback
+
+Label 89:
+bee
+fruit fly
+bumblebee
+maybug
+moth
+mosquito
+wasp
+
+Label 90:
+horsefly
+cockroach
+beetle
+dragonfly
+ant
+wood louse
+fly
+
+Label 91:
+blackbird
+squid
+carp
+pike
+salmon
+
+Label 92:
+anchovy
+eel
+plaice
+flatfish
+sardine
+sole
+
+Label 93:
+trout
+cod
+ray
+stickleback
+spider
+
+Label 94:
+heron
+
+Label 95:
+bison
+polar bear
+cow
+zebra

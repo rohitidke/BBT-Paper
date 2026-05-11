@@ -1,0 +1,261 @@
+Label 2:
+bra
+blouse
+pants
+tie
+shirt
+hat
+coat
+jeans
+tracksuit
+dress
+suit
+boots
+beanie
+cap
+pyjamas
+belt
+skirt
+dungarees
+shoes
+shorts
+scarf
+panties
+socks
+sweater
+top
+pullover
+t-shirt
+mittens
+bathing suit
+accordion
+banjo
+bass guitar
+cello
+double bass
+bagpipe
+drum set
+flute
+bassoon
+flute.1
+guitar
+harp
+clarinet
+harpsichord
+harmonica
+organ
+pan flute
+piano
+saxophone
+synthesizer
+tambourine
+trombone
+drum
+trumpet
+violin
+
+Label 3:
+mug
+car
+scooter
+motorbike
+bus
+truck
+van
+submarine
+helicopter
+hovercraft
+jeep
+subway train
+motorbike.1
+tractor
+tram
+train
+airplane
+truck.1
+
+Label 4:
+place mat
+boat
+trailer
+cart
+taxi
+Zeppelin
+
+Label 5:
+bra
+blouse
+pants
+tie
+shirt
+hat
+coat
+jeans
+tracksuit
+dress
+suit
+beanie
+cap
+pyjamas
+skirt
+dungarees
+shorts
+scarf
+panties
+socks
+sweater
+top
+pullover
+t-shirt
+mittens
+bathing suit
+
+Label 6:
+bazooka
+dagger
+rifle
+grenade
+canon
+machine gun
+pistol
+double barrelled shotgun
+chisel
+axe
+crowbar
+adjustable spanner
+hammer
+clamp
+pickaxe
+crowbar.1
+knife
+wrench
+filling knife
+plane
+shovel
+screwdriver
+tongs
+saw
+
+Label 7:
+can opener
+whisk
+nutcracker
+pan
+grater
+scissors
+colander
+wok
+sieve
+knuckle dusters
+bow
+slingshot
+club
+spear
+sword
+whip
+anvil
+drill
+wheelbarrow
+oil can
+plough
+grinding disc
+nail
+wire brush
+paint brush
+file
+level
+
+Label 8:
+shoes
+
+Label 9:
+dagger
+
+Label 10:
+bass guitar
+drum set
+flute
+bassoon
+flute.1
+harpsichord
+harmonica
+organ
+pan flute
+piano
+saxophone
+synthesizer
+tambourine
+trombone
+drum
+trumpet
+violin
+
+Label 11:
+paint brush
+
+Label 12:
+bazooka
+dagger
+rifle
+machine gun
+pistol
+knife
+
+Label 13:
+can opener
+whisk
+nutcracker
+pan
+grater
+scissors
+colander
+wok
+sieve
+knuckle dusters
+bow
+canon
+slingshot
+club
+spear
+sword
+whip
+anvil
+drill
+adjustable spanner
+clamp
+wheelbarrow
+wrench
+oil can
+plough
+plane
+screwdriver
+grinding disc
+nail
+wire brush
+tongs
+paint brush
+file
+level
+
+Label 14:
+boots
+belt
+accordion
+banjo
+cello
+double bass
+bagpipe
+guitar
+harp
+clarinet
+
+Label 15:
+sword
+anvil
+wheelbarrow
+oil can
+plough
+nail
+wire brush
+file
+level

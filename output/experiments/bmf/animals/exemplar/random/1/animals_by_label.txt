@@ -1,0 +1,270 @@
+Label 2:
+dove
+magpie
+pheasant
+rooster
+turkey
+cabary
+kip
+cuckoo
+crow
+chickadee
+blackbird
+sparrow
+parrot
+parakeet
+peacock
+robin
+woodpecker
+owl
+swallow
+
+Label 3:
+mouse
+seagull
+stork
+heron
+falcon
+swan
+bee
+fruit fly
+bumblebee
+cockroach
+cricket
+ladybug
+louse
+maybug
+ant
+moth
+mosquito
+caterpillar
+grasshopper
+fly
+butterfly
+flee
+wasp
+
+Label 4:
+monkey
+squirrel
+hedgehog
+donkey
+hamster
+deer
+dog
+kangaroo
+cat
+cow
+rabbit
+llama
+horse
+sheep
+pig
+bat
+fox
+wolf
+zebra
+eagle
+duck
+vulture
+pelican
+penguin
+ostrich
+goldfish
+leech
+horsefly
+centipede
+beetle
+dragonfly
+earwig
+wood louse
+spider
+worm
+
+Label 5:
+beaver
+bison
+dromedary
+giraffe
+polar bear
+lion
+rhinoceros
+hippopotamus
+elephant
+tiger
+anchovy
+dolphin
+trout
+shark
+herring
+squid
+cod
+carp
+orca
+eel
+piranha
+plaice
+flatfish
+sperm whale
+ray
+sardine
+pike
+stickleback
+sole
+whale
+salmon
+swordfish
+viger
+alligator
+boa
+cobra
+dinosaur
+gecko
+lizard
+blindworm
+caiman
+chameleon
+frog
+crocodile
+iguana
+toad
+python
+salamander
+tortoise
+snake
+monitor lizard
+turtle
+
+Label 6:
+parakeet
+
+Label 7:
+dove
+pheasant
+rooster
+turkey
+kip
+parrot
+parakeet
+owl
+
+Label 8:
+seagull
+heron
+bee
+fruit fly
+bumblebee
+cricket
+ladybug
+maybug
+moth
+
+Label 9:
+squirrel
+bat
+eagle
+duck
+vulture
+horsefly
+beetle
+earwig
+worm
+
+Label 10:
+hedgehog
+hamster
+dog
+cat
+rabbit
+pelican
+ostrich
+centipede
+dragonfly
+wood louse
+spider
+
+Label 11:
+bison
+polar bear
+lion
+rhinoceros
+hippopotamus
+elephant
+tiger
+anchovy
+dolphin
+squid
+orca
+eel
+piranha
+plaice
+flatfish
+ray
+sardine
+pike
+stickleback
+sole
+whale
+salmon
+viger
+boa
+cobra
+dinosaur
+iguana
+python
+salamander
+snake
+monitor lizard
+turtle
+
+Label 12:
+trout
+shark
+herring
+cod
+carp
+sperm whale
+swordfish
+alligator
+caiman
+crocodile
+
+Label 13:
+boa
+cobra
+snake
+
+Label 14:
+monkey
+donkey
+dog
+cat
+rabbit
+sheep
+pig
+penguin
+ostrich
+leech
+dragonfly
+
+Label 15:
+bison
+lion
+rhinoceros
+elephant
+tiger
+viger
+dinosaur
+iguana
+salamander
+monitor lizard
+turtle
+
+Label 16:
+polar bear
+dolphin
+squid
+boa
+cobra
+python
+snake

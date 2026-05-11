@@ -1,0 +1,173 @@
+Label 2 (n=28):
+clothing: 0
+kitchen utensils: 0
+musical instruments: 0
+tools: 1
+vehicles: 26
+weapons: 1
+dominant: vehicles (26/28, purity=92.9%, recall=26/28=92.9%, f1=92.9%)
+avg_feature_freq_weight: 0.0615 (mapped_features=16/16)
+
+Label 3 (n=57):
+clothing: 29
+kitchen utensils: 2
+musical instruments: 25
+tools: 0
+vehicles: 0
+weapons: 0
+unknown: 1
+dominant: clothing (29/57, purity=50.9%, recall=29/29=100.0%, f1=67.4%)
+avg_feature_freq_weight: 0.1524 (mapped_features=21/21)
+
+Label 4 (n=59):
+clothing: 0
+kitchen utensils: 28
+musical instruments: 1
+tools: 23
+vehicles: 0
+weapons: 6
+unknown: 1
+dominant: kitchen utensils (28/59, purity=47.5%, recall=28/33=84.8%, f1=60.9%)
+avg_feature_freq_weight: 0.1490 (mapped_features=22/22)
+
+Label 5 (n=2):
+clothing: 0
+kitchen utensils: 0
+musical instruments: 0
+tools: 0
+vehicles: 0
+weapons: 2
+dominant: weapons (2/2, purity=100.0%, recall=2/18=11.1%, f1=20.0%)
+avg_feature_freq_weight: 0.1158 (mapped_features=11/11)
+
+Label 6 (n=6):
+clothing: 0
+kitchen utensils: 0
+musical instruments: 0
+tools: 0
+vehicles: 6
+weapons: 0
+dominant: vehicles (6/6, purity=100.0%, recall=6/28=21.4%, f1=35.3%)
+avg_feature_freq_weight: 0.1524 (mapped_features=21/21)
+
+Label 7 (n=19):
+clothing: 0
+kitchen utensils: 1
+musical instruments: 16
+tools: 1
+vehicles: 0
+weapons: 0
+unknown: 1
+dominant: musical instruments (16/19, purity=84.2%, recall=16/26=61.5%, f1=71.1%)
+avg_feature_freq_weight: 0.1826 (mapped_features=5/5)
+
+Label 8 (n=15):
+clothing: 0
+kitchen utensils: 5
+musical instruments: 0
+tools: 8
+vehicles: 0
+weapons: 2
+dominant: tools (8/15, purity=53.3%, recall=8/28=28.6%, f1=37.2%)
+avg_feature_freq_weight: 0.1577 (mapped_features=2/2)
+
+Label 9 (n=21):
+clothing: 0
+kitchen utensils: 0
+musical instruments: 0
+tools: 0
+vehicles: 20
+weapons: 1
+dominant: vehicles (20/21, purity=95.2%, recall=20/28=71.4%, f1=81.6%)
+avg_feature_freq_weight: 0.2077 (mapped_features=9/9)
+
+Label 10 (n=2):
+clothing: 0
+kitchen utensils: 0
+musical instruments: 0
+tools: 0
+vehicles: 2
+weapons: 0
+dominant: vehicles (2/2, purity=100.0%, recall=2/28=7.1%, f1=13.3%)
+avg_feature_freq_weight: 0.0761 (mapped_features=4/4)
+
+Label 11 (n=10):
+clothing: 1
+kitchen utensils: 0
+musical instruments: 9
+tools: 0
+vehicles: 0
+weapons: 0
+dominant: musical instruments (9/10, purity=90.0%, recall=9/26=34.6%, f1=50.0%)
+avg_feature_freq_weight: 0.1293 (mapped_features=9/9)
+
+Label 12 (n=3):
+clothing: 0
+kitchen utensils: 3
+musical instruments: 0
+tools: 0
+vehicles: 0
+weapons: 0
+dominant: kitchen utensils (3/3, purity=100.0%, recall=3/33=9.1%, f1=16.7%)
+avg_feature_freq_weight: 0.0399 (mapped_features=1/1)
+
+Label 13 (n=27):
+clothing: 1
+kitchen utensils: 1
+musical instruments: 24
+tools: 0
+vehicles: 0
+weapons: 0
+unknown: 1
+dominant: musical instruments (24/27, purity=88.9%, recall=24/26=92.3%, f1=90.6%)
+avg_feature_freq_weight: 0.1988 (mapped_features=3/3)
+
+Label 14 (n=11):
+clothing: 0
+kitchen utensils: 8
+musical instruments: 0
+tools: 3
+vehicles: 0
+weapons: 0
+dominant: kitchen utensils (8/11, purity=72.7%, recall=8/33=24.2%, f1=36.4%)
+avg_feature_freq_weight: 0.0597 (mapped_features=3/3)
+
+Label 15 (n=17):
+clothing: 0
+kitchen utensils: 6
+musical instruments: 0
+tools: 9
+vehicles: 0
+weapons: 2
+dominant: tools (9/17, purity=52.9%, recall=9/28=32.1%, f1=40.0%)
+avg_feature_freq_weight: 0.0945 (mapped_features=8/8)
+
+Label 16 (n=17):
+clothing: 0
+kitchen utensils: 4
+musical instruments: 0
+tools: 9
+vehicles: 0
+weapons: 4
+dominant: tools (9/17, purity=52.9%, recall=9/28=32.1%, f1=40.0%)
+avg_feature_freq_weight: 0.0945 (mapped_features=8/8)
+
+Label 17 (n=9):
+clothing: 0
+kitchen utensils: 0
+musical instruments: 0
+tools: 0
+vehicles: 9
+weapons: 0
+dominant: vehicles (9/9, purity=100.0%, recall=9/28=32.1%, f1=48.6%)
+avg_feature_freq_weight: 0.1853 (mapped_features=6/6)
+
+Label 18 (n=16):
+clothing: 0
+kitchen utensils: 0
+musical instruments: 0
+tools: 0
+vehicles: 15
+weapons: 1
+dominant: vehicles (15/16, purity=93.8%, recall=15/28=53.6%, f1=68.2%)
+avg_feature_freq_weight: 0.1853 (mapped_features=6/6)

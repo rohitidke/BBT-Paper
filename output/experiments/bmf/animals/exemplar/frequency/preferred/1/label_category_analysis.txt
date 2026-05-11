@@ -1,0 +1,220 @@
+Label 2 (n=25):
+birds: 0
+fish: 0
+insects: 24
+mammals: 0
+reptiles: 0
+unknown: 1
+dominant: insects (24/25, purity=96.0%, recall=24/26=92.3%, f1=94.1%)
+avg_feature_freq_weight: 0.1291 (mapped_features=28/28)
+
+Label 3 (n=2):
+birds: 0
+fish: 0
+insects: 2
+mammals: 0
+reptiles: 0
+dominant: insects (2/2, purity=100.0%, recall=2/26=7.7%, f1=14.3%)
+avg_feature_freq_weight: 0.1341 (mapped_features=7/7)
+
+Label 4 (n=21):
+birds: 16
+fish: 0
+insects: 1
+mammals: 0
+reptiles: 2
+unknown: 2
+dominant: birds (16/21, purity=76.2%, recall=16/30=53.3%, f1=62.7%)
+avg_feature_freq_weight: 0.1338 (mapped_features=32/32)
+
+Label 5 (n=1):
+birds: 0
+fish: 0
+insects: 0
+mammals: 0
+reptiles: 1
+dominant: reptiles (1/1, purity=100.0%, recall=1/20=5.0%, f1=9.5%)
+avg_feature_freq_weight: 0.0616 (mapped_features=2/2)
+
+Label 6 (n=20):
+birds: 0
+fish: 6
+insects: 0
+mammals: 14
+reptiles: 0
+dominant: mammals (14/20, purity=70.0%, recall=14/30=46.7%, f1=56.0%)
+avg_feature_freq_weight: 0.1539 (mapped_features=20/20)
+
+Label 7 (n=2):
+birds: 0
+fish: 0
+insects: 0
+mammals: 2
+reptiles: 0
+dominant: mammals (2/2, purity=100.0%, recall=2/30=6.7%, f1=12.5%)
+avg_feature_freq_weight: 0.1539 (mapped_features=20/20)
+
+Label 8 (n=16):
+birds: 13
+fish: 0
+insects: 1
+mammals: 0
+reptiles: 0
+unknown: 2
+dominant: birds (13/16, purity=81.2%, recall=13/30=43.3%, f1=56.5%)
+avg_feature_freq_weight: 0.1590 (mapped_features=11/11)
+
+Label 9 (n=17):
+birds: 6
+fish: 0
+insects: 0
+mammals: 2
+reptiles: 8
+unknown: 1
+dominant: reptiles (8/17, purity=47.1%, recall=8/20=40.0%, f1=43.2%)
+avg_feature_freq_weight: 0.1429 (mapped_features=19/19)
+
+Label 10 (n=18):
+birds: 4
+fish: 1
+insects: 0
+mammals: 4
+reptiles: 9
+dominant: reptiles (9/18, purity=50.0%, recall=9/20=45.0%, f1=47.4%)
+avg_feature_freq_weight: 0.1429 (mapped_features=19/19)
+
+Label 11 (n=3):
+birds: 0
+fish: 0
+insects: 0
+mammals: 0
+reptiles: 3
+dominant: reptiles (3/3, purity=100.0%, recall=3/20=15.0%, f1=26.1%)
+avg_feature_freq_weight: 0.1197 (mapped_features=32/32)
+
+Label 12 (n=2):
+birds: 1
+fish: 0
+insects: 0
+mammals: 1
+reptiles: 0
+dominant: mammals (1/2, purity=50.0%, recall=1/30=3.3%, f1=6.2%)
+avg_feature_freq_weight: 0.1661 (mapped_features=17/17)
+
+Label 13 (n=23):
+birds: 0
+fish: 16
+insects: 0
+mammals: 7
+reptiles: 0
+dominant: fish (16/23, purity=69.6%, recall=16/23=69.6%, f1=69.6%)
+avg_feature_freq_weight: 0.1661 (mapped_features=17/17)
+
+Label 14 (n=2):
+birds: 0
+fish: 0
+insects: 0
+mammals: 0
+reptiles: 2
+dominant: reptiles (2/2, purity=100.0%, recall=2/20=10.0%, f1=18.2%)
+avg_feature_freq_weight: 0.0815 (mapped_features=56/56)
+
+Label 15 (n=4):
+birds: 0
+fish: 4
+insects: 0
+mammals: 0
+reptiles: 0
+dominant: fish (4/4, purity=100.0%, recall=4/23=17.4%, f1=29.6%)
+avg_feature_freq_weight: 0.0329 (mapped_features=1/1)
+
+Label 16 (n=13):
+birds: 0
+fish: 0
+insects: 13
+mammals: 0
+reptiles: 0
+dominant: insects (13/13, purity=100.0%, recall=13/26=50.0%, f1=66.7%)
+avg_feature_freq_weight: 0.0946 (mapped_features=13/13)
+
+Label 17 (n=3):
+birds: 0
+fish: 0
+insects: 3
+mammals: 0
+reptiles: 0
+dominant: insects (3/3, purity=100.0%, recall=3/26=11.5%, f1=20.7%)
+avg_feature_freq_weight: 0.0946 (mapped_features=13/13)
+
+Label 18 (n=1):
+birds: 0
+fish: 0
+insects: 0
+mammals: 1
+reptiles: 0
+dominant: mammals (1/1, purity=100.0%, recall=1/30=3.3%, f1=6.5%)
+avg_feature_freq_weight: 0.0252 (mapped_features=4/4)
+
+Label 19 (n=8):
+birds: 0
+fish: 6
+insects: 0
+mammals: 2
+reptiles: 0
+dominant: fish (6/8, purity=75.0%, recall=6/23=26.1%, f1=38.7%)
+avg_feature_freq_weight: 0.1161 (mapped_features=9/9)
+
+Label 20 (n=2):
+birds: 0
+fish: 0
+insects: 0
+mammals: 0
+reptiles: 2
+dominant: reptiles (2/2, purity=100.0%, recall=2/20=10.0%, f1=18.2%)
+avg_feature_freq_weight: 0.0867 (mapped_features=14/14)
+
+Label 21 (n=1):
+birds: 0
+fish: 0
+insects: 1
+mammals: 0
+reptiles: 0
+dominant: insects (1/1, purity=100.0%, recall=1/26=3.8%, f1=7.4%)
+avg_feature_freq_weight: 0.0698 (mapped_features=1/1)
+
+Label 22 (n=14):
+birds: 6
+fish: 0
+insects: 0
+mammals: 2
+reptiles: 5
+unknown: 1
+dominant: birds (6/14, purity=42.9%, recall=6/30=20.0%, f1=27.3%)
+avg_feature_freq_weight: 0.1027 (mapped_features=1/1)
+
+Label 23 (n=9):
+birds: 3
+fish: 0
+insects: 0
+mammals: 0
+reptiles: 6
+dominant: reptiles (6/9, purity=66.7%, recall=6/20=30.0%, f1=41.4%)
+avg_feature_freq_weight: 0.7043 (mapped_features=1/1)
+
+Label 24 (n=8):
+birds: 3
+fish: 0
+insects: 0
+mammals: 0
+reptiles: 5
+dominant: reptiles (5/8, purity=62.5%, recall=5/20=25.0%, f1=35.7%)
+avg_feature_freq_weight: 0.1360 (mapped_features=4/4)
+
+Label 25 (n=8):
+birds: 1
+fish: 1
+insects: 0
+mammals: 3
+reptiles: 3
+dominant: mammals (3/8, purity=37.5%, recall=3/30=10.0%, f1=15.8%)
+avg_feature_freq_weight: 0.0903 (mapped_features=1/1)

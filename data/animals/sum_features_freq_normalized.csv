@@ -1,0 +1,226 @@
+features,freq,normalized_freq
+breaths under water,2.0,0.022222
+is terrifying,6.0,0.111111
+endangered species,4.0,0.066667
+exists for ages,1.0,0.0
+builds nests,17.0,0.355556
+carries over diseases,2.0,0.022222
+is brown/black,1.0,0.0
+thick skin,1.0,0.0
+eats everything,1.0,0.0
+eats berries,1.0,0.0
+eats grain,1.0,0.0
+eats insects,2.0,0.022222
+eats small animals,2.0,0.022222
+eats plants,1.0,0.0
+eats food for fish,1.0,0.0
+eats worms,8.0,0.155556
+eats seed,1.0,0.0
+there are many kinds of it,15.0,0.311111
+flutters,2.0,0.022222
+sings (whistles),7.0,0.133333
+is athrodopal,2.0,0.022222
+is dangerous,6.0,0.111111
+has bones,9.0,0.177778
+has two eyes,1.0,0.0
+has eight paws,1.0,0.0
+has a long tail,1.0,0.0
+has a long tongue,2.0,0.022222
+has a bill,15.0,0.311111
+has a tail,6.0,0.111111
+has a fur (in dutch: vacht),14.0,0.288889
+compound eyes,2.0,0.022222
+has no paws,2.0,0.022222
+has gills,15.0,0.311111
+has short paws,1.0,0.0
+has a mouth,2.0,0.022222
+has eyes,8.0,0.155556
+has legs,10.0,0.2
+has sharp claws,1.0,0.0
+has scales,29.0,0.622222
+has teeth,3.0,0.044444
+has two paws,3.0,0.044444
+has two wings,3.0,0.044444
+has feathers,20.0,0.422222
+has four paws,10.0,0.2
+has fins,13.0,0.266667
+has wings,14.0,0.288889
+has feelers,3.0,0.044444
+hibernates,3.0,0.044444
+swims in aquariums,3.0,0.044444
+lives in a cage,2.0,0.022222
+is brown,1.0,0.0
+dark colour,1.0,0.0
+is a delicacy,3.0,0.044444
+is an animal,31.0,0.666667
+is an exotic animal,4.0,0.066667
+is a migratory bird,4.0,0.066667
+is a carnivore,3.0,0.044444
+is healthy,5.0,0.088889
+is smooth,3.0,0.044444
+is slippery,7.0,0.133333
+is green,8.0,0.155556
+is irritating,8.0,0.155556
+is small,21.0,0.444444
+is tasty,10.0,0.2
+is ugly,2.0,0.022222
+is beautiful,1.0,0.0
+is not dangerous,1.0,0.0
+is fast,1.0,0.0
+is nasty,3.0,0.044444
+rises early,1.0,0.0
+can be dangerous,6.0,0.111111
+can be poisonous,4.0,0.066667
+can't fly,3.0,0.044444
+can loose its tail,1.0,0.0
+can have different colors,9.0,0.177778
+can fly,31.0,0.666667
+can swim,13.0,0.266667
+comes up to light,1.0,0.0
+is found all around the world,4.0,0.066667
+is found in the garden,1.0,0.0
+is cold-blooded,13.0,0.266667
+in the morning,2.0,0.022222
+has beady eyes,2.0,0.022222
+crawls,2.0,0.022222
+lives nearby the water,1.0,0.0
+lives in Africa,1.0,0.0
+lives in the sea,4.0,0.066667
+lives in the zoo,9.0,0.177778
+lives in a swamp,1.0,0.0
+herds,2.0,0.022222
+lives in the wild,8.0,0.155556
+lives in warm countries,1.0,0.0
+lives in water,24.0,0.511111
+lives in the desert,1.0,0.0
+is a freshwater fish,1.0,0.0
+doesn't live long,4.0,0.066667
+doesn't live on land,2.0,0.022222
+lives on land,14.0,0.288889
+lives on land and sea,10.0,0.2
+lays eggs,46.0,1.0
+does not lay eggs,8.0,0.155556
+makes a sound,2.0,0.022222
+makes an extremely irritating sound,3.0,0.044444
+is not very popular among man,1.0,0.0
+does not taste well,1.0,0.0
+is vermin,3.0,0.044444
+is parasite,1.0,0.0
+does not smell well,2.0,0.022222
+has a rough skin,1.0,0.0
+kind of frog,1.0,0.0
+kind of snake,4.0,0.066667
+kind of crocodile,4.0,0.066667
+is a type of whale,1.0,0.0
+descend from the dinosaur,3.0,0.044444
+stings,7.0,0.133333
+loyal,1.0,0.0
+chirps,6.0,0.111111
+is a bird,1.0,0.0
+is killed by man,3.0,0.044444
+is eaten by birds,2.0,0.022222
+is eaten by other animals,2.0,0.022222
+is sometimes eaten by man,12.0,0.244444
+often becoms a cat's prey,1.0,0.0
+is exterminated,2.0,0.022222
+has six paws,14.0,0.288889
+is silvery,1.0,0.0
+sings,3.0,0.044444
+buzzes,2.0,0.022222
+mammal,1.0,0.0
+breathes,2.0,0.022222
+breathes through gills,4.0,0.066667
+breathes through lungs,3.0,0.044444
+breathes through scales,1.0,0.0
+its babies are born alive,13.0,0.266667
+marks its territory,1.0,0.0
+belongs to nature,2.0,0.022222
+contains omega 3,2.0,0.022222
+contains proteins,1.0,0.0
+often bites,2.0,0.022222
+shines,1.0,0.0
+its vascular system is less developed than that of mammals,1.0,0.0
+eats,2.0,0.022222
+dies,4.0,0.066667
+uses the sun to keep body temperature stable,1.0,0.0
+has arms,1.0,0.0
+has a central nervous system,1.0,0.0
+has a beak,6.0,0.111111
+has an exoskeleton,3.0,0.044444
+doesn't have a central nervous system,1.0,0.0
+doesn't have wings,1.0,0.0
+has brains,1.0,0.0
+has skin,1.0,0.0
+has no eyelids,1.0,0.0
+has lungs,7.0,0.133333
+has air sacs,3.0,0.044444
+has nipples,2.0,0.022222
+has a vertically oriented tail,1.0,0.0
+hops,1.0,0.0
+is affectionate,1.0,0.0
+is hairy,4.0,0.066667
+is not yet independent at birth,1.0,0.0
+is a dolphin,2.0,0.022222
+is a shark,3.0,0.044444
+is a hunter,1.0,0.0
+is a cat,1.0,0.0
+is a cow,1.0,0.0
+is a living being,4.0,0.066667
+is a human,15.0,0.311111
+is an ant,2.0,0.022222
+is a mosquito,3.0,0.044444
+is an elephant,1.0,0.0
+is a turtle,2.0,0.022222
+is a sport,1.0,0.0
+is a constellation,3.0,0.044444
+is a collective noun,1.0,0.0
+is a sweet- or salt-water fish,6.0,0.111111
+comes in different sizes,12.0,0.244444
+comes in different shapes,2.0,0.022222
+is fascinating,1.0,0.0
+is nice,1.0,0.0
+is not a mammal,1.0,0.0
+has an aerodynamic body,1.0,0.0
+is a vertebrate,7.0,0.133333
+is good for the eyes,1.0,0.0
+is creepy,3.0,0.044444
+is smaller than a meter,1.0,0.0
+is colourful,1.0,0.0
+has no hairs,1.0,0.0
+is useful,5.0,0.088889
+invertebrate,1.0,0.0
+is quiet,1.0,0.0
+is determined,1.0,0.0
+is warm-blooded,5.0,0.088889
+is soft,1.0,0.0
+can bite,4.0,0.066667
+is something you can purchase,1.0,0.0
+can walk,3.0,0.044444
+is able to reproduce,9.0,0.177778
+can become ill,4.0,0.066667
+there are lots of these,6.0,0.111111
+has a leathery skin,1.0,0.0
+lives in colonies,2.0,0.022222
+doesn't resemble a human being,1.0,0.0
+makes a lot of noise,1.0,0.0
+goes through a metamorphosis,1.0,0.0
+is a symbol for freedom,1.0,0.0
+descends from reptiles,1.0,0.0
+sometimes smells,4.0,0.066667
+its excrements are found on the street,1.0,0.0
+is found in fish stew,1.0,0.0
+is found in trees,5.0,0.088889
+is more often encountered during summer,6.0,0.111111
+flies or crawls,6.0,0.111111
+is caught using nets,1.0,0.0
+is eaten by an insectivore,1.0,0.0
+is eaten by plants,1.0,0.0
+is eaten by spiders,2.0,0.022222
+is eaten with white wine,1.0,0.0
+is caught using bait,1.0,0.0
+is caught using a fishing rod,1.0,0.0
+is sometimes kept as a pet,15.0,0.311111
+breastfeeds its babies,17.0,0.355556
+performs pollination,1.0,0.0
+both male and female take part in the brooding,1.0,0.0
+swims in schools,4.0,0.066667
