@@ -1,0 +1,643 @@
+attribute,category,bundles,bundle_specific_attribute,normalized_freq,importance_rating,columnwise_similarity
+breaths under water,fish,3,True,0.022222,5.750000,0.833333
+breaths under water,reptiles,3,True,0.022222,,0.833333
+is terrifying,birds,5,True,0.111111,,0.250000
+is terrifying,fish,5,True,0.111111,,0.250000
+is terrifying,insects,5,True,0.111111,3.500000,0.250000
+is terrifying,mammals,5,True,0.111111,,0.250000
+is terrifying,reptiles,5,True,0.111111,4.500000,0.250000
+endangered species,birds,,False,0.066667,,0.000000
+endangered species,fish,,False,0.066667,4.166667,0.000000
+endangered species,mammals,,False,0.066667,,0.000000
+endangered species,reptiles,,False,0.066667,,0.000000
+exists for ages,mammals,,False,0.000000,,0.000000
+exists for ages,reptiles,,False,0.000000,,0.000000
+builds nests,birds,2,True,0.355556,6.666667,0.714286
+builds nests,insects,2,True,0.355556,,0.714286
+builds nests,mammals,2,True,0.355556,,0.714286
+builds nests,reptiles,2,True,0.355556,,0.714286
+carries over diseases,mammals,,False,0.022222,,0.000000
+is brown/black,mammals,,False,0.000000,,0.000000
+is brown/black,reptiles,,False,0.000000,,0.000000
+thick skin,fish,5,True,0.000000,,0.181818
+thick skin,mammals,5,True,0.000000,,0.181818
+thick skin,reptiles,5,True,0.000000,,0.181818
+eats everything,mammals,,False,0.000000,,0.000000
+eats berries,birds,2,True,0.000000,,0.266667
+eats grain,birds,,False,0.000000,,0.000000
+eats insects,birds,"2, 5",False,0.022222,,0.827586
+eats insects,insects,"2, 5",False,0.022222,,0.827586
+eats insects,mammals,"2, 5",False,0.022222,,0.827586
+eats insects,reptiles,"2, 5",False,0.022222,5.166667,0.827586
+eats small animals,birds,"2, 3, 5",False,0.022222,5.333333,0.768293
+eats small animals,fish,"2, 3, 5",False,0.022222,,0.768293
+eats small animals,insects,"2, 3, 5",False,0.022222,,0.768293
+eats small animals,mammals,"2, 3, 5",False,0.022222,,0.768293
+eats small animals,reptiles,"2, 3, 5",False,0.022222,,0.768293
+eats plants,birds,"1, 2, 4, 5",False,0.000000,,0.715596
+eats plants,insects,"1, 2, 4, 5",False,0.000000,,0.715596
+eats plants,mammals,"1, 2, 4, 5",False,0.000000,,0.715596
+eats plants,reptiles,"1, 2, 4, 5",False,0.000000,,0.715596
+eats food for fish,fish,,False,0.000000,,0.000000
+eats worms,birds,"2, 5",False,0.155556,5.666667,0.725490
+eats worms,mammals,"2, 5",False,0.155556,,0.725490
+eats worms,reptiles,"2, 5",False,0.155556,,0.725490
+eats seed,birds,2,True,0.000000,,0.733333
+there are many kinds of it,birds,5,True,0.311111,,0.269841
+there are many kinds of it,fish,5,True,0.311111,5.583333,0.269841
+there are many kinds of it,insects,5,True,0.311111,4.750000,0.269841
+there are many kinds of it,mammals,5,True,0.311111,5.666667,0.269841
+there are many kinds of it,reptiles,5,True,0.311111,6.000000,0.269841
+flutters,birds,,False,0.022222,6.166667,0.000000
+flutters,insects,,False,0.022222,,0.000000
+sings (whistles),birds,2,True,0.133333,5.333333,0.266667
+is athrodopal,insects,4,True,0.022222,4.166667,0.923077
+is dangerous,birds,,False,0.111111,,0.000000
+is dangerous,fish,,False,0.111111,,0.000000
+is dangerous,insects,,False,0.111111,,0.000000
+is dangerous,mammals,,False,0.111111,,0.000000
+is dangerous,reptiles,,False,0.111111,5.333333,0.000000
+has bones,fish,3,True,0.177778,6.250000,0.950000
+has two eyes,birds,"1, 2, 3, 4, 5",False,0.000000,,1.000000
+has two eyes,fish,"1, 2, 3, 4, 5",False,0.000000,,1.000000
+has two eyes,insects,"1, 2, 3, 4, 5",False,0.000000,,1.000000
+has two eyes,mammals,"1, 2, 3, 4, 5",False,0.000000,,1.000000
+has two eyes,reptiles,"1, 2, 3, 4, 5",False,0.000000,,1.000000
+has eight paws,insects,,False,0.000000,,0.000000
+has a long tail,mammals,"1, 5",False,0.000000,,0.471698
+has a long tail,reptiles,"1, 5",False,0.000000,,0.471698
+has a long tongue,mammals,,False,0.022222,,0.000000
+has a long tongue,reptiles,,False,0.022222,4.500000,0.000000
+has a bill,birds,2,True,0.311111,6.750000,1.000000
+has a tail,birds,"1, 2, 3, 5",False,0.111111,,0.961165
+has a tail,fish,"1, 2, 3, 5",False,0.111111,5.416667,0.961165
+has a tail,mammals,"1, 2, 3, 5",False,0.111111,,0.961165
+has a tail,reptiles,"1, 2, 3, 5",False,0.111111,5.416667,0.961165
+has a fur (in dutch: vacht),mammals,1,True,0.288889,5.500000,0.787879
+compound eyes,insects,4,True,0.022222,5.500000,0.923077
+has no paws,fish,3,True,0.022222,,0.666667
+has no paws,insects,3,True,0.022222,,0.666667
+has no paws,reptiles,3,True,0.022222,4.250000,0.666667
+has gills,fish,3,True,0.311111,6.250000,0.869565
+has short paws,birds,"2, 4, 5",False,0.000000,,0.770115
+has short paws,fish,"2, 4, 5",False,0.000000,,0.770115
+has short paws,insects,"2, 4, 5",False,0.000000,,0.770115
+has short paws,mammals,"2, 4, 5",False,0.000000,,0.770115
+has short paws,reptiles,"2, 4, 5",False,0.000000,,0.770115
+has a mouth,birds,"1, 2, 3, 4, 5",False,0.022222,,1.000000
+has a mouth,fish,"1, 2, 3, 4, 5",False,0.022222,,1.000000
+has a mouth,insects,"1, 2, 3, 4, 5",False,0.022222,,1.000000
+has a mouth,mammals,"1, 2, 3, 4, 5",False,0.022222,,1.000000
+has a mouth,reptiles,"1, 2, 3, 4, 5",False,0.022222,,1.000000
+has eyes,birds,"1, 2, 3, 4, 5",False,0.155556,,1.000000
+has eyes,fish,"1, 2, 3, 4, 5",False,0.155556,5.583333,1.000000
+has eyes,insects,"1, 2, 3, 4, 5",False,0.155556,,1.000000
+has eyes,mammals,"1, 2, 3, 4, 5",False,0.155556,4.416667,1.000000
+has eyes,reptiles,"1, 2, 3, 4, 5",False,0.155556,,1.000000
+has legs,birds,"1, 2, 4, 5",False,0.200000,4.750000,0.908257
+has legs,insects,"1, 2, 4, 5",False,0.200000,5.750000,0.908257
+has legs,mammals,"1, 2, 4, 5",False,0.200000,5.250000,0.908257
+has legs,reptiles,"1, 2, 4, 5",False,0.200000,,0.908257
+has sharp claws,birds,,False,0.000000,,0.000000
+has sharp claws,mammals,,False,0.000000,,0.000000
+has sharp claws,reptiles,,False,0.000000,,0.000000
+has scales,fish,"3, 5",False,0.622222,5.833333,0.875000
+has scales,reptiles,"3, 5",False,0.622222,5.333333,0.875000
+has teeth,fish,"1, 3, 5",False,0.044444,,0.825581
+has teeth,insects,"1, 3, 5",False,0.044444,,0.825581
+has teeth,mammals,"1, 3, 5",False,0.044444,,0.825581
+has teeth,reptiles,"1, 3, 5",False,0.044444,5.083333,0.825581
+has two paws,birds,2,True,0.044444,6.500000,1.000000
+has two wings,birds,2,True,0.044444,6.666667,0.967742
+has two wings,mammals,2,True,0.044444,,0.967742
+has feathers,birds,2,True,0.422222,6.833333,1.000000
+has four paws,mammals,"1, 5",False,0.200000,5.416667,0.811321
+has four paws,reptiles,"1, 5",False,0.200000,5.000000,0.811321
+has fins,fish,3,True,0.266667,5.833333,0.869565
+has wings,birds,"2, 4",False,0.288889,6.750000,0.771930
+has wings,insects,"2, 4",False,0.288889,4.500000,0.771930
+has wings,mammals,"2, 4",False,0.288889,,0.771930
+has feelers,insects,4,True,0.044444,5.000000,1.000000
+hibernates,mammals,,False,0.044444,,0.000000
+swims in aquariums,fish,,False,0.044444,5.500000,0.000000
+swims in aquariums,reptiles,,False,0.044444,,0.000000
+lives in a cage,birds,5,True,0.022222,4.666667,0.041667
+lives in a cage,mammals,5,True,0.022222,,0.041667
+lives in a cage,reptiles,5,True,0.022222,,0.041667
+is brown,birds,5,True,0.000000,,0.250000
+is brown,fish,5,True,0.000000,,0.250000
+is brown,insects,5,True,0.000000,,0.250000
+is brown,mammals,5,True,0.000000,,0.250000
+is brown,reptiles,5,True,0.000000,,0.250000
+dark colour,birds,"4, 5",False,0.000000,,0.394366
+dark colour,fish,"4, 5",False,0.000000,,0.394366
+dark colour,insects,"4, 5",False,0.000000,,0.394366
+dark colour,mammals,"4, 5",False,0.000000,,0.394366
+dark colour,reptiles,"4, 5",False,0.000000,,0.394366
+is a delicacy,birds,,False,0.044444,,0.000000
+is a delicacy,fish,,False,0.044444,,0.000000
+is a delicacy,mammals,,False,0.044444,,0.000000
+is a delicacy,reptiles,,False,0.044444,,0.000000
+is an animal,birds,"1, 2, 3, 4, 5",False,0.666667,6.416667,1.000000
+is an animal,fish,"1, 2, 3, 4, 5",False,0.666667,5.666667,1.000000
+is an animal,insects,"1, 2, 3, 4, 5",False,0.666667,5.666667,1.000000
+is an animal,mammals,"1, 2, 3, 4, 5",False,0.666667,6.166667,1.000000
+is an animal,reptiles,"1, 2, 3, 4, 5",False,0.666667,6.666667,1.000000
+is an exotic animal,birds,"1, 5",False,0.066667,,0.482143
+is an exotic animal,fish,"1, 5",False,0.066667,,0.482143
+is an exotic animal,mammals,"1, 5",False,0.066667,,0.482143
+is an exotic animal,reptiles,"1, 5",False,0.066667,4.833333,0.482143
+is a migratory bird,birds,,False,0.066667,5.000000,0.000000
+is a carnivore,birds,5,True,0.044444,,0.361111
+is a carnivore,fish,5,True,0.044444,,0.361111
+is a carnivore,mammals,5,True,0.044444,,0.361111
+is a carnivore,reptiles,5,True,0.044444,,0.361111
+is healthy,fish,3,True,0.088889,4.750000,0.750000
+is smooth,fish,3,True,0.044444,6.166667,0.606061
+is smooth,insects,3,True,0.044444,,0.606061
+is smooth,reptiles,3,True,0.044444,,0.606061
+is slippery,fish,3,True,0.133333,5.750000,0.555556
+is slippery,insects,3,True,0.133333,,0.555556
+is slippery,reptiles,3,True,0.133333,4.916667,0.555556
+is green,birds,5,True,0.155556,,0.576923
+is green,insects,5,True,0.155556,,0.576923
+is green,reptiles,5,True,0.155556,4.583333,0.576923
+is irritating,birds,4,True,0.155556,,0.733333
+is irritating,insects,4,True,0.155556,4.666667,0.733333
+is irritating,mammals,4,True,0.155556,,0.733333
+is small,birds,"2, 3, 4, 5",False,0.444444,,0.769231
+is small,fish,"2, 3, 4, 5",False,0.444444,,0.769231
+is small,insects,"2, 3, 4, 5",False,0.444444,6.000000,0.769231
+is small,mammals,"2, 3, 4, 5",False,0.444444,,0.769231
+is small,reptiles,"2, 3, 4, 5",False,0.444444,,0.769231
+is tasty,birds,3,True,0.200000,,0.406250
+is tasty,fish,3,True,0.200000,4.916667,0.406250
+is tasty,mammals,3,True,0.200000,,0.406250
+is ugly,birds,3,True,0.022222,,0.418605
+is ugly,fish,3,True,0.022222,,0.418605
+is ugly,insects,3,True,0.022222,,0.418605
+is ugly,mammals,3,True,0.022222,,0.418605
+is ugly,reptiles,3,True,0.022222,4.000000,0.418605
+is beautiful,birds,1,True,0.000000,,0.423077
+is beautiful,fish,1,True,0.000000,,0.423077
+is beautiful,insects,1,True,0.000000,,0.423077
+is beautiful,mammals,1,True,0.000000,,0.423077
+is beautiful,reptiles,1,True,0.000000,,0.423077
+is not dangerous,birds,"1, 2, 3, 4, 5",False,0.000000,,0.829457
+is not dangerous,fish,"1, 2, 3, 4, 5",False,0.000000,,0.829457
+is not dangerous,insects,"1, 2, 3, 4, 5",False,0.000000,,0.829457
+is not dangerous,mammals,"1, 2, 3, 4, 5",False,0.000000,,0.829457
+is not dangerous,reptiles,"1, 2, 3, 4, 5",False,0.000000,,0.829457
+is fast,birds,"1, 2, 3, 4, 5",False,0.000000,,0.620155
+is fast,fish,"1, 2, 3, 4, 5",False,0.000000,,0.620155
+is fast,insects,"1, 2, 3, 4, 5",False,0.000000,,0.620155
+is fast,mammals,"1, 2, 3, 4, 5",False,0.000000,,0.620155
+is fast,reptiles,"1, 2, 3, 4, 5",False,0.000000,,0.620155
+is nasty,birds,"4, 5",False,0.044444,,0.654545
+is nasty,fish,"4, 5",False,0.044444,,0.654545
+is nasty,insects,"4, 5",False,0.044444,,0.654545
+is nasty,mammals,"4, 5",False,0.044444,,0.654545
+is nasty,reptiles,"4, 5",False,0.044444,3.666667,0.654545
+rises early,birds,,False,0.000000,,0.000000
+can be dangerous,birds,,False,0.111111,,0.000000
+can be dangerous,fish,,False,0.111111,,0.000000
+can be dangerous,insects,,False,0.111111,,0.000000
+can be dangerous,mammals,,False,0.111111,,0.000000
+can be dangerous,reptiles,,False,0.111111,4.250000,0.000000
+can be poisonous,insects,,False,0.066667,,0.000000
+can be poisonous,reptiles,,False,0.066667,5.500000,0.000000
+can't fly,birds,"1, 3, 5",False,0.044444,,0.800000
+can't fly,fish,"1, 3, 5",False,0.044444,,0.800000
+can't fly,insects,"1, 3, 5",False,0.044444,,0.800000
+can't fly,mammals,"1, 3, 5",False,0.044444,4.000000,0.800000
+can't fly,reptiles,"1, 3, 5",False,0.044444,,0.800000
+can loose its tail,reptiles,,False,0.000000,,0.000000
+can have different colors,birds,5,True,0.177778,,0.244898
+can have different colors,insects,5,True,0.177778,,0.244898
+can have different colors,mammals,5,True,0.177778,4.583333,0.244898
+can have different colors,reptiles,5,True,0.177778,,0.244898
+can fly,birds,"2, 4",False,0.666667,6.750000,0.684211
+can fly,insects,"2, 4",False,0.666667,5.166667,0.684211
+can fly,mammals,"2, 4",False,0.666667,,0.684211
+can swim,birds,3,True,0.266667,,0.476190
+can swim,fish,3,True,0.266667,6.000000,0.476190
+can swim,mammals,3,True,0.266667,4.333333,0.476190
+can swim,reptiles,3,True,0.266667,,0.476190
+comes up to light,insects,,False,0.000000,,0.000000
+is found all around the world,insects,,False,0.066667,5.916667,0.000000
+is found all around the world,mammals,,False,0.066667,,0.000000
+is found in the garden,birds,"2, 4",False,0.000000,,0.639344
+is found in the garden,insects,"2, 4",False,0.000000,,0.639344
+is found in the garden,mammals,"2, 4",False,0.000000,,0.639344
+is found in the garden,reptiles,"2, 4",False,0.000000,,0.639344
+is cold-blooded,reptiles,5,True,0.266667,6.500000,1.000000
+in the morning,birds,,False,0.022222,4.000000,0.000000
+has beady eyes,birds,,False,0.022222,4.500000,0.000000
+crawls,insects,5,True,0.022222,,0.444444
+crawls,mammals,5,True,0.022222,,0.444444
+crawls,reptiles,5,True,0.022222,,0.444444
+lives nearby the water,birds,,False,0.000000,,0.000000
+lives nearby the water,insects,,False,0.000000,,0.000000
+lives nearby the water,mammals,,False,0.000000,,0.000000
+lives nearby the water,reptiles,,False,0.000000,,0.000000
+lives in Africa,birds,"1, 3, 4, 5",False,0.000000,,0.778761
+lives in Africa,fish,"1, 3, 4, 5",False,0.000000,,0.778761
+lives in Africa,insects,"1, 3, 4, 5",False,0.000000,,0.778761
+lives in Africa,mammals,"1, 3, 4, 5",False,0.000000,,0.778761
+lives in Africa,reptiles,"1, 3, 4, 5",False,0.000000,,0.778761
+lives in the sea,birds,3,True,0.066667,,0.800000
+lives in the sea,fish,3,True,0.066667,6.083333,0.800000
+lives in the sea,reptiles,3,True,0.066667,,0.800000
+lives in the zoo,birds,"1, 3, 5",False,0.177778,,0.606742
+lives in the zoo,fish,"1, 3, 5",False,0.177778,,0.606742
+lives in the zoo,insects,"1, 3, 5",False,0.177778,,0.606742
+lives in the zoo,mammals,"1, 3, 5",False,0.177778,5.083333,0.606742
+lives in the zoo,reptiles,"1, 3, 5",False,0.177778,4.500000,0.606742
+lives in a swamp,insects,,False,0.000000,,0.000000
+lives in a swamp,reptiles,,False,0.000000,,0.000000
+herds,birds,"1, 3, 4",False,0.022222,,0.640777
+herds,fish,"1, 3, 4",False,0.022222,,0.640777
+herds,insects,"1, 3, 4",False,0.022222,,0.640777
+herds,mammals,"1, 3, 4",False,0.022222,,0.640777
+herds,reptiles,"1, 3, 4",False,0.022222,,0.640777
+lives in the wild,birds,"1, 2, 3, 4, 5",False,0.155556,5.083333,0.945736
+lives in the wild,fish,"1, 2, 3, 4, 5",False,0.155556,,0.945736
+lives in the wild,insects,"1, 2, 3, 4, 5",False,0.155556,,0.945736
+lives in the wild,mammals,"1, 2, 3, 4, 5",False,0.155556,4.666667,0.945736
+lives in the wild,reptiles,"1, 2, 3, 4, 5",False,0.155556,,0.945736
+lives in warm countries,birds,"1, 2, 3, 4, 5",False,0.000000,,0.930233
+lives in warm countries,fish,"1, 2, 3, 4, 5",False,0.000000,,0.930233
+lives in warm countries,insects,"1, 2, 3, 4, 5",False,0.000000,,0.930233
+lives in warm countries,mammals,"1, 2, 3, 4, 5",False,0.000000,,0.930233
+lives in warm countries,reptiles,"1, 2, 3, 4, 5",False,0.000000,,0.930233
+lives in water,birds,3,True,0.511111,,0.555556
+lives in water,fish,3,True,0.511111,5.833333,0.555556
+lives in water,mammals,3,True,0.511111,2.750000,0.555556
+lives in water,reptiles,3,True,0.511111,4.500000,0.555556
+lives in the desert,mammals,,False,0.000000,,0.000000
+lives in the desert,reptiles,,False,0.000000,,0.000000
+is a freshwater fish,birds,3,True,0.000000,,0.307692
+is a freshwater fish,fish,3,True,0.000000,,0.307692
+is a freshwater fish,reptiles,3,True,0.000000,,0.307692
+doesn't live long,insects,4,True,0.066667,5.416667,0.461538
+doesn't live on land,fish,3,True,0.022222,5.666667,0.869565
+lives on land,birds,"1, 2, 4, 5",False,0.288889,,0.963303
+lives on land,insects,"1, 2, 4, 5",False,0.288889,4.666667,0.963303
+lives on land,mammals,"1, 2, 4, 5",False,0.288889,5.333333,0.963303
+lives on land,reptiles,"1, 2, 4, 5",False,0.288889,5.083333,0.963303
+lives on land and sea,birds,,False,0.200000,,0.000000
+lives on land and sea,mammals,,False,0.200000,4.000000,0.000000
+lives on land and sea,reptiles,,False,0.200000,5.416667,0.000000
+lays eggs,birds,"2, 3, 4, 5",False,1.000000,6.583333,1.000000
+lays eggs,fish,"2, 3, 4, 5",False,1.000000,5.833333,1.000000
+lays eggs,insects,"2, 3, 4, 5",False,1.000000,6.083333,1.000000
+lays eggs,reptiles,"2, 3, 4, 5",False,1.000000,6.250000,1.000000
+does not lay eggs,fish,1,True,0.155556,,0.970588
+does not lay eggs,mammals,1,True,0.155556,6.083333,0.970588
+makes a sound,birds,"1, 2, 4, 5",False,0.022222,,0.770642
+makes a sound,fish,"1, 2, 4, 5",False,0.022222,,0.770642
+makes a sound,insects,"1, 2, 4, 5",False,0.022222,,0.770642
+makes a sound,mammals,"1, 2, 4, 5",False,0.022222,,0.770642
+makes a sound,reptiles,"1, 2, 4, 5",False,0.022222,,0.770642
+makes an extremely irritating sound,birds,,False,0.044444,,0.000000
+makes an extremely irritating sound,insects,,False,0.044444,4.166667,0.000000
+makes an extremely irritating sound,reptiles,,False,0.044444,,0.000000
+is not very popular among man,birds,"4, 5",False,0.000000,,0.690909
+is not very popular among man,fish,"4, 5",False,0.000000,,0.690909
+is not very popular among man,insects,"4, 5",False,0.000000,,0.690909
+is not very popular among man,mammals,"4, 5",False,0.000000,,0.690909
+is not very popular among man,reptiles,"4, 5",False,0.000000,,0.690909
+does not taste well,birds,"1, 2, 3, 4, 5",False,0.000000,,0.891473
+does not taste well,fish,"1, 2, 3, 4, 5",False,0.000000,,0.891473
+does not taste well,insects,"1, 2, 3, 4, 5",False,0.000000,,0.891473
+does not taste well,mammals,"1, 2, 3, 4, 5",False,0.000000,,0.891473
+does not taste well,reptiles,"1, 2, 3, 4, 5",False,0.000000,,0.891473
+is vermin,insects,4,True,0.044444,5.083333,0.653846
+is parasite,insects,,False,0.000000,,0.000000
+does not smell well,fish,3,True,0.022222,4.583333,0.739130
+does not smell well,mammals,3,True,0.022222,,0.739130
+has a rough skin,mammals,5,True,0.000000,,0.619048
+has a rough skin,reptiles,5,True,0.000000,,0.619048
+kind of frog,reptiles,,False,0.000000,,0.000000
+kind of snake,reptiles,,False,0.066667,4.583333,0.000000
+kind of crocodile,reptiles,,False,0.066667,4.916667,0.000000
+is a type of whale,fish,,False,0.000000,,0.000000
+descend from the dinosaur,reptiles,,False,0.044444,5.416667,0.000000
+stings,insects,,False,0.133333,6.083333,0.000000
+loyal,mammals,,False,0.000000,,0.000000
+chirps,birds,,False,0.111111,5.333333,0.000000
+is a bird,birds,2,True,0.000000,,1.000000
+is killed by man,insects,4,True,0.044444,4.250000,0.653846
+is eaten by birds,fish,"3, 4",False,0.022222,,0.740741
+is eaten by birds,insects,"3, 4",False,0.022222,,0.740741
+is eaten by birds,mammals,"3, 4",False,0.022222,,0.740741
+is eaten by birds,reptiles,"3, 4",False,0.022222,,0.740741
+is eaten by other animals,birds,"1, 2, 3, 4, 5",False,0.022222,,0.992248
+is eaten by other animals,fish,"1, 2, 3, 4, 5",False,0.022222,,0.992248
+is eaten by other animals,insects,"1, 2, 3, 4, 5",False,0.022222,5.250000,0.992248
+is eaten by other animals,mammals,"1, 2, 3, 4, 5",False,0.022222,,0.992248
+is eaten by other animals,reptiles,"1, 2, 3, 4, 5",False,0.022222,,0.992248
+is sometimes eaten by man,birds,"1, 3",False,0.244444,2.750000,0.522388
+is sometimes eaten by man,fish,"1, 3",False,0.244444,5.083333,0.522388
+is sometimes eaten by man,insects,"1, 3",False,0.244444,,0.522388
+is sometimes eaten by man,mammals,"1, 3",False,0.244444,,0.522388
+is sometimes eaten by man,reptiles,"1, 3",False,0.244444,,0.522388
+often becoms a cat's prey,mammals,,False,0.000000,,0.000000
+is exterminated,insects,4,True,0.022222,5.333333,0.923077
+has six paws,insects,4,True,0.288889,4.666667,0.884615
+is silvery,fish,,False,0.000000,,0.000000
+sings,birds,,False,0.044444,4.416667,0.000000
+buzzes,insects,4,True,0.022222,5.416667,0.307692
+mammal,fish,1,True,0.000000,,0.970588
+mammal,mammals,1,True,0.000000,,0.970588
+breathes,birds,"1, 2, 3, 4, 5",False,0.022222,,1.000000
+breathes,fish,"1, 2, 3, 4, 5",False,0.022222,,1.000000
+breathes,insects,"1, 2, 3, 4, 5",False,0.022222,,1.000000
+breathes,mammals,"1, 2, 3, 4, 5",False,0.022222,3.583333,1.000000
+breathes,reptiles,"1, 2, 3, 4, 5",False,0.022222,,1.000000
+breathes through gills,fish,3,True,0.066667,7.000000,0.950000
+breathes through lungs,birds,"1, 2, 5",False,0.044444,,0.988095
+breathes through lungs,fish,"1, 2, 5",False,0.044444,,0.988095
+breathes through lungs,mammals,"1, 2, 5",False,0.044444,5.416667,0.988095
+breathes through lungs,reptiles,"1, 2, 5",False,0.044444,,0.988095
+breathes through scales,,,False,0.000000,,0.000000
+its babies are born alive,fish,1,True,0.266667,,0.970588
+its babies are born alive,mammals,1,True,0.266667,6.500000,0.970588
+marks its territory,insects,,False,0.000000,,0.000000
+marks its territory,mammals,,False,0.000000,,0.000000
+marks its territory,reptiles,,False,0.000000,,0.000000
+belongs to nature,birds,"1, 2, 3, 4, 5",False,0.022222,,1.000000
+belongs to nature,fish,"1, 2, 3, 4, 5",False,0.022222,,1.000000
+belongs to nature,insects,"1, 2, 3, 4, 5",False,0.022222,4.500000,1.000000
+belongs to nature,mammals,"1, 2, 3, 4, 5",False,0.022222,,1.000000
+belongs to nature,reptiles,"1, 2, 3, 4, 5",False,0.022222,,1.000000
+contains omega 3,fish,3,True,0.022222,4.166667,0.900000
+contains proteins,birds,"1, 2, 3, 4, 5",False,0.000000,,1.000000
+contains proteins,fish,"1, 2, 3, 4, 5",False,0.000000,,1.000000
+contains proteins,insects,"1, 2, 3, 4, 5",False,0.000000,,1.000000
+contains proteins,mammals,"1, 2, 3, 4, 5",False,0.000000,,1.000000
+contains proteins,reptiles,"1, 2, 3, 4, 5",False,0.000000,,1.000000
+often bites,fish,,False,0.022222,,0.000000
+often bites,insects,,False,0.022222,4.583333,0.000000
+often bites,mammals,,False,0.022222,,0.000000
+often bites,reptiles,,False,0.022222,,0.000000
+shines,fish,3,True,0.000000,,0.470588
+shines,insects,3,True,0.000000,,0.470588
+shines,reptiles,3,True,0.000000,,0.470588
+its vascular system is less developed than that of mammals,fish,"3, 4, 5",False,0.000000,,0.984848
+its vascular system is less developed than that of mammals,insects,"3, 4, 5",False,0.000000,,0.984848
+its vascular system is less developed than that of mammals,reptiles,"3, 4, 5",False,0.000000,,0.984848
+eats,birds,"1, 2, 3, 4, 5",False,0.022222,,1.000000
+eats,fish,"1, 2, 3, 4, 5",False,0.022222,,1.000000
+eats,insects,"1, 2, 3, 4, 5",False,0.022222,,1.000000
+eats,mammals,"1, 2, 3, 4, 5",False,0.022222,3.416667,1.000000
+eats,reptiles,"1, 2, 3, 4, 5",False,0.022222,,1.000000
+dies,birds,"1, 2, 3, 4, 5",False,0.066667,,1.000000
+dies,fish,"1, 2, 3, 4, 5",False,0.066667,,1.000000
+dies,insects,"1, 2, 3, 4, 5",False,0.066667,,1.000000
+dies,mammals,"1, 2, 3, 4, 5",False,0.066667,3.416667,1.000000
+dies,reptiles,"1, 2, 3, 4, 5",False,0.066667,3.333333,1.000000
+uses the sun to keep body temperature stable,fish,"3, 4, 5",False,0.000000,,0.984848
+uses the sun to keep body temperature stable,insects,"3, 4, 5",False,0.000000,,0.984848
+uses the sun to keep body temperature stable,reptiles,"3, 4, 5",False,0.000000,,0.984848
+has arms,mammals,,False,0.000000,,0.000000
+has a central nervous system,birds,"1, 2, 3, 5",False,0.000000,,1.000000
+has a central nervous system,fish,"1, 2, 3, 5",False,0.000000,,1.000000
+has a central nervous system,mammals,"1, 2, 3, 5",False,0.000000,,1.000000
+has a central nervous system,reptiles,"1, 2, 3, 5",False,0.000000,,1.000000
+has a beak,birds,2,True,0.111111,6.500000,0.882353
+has a beak,fish,2,True,0.111111,,0.882353
+has a beak,mammals,2,True,0.111111,,0.882353
+has a beak,reptiles,2,True,0.111111,,0.882353
+has an exoskeleton,insects,4,True,0.044444,5.000000,0.923077
+doesn't have a central nervous system,insects,4,True,0.000000,,1.000000
+doesn't have wings,fish,"1, 3, 5",False,0.000000,,0.847059
+doesn't have wings,insects,"1, 3, 5",False,0.000000,,0.847059
+doesn't have wings,mammals,"1, 3, 5",False,0.000000,,0.847059
+doesn't have wings,reptiles,"1, 3, 5",False,0.000000,,0.847059
+has brains,birds,"1, 2, 3, 4, 5",False,0.000000,,1.000000
+has brains,fish,"1, 2, 3, 4, 5",False,0.000000,,1.000000
+has brains,insects,"1, 2, 3, 4, 5",False,0.000000,,1.000000
+has brains,mammals,"1, 2, 3, 4, 5",False,0.000000,,1.000000
+has brains,reptiles,"1, 2, 3, 4, 5",False,0.000000,,1.000000
+has skin,birds,"1, 2, 5",False,0.000000,,0.853933
+has skin,fish,"1, 2, 5",False,0.000000,,0.853933
+has skin,insects,"1, 2, 5",False,0.000000,,0.853933
+has skin,mammals,"1, 2, 5",False,0.000000,,0.853933
+has skin,reptiles,"1, 2, 5",False,0.000000,,0.853933
+has no eyelids,fish,"3, 4, 5",False,0.000000,,0.970149
+has no eyelids,insects,"3, 4, 5",False,0.000000,,0.970149
+has no eyelids,reptiles,"3, 4, 5",False,0.000000,,0.970149
+has lungs,birds,"1, 2, 5",False,0.133333,,0.988095
+has lungs,fish,"1, 2, 5",False,0.133333,,0.988095
+has lungs,mammals,"1, 2, 5",False,0.133333,4.916667,0.988095
+has lungs,reptiles,"1, 2, 5",False,0.133333,4.000000,0.988095
+has air sacs,birds,2,True,0.044444,4.666667,1.000000
+has nipples,fish,1,True,0.022222,,0.970588
+has nipples,mammals,1,True,0.022222,5.750000,0.970588
+has a vertically oriented tail,fish,3,True,0.000000,,0.695652
+hops,mammals,,False,0.000000,,0.000000
+is affectionate,birds,,False,0.000000,,0.000000
+is affectionate,fish,,False,0.000000,,0.000000
+is affectionate,mammals,,False,0.000000,,0.000000
+is hairy,birds,1,True,0.066667,,0.717949
+is hairy,insects,1,True,0.066667,,0.717949
+is hairy,mammals,1,True,0.066667,5.166667,0.717949
+is not yet independent at birth,birds,"1, 2",False,0.000000,,0.984375
+is not yet independent at birth,fish,"1, 2",False,0.000000,,0.984375
+is not yet independent at birth,mammals,"1, 2",False,0.000000,,0.984375
+is a dolphin,fish,,False,0.022222,,0.000000
+is a shark,fish,,False,0.044444,2.416667,0.000000
+is a hunter,birds,5,True,0.000000,,0.333333
+is a hunter,fish,5,True,0.000000,,0.333333
+is a hunter,insects,5,True,0.000000,,0.333333
+is a hunter,mammals,5,True,0.000000,,0.333333
+is a hunter,reptiles,5,True,0.000000,,0.333333
+is a cat,mammals,,False,0.000000,,0.000000
+is a cow,mammals,,False,0.000000,,0.000000
+is a living being,birds,"1, 2, 3, 4, 5",False,0.066667,,1.000000
+is a living being,fish,"1, 2, 3, 4, 5",False,0.066667,,1.000000
+is a living being,insects,"1, 2, 3, 4, 5",False,0.066667,,1.000000
+is a living being,mammals,"1, 2, 3, 4, 5",False,0.066667,4.833333,1.000000
+is a living being,reptiles,"1, 2, 3, 4, 5",False,0.066667,,1.000000
+is a human,,,False,0.311111,,0.000000
+is an ant,insects,,False,0.022222,3.750000,0.000000
+is a mosquito,insects,,False,0.044444,4.000000,0.000000
+is an elephant,mammals,,False,0.000000,,0.000000
+is a turtle,reptiles,,False,0.022222,3.333333,0.000000
+is a sport,,,False,0.000000,,0.000000
+is a constellation,birds,,False,0.044444,,0.000000
+is a constellation,mammals,,False,0.044444,,0.000000
+is a constellation,reptiles,,False,0.044444,,0.000000
+is a collective noun,birds,"2, 4",False,0.000000,,0.306818
+is a collective noun,fish,"2, 4",False,0.000000,,0.306818
+is a collective noun,insects,"2, 4",False,0.000000,,0.306818
+is a collective noun,mammals,"2, 4",False,0.000000,,0.306818
+is a collective noun,reptiles,"2, 4",False,0.000000,,0.306818
+is a sweet- or salt-water fish,fish,3,True,0.111111,5.583333,0.900000
+comes in different sizes,birds,"1, 2, 3, 4, 5",False,0.244444,,1.000000
+comes in different sizes,fish,"1, 2, 3, 4, 5",False,0.244444,4.250000,1.000000
+comes in different sizes,insects,"1, 2, 3, 4, 5",False,0.244444,,1.000000
+comes in different sizes,mammals,"1, 2, 3, 4, 5",False,0.244444,3.916667,1.000000
+comes in different sizes,reptiles,"1, 2, 3, 4, 5",False,0.244444,,1.000000
+comes in different shapes,birds,,False,0.022222,,0.000000
+comes in different shapes,fish,,False,0.022222,,0.000000
+comes in different shapes,insects,,False,0.022222,,0.000000
+comes in different shapes,mammals,,False,0.022222,3.750000,0.000000
+comes in different shapes,reptiles,,False,0.022222,,0.000000
+is fascinating,birds,"1, 2, 5",False,0.000000,,0.686275
+is fascinating,fish,"1, 2, 5",False,0.000000,,0.686275
+is fascinating,insects,"1, 2, 5",False,0.000000,,0.686275
+is fascinating,mammals,"1, 2, 5",False,0.000000,,0.686275
+is fascinating,reptiles,"1, 2, 5",False,0.000000,,0.686275
+is nice,birds,1,True,0.000000,,0.326087
+is nice,fish,1,True,0.000000,,0.326087
+is nice,insects,1,True,0.000000,,0.326087
+is nice,mammals,1,True,0.000000,,0.326087
+is nice,reptiles,1,True,0.000000,,0.326087
+is not a mammal,birds,"2, 3, 4, 5",False,0.000000,,0.989583
+is not a mammal,fish,"2, 3, 4, 5",False,0.000000,,0.989583
+is not a mammal,insects,"2, 3, 4, 5",False,0.000000,,0.989583
+is not a mammal,reptiles,"2, 3, 4, 5",False,0.000000,,0.989583
+has an aerodynamic body,birds,"2, 3, 4",False,0.000000,,0.656250
+has an aerodynamic body,fish,"2, 3, 4",False,0.000000,,0.656250
+has an aerodynamic body,insects,"2, 3, 4",False,0.000000,,0.656250
+has an aerodynamic body,mammals,"2, 3, 4",False,0.000000,,0.656250
+has an aerodynamic body,reptiles,"2, 3, 4",False,0.000000,,0.656250
+is a vertebrate,birds,"1, 2, 3, 5",False,0.133333,,0.990291
+is a vertebrate,fish,"1, 2, 3, 5",False,0.133333,,0.990291
+is a vertebrate,mammals,"1, 2, 3, 5",False,0.133333,6.083333,0.990291
+is a vertebrate,reptiles,"1, 2, 3, 5",False,0.133333,5.583333,0.990291
+is good for the eyes,,,False,0.000000,,0.000000
+is creepy,birds,5,True,0.044444,,0.354839
+is creepy,fish,5,True,0.044444,,0.354839
+is creepy,insects,5,True,0.044444,,0.354839
+is creepy,mammals,5,True,0.044444,,0.354839
+is creepy,reptiles,5,True,0.044444,3.583333,0.354839
+is smaller than a meter,birds,"2, 3, 4, 5",False,0.000000,,0.822430
+is smaller than a meter,fish,"2, 3, 4, 5",False,0.000000,,0.822430
+is smaller than a meter,insects,"2, 3, 4, 5",False,0.000000,,0.822430
+is smaller than a meter,mammals,"2, 3, 4, 5",False,0.000000,,0.822430
+is smaller than a meter,reptiles,"2, 3, 4, 5",False,0.000000,,0.822430
+is colourful,birds,2,True,0.000000,,0.250000
+is colourful,fish,2,True,0.000000,,0.250000
+is colourful,insects,2,True,0.000000,,0.250000
+is colourful,mammals,2,True,0.000000,,0.250000
+is colourful,reptiles,2,True,0.000000,,0.250000
+has no hairs,birds,"2, 3, 4, 5",False,0.000000,,0.969697
+has no hairs,fish,"2, 3, 4, 5",False,0.000000,,0.969697
+has no hairs,insects,"2, 3, 4, 5",False,0.000000,,0.969697
+has no hairs,reptiles,"2, 3, 4, 5",False,0.000000,,0.969697
+is useful,birds,"1, 2, 3, 4, 5",False,0.088889,,1.000000
+is useful,fish,"1, 2, 3, 4, 5",False,0.088889,,1.000000
+is useful,insects,"1, 2, 3, 4, 5",False,0.088889,4.000000,1.000000
+is useful,mammals,"1, 2, 3, 4, 5",False,0.088889,,1.000000
+is useful,reptiles,"1, 2, 3, 4, 5",False,0.088889,,1.000000
+invertebrate,fish,4,True,0.000000,,0.962963
+invertebrate,insects,4,True,0.000000,,0.962963
+is quiet,birds,5,True,0.000000,,0.135593
+is quiet,fish,5,True,0.000000,,0.135593
+is quiet,insects,5,True,0.000000,,0.135593
+is quiet,mammals,5,True,0.000000,,0.135593
+is quiet,reptiles,5,True,0.000000,,0.135593
+is determined,birds,2,True,0.000000,,0.215686
+is determined,fish,2,True,0.000000,,0.215686
+is determined,insects,2,True,0.000000,,0.215686
+is determined,mammals,2,True,0.000000,,0.215686
+is determined,reptiles,2,True,0.000000,,0.215686
+is warm-blooded,birds,"1, 2",False,0.088889,,0.984375
+is warm-blooded,fish,"1, 2",False,0.088889,,0.984375
+is warm-blooded,mammals,"1, 2",False,0.088889,6.166667,0.984375
+is soft,birds,"1, 2",False,0.000000,,0.825397
+is soft,mammals,"1, 2",False,0.000000,,0.825397
+can bite,birds,1,True,0.066667,,0.492308
+can bite,fish,1,True,0.066667,,0.492308
+can bite,insects,1,True,0.066667,5.416667,0.492308
+can bite,mammals,1,True,0.066667,,0.492308
+can bite,reptiles,1,True,0.066667,3.916667,0.492308
+is something you can purchase,birds,"3, 5",False,0.000000,,0.383562
+is something you can purchase,fish,"3, 5",False,0.000000,,0.383562
+is something you can purchase,insects,"3, 5",False,0.000000,,0.383562
+is something you can purchase,mammals,"3, 5",False,0.000000,,0.383562
+is something you can purchase,reptiles,"3, 5",False,0.000000,,0.383562
+can walk,birds,"1, 2, 4, 5",False,0.044444,4.000000,0.862385
+can walk,insects,"1, 2, 4, 5",False,0.044444,,0.862385
+can walk,mammals,"1, 2, 4, 5",False,0.044444,,0.862385
+can walk,reptiles,"1, 2, 4, 5",False,0.044444,,0.862385
+is able to reproduce,birds,"1, 2, 3, 4, 5",False,0.177778,3.500000,1.000000
+is able to reproduce,fish,"1, 2, 3, 4, 5",False,0.177778,,1.000000
+is able to reproduce,insects,"1, 2, 3, 4, 5",False,0.177778,,1.000000
+is able to reproduce,mammals,"1, 2, 3, 4, 5",False,0.177778,5.416667,1.000000
+is able to reproduce,reptiles,"1, 2, 3, 4, 5",False,0.177778,,1.000000
+can become ill,birds,"1, 2, 3, 4, 5",False,0.066667,,1.000000
+can become ill,fish,"1, 2, 3, 4, 5",False,0.066667,,1.000000
+can become ill,insects,"1, 2, 3, 4, 5",False,0.066667,,1.000000
+can become ill,mammals,"1, 2, 3, 4, 5",False,0.066667,2.916667,1.000000
+can become ill,reptiles,"1, 2, 3, 4, 5",False,0.066667,,1.000000
+there are lots of these,birds,"1, 2, 3, 4, 5",False,0.111111,,0.953488
+there are lots of these,fish,"1, 2, 3, 4, 5",False,0.111111,,0.953488
+there are lots of these,insects,"1, 2, 3, 4, 5",False,0.111111,5.000000,0.953488
+there are lots of these,mammals,"1, 2, 3, 4, 5",False,0.111111,,0.953488
+there are lots of these,reptiles,"1, 2, 3, 4, 5",False,0.111111,,0.953488
+has a leathery skin,fish,5,True,0.000000,,0.692308
+has a leathery skin,mammals,5,True,0.000000,,0.692308
+has a leathery skin,reptiles,5,True,0.000000,,0.692308
+lives in colonies,birds,1,True,0.022222,,0.346154
+lives in colonies,fish,1,True,0.022222,,0.346154
+lives in colonies,insects,1,True,0.022222,4.916667,0.346154
+lives in colonies,mammals,1,True,0.022222,,0.346154
+lives in colonies,reptiles,1,True,0.022222,,0.346154
+doesn't resemble a human being,birds,"1, 2, 3, 4, 5",False,0.000000,,0.992248
+doesn't resemble a human being,fish,"1, 2, 3, 4, 5",False,0.000000,,0.992248
+doesn't resemble a human being,insects,"1, 2, 3, 4, 5",False,0.000000,,0.992248
+doesn't resemble a human being,mammals,"1, 2, 3, 4, 5",False,0.000000,,0.992248
+doesn't resemble a human being,reptiles,"1, 2, 3, 4, 5",False,0.000000,,0.992248
+makes a lot of noise,birds,"1, 2",False,0.000000,,0.797297
+makes a lot of noise,fish,"1, 2",False,0.000000,,0.797297
+makes a lot of noise,insects,"1, 2",False,0.000000,,0.797297
+makes a lot of noise,mammals,"1, 2",False,0.000000,,0.797297
+makes a lot of noise,reptiles,"1, 2",False,0.000000,,0.797297
+goes through a metamorphosis,insects,4,True,0.000000,,0.538462
+is a symbol for freedom,birds,,False,0.000000,,0.000000
+descends from reptiles,birds,"2, 5",False,0.000000,,0.980000
+descends from reptiles,reptiles,"2, 5",False,0.000000,,0.980000
+sometimes smells,birds,"1, 2, 3, 5",False,0.066667,,0.895652
+sometimes smells,fish,"1, 2, 3, 5",False,0.066667,4.416667,0.895652
+sometimes smells,insects,"1, 2, 3, 5",False,0.066667,,0.895652
+sometimes smells,mammals,"1, 2, 3, 5",False,0.066667,,0.895652
+sometimes smells,reptiles,"1, 2, 3, 5",False,0.066667,,0.895652
+its excrements are found on the street,birds,,False,0.000000,,0.000000
+its excrements are found on the street,mammals,,False,0.000000,,0.000000
+is found in fish stew,fish,,False,0.000000,,0.000000
+is found in trees,birds,"2, 5",False,0.088889,5.000000,0.400000
+is found in trees,insects,"2, 5",False,0.088889,,0.400000
+is found in trees,mammals,"2, 5",False,0.088889,,0.400000
+is found in trees,reptiles,"2, 5",False,0.088889,,0.400000
+is more often encountered during summer,birds,"2, 4",False,0.111111,,0.590909
+is more often encountered during summer,fish,"2, 4",False,0.111111,,0.590909
+is more often encountered during summer,insects,"2, 4",False,0.111111,5.416667,0.590909
+is more often encountered during summer,mammals,"2, 4",False,0.111111,,0.590909
+is more often encountered during summer,reptiles,"2, 4",False,0.111111,,0.590909
+flies or crawls,birds,"2, 4",False,0.111111,,0.730159
+flies or crawls,insects,"2, 4",False,0.111111,6.333333,0.730159
+flies or crawls,mammals,"2, 4",False,0.111111,,0.730159
+flies or crawls,reptiles,"2, 4",False,0.111111,,0.730159
+is caught using nets,fish,3,True,0.000000,,0.772727
+is caught using nets,insects,3,True,0.000000,,0.772727
+is eaten by an insectivore,insects,4,True,0.000000,,0.769231
+is eaten by plants,insects,4,True,0.000000,,0.346154
+is eaten by spiders,insects,4,True,0.022222,4.916667,0.769231
+is eaten with white wine,fish,3,True,0.000000,,0.761905
+is eaten with white wine,reptiles,3,True,0.000000,,0.761905
+is caught using bait,fish,3,True,0.000000,,0.700000
+is caught using a fishing rod,fish,3,True,0.000000,,0.800000
+is sometimes kept as a pet,birds,5,True,0.311111,2.833333,0.250000
+is sometimes kept as a pet,fish,5,True,0.311111,4.083333,0.250000
+is sometimes kept as a pet,insects,5,True,0.311111,,0.250000
+is sometimes kept as a pet,mammals,5,True,0.311111,3.833333,0.250000
+is sometimes kept as a pet,reptiles,5,True,0.311111,3.583333,0.250000
+breastfeeds its babies,fish,1,True,0.355556,,0.970588
+breastfeeds its babies,mammals,1,True,0.355556,6.666667,0.970588
+performs pollination,insects,,False,0.000000,,0.000000
+both male and female take part in the brooding,birds,,False,0.000000,,0.000000
+swims in schools,fish,,False,0.066667,6.083333,0.000000

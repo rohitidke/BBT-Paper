@@ -3,3 +3,6 @@
 2026-03-13T20:31:41.991835+00:00	correlation_analysis.py	0.046
 2026-03-14T10:11:41.673284+00:00	correlation_analysis.py	0.043
 2026-03-14T10:13:01.527849+00:00	correlation_analysis.py	0.045
+2026-05-29T13:05:05.173807+00:00	attribute_weight_similarity_enrichment.py	0.026
+2026-05-31T12:36:28.490687+00:00	attribute_weight_similarity_enrichment.py	0.029
+2026-05-31T12:37:22.251089+00:00	attribute_weight_similarity_enrichment.py	0.024

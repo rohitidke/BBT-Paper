@@ -1,0 +1,220 @@
+features,category,importance_rating
+bought in a store,clothing,4.333333
+bought in a store,kitchenutensils,3.666667
+bought in a store,vehicles,3.166667
+can be a status symbol,clothing,4.250000
+can be a status symbol,vehicles,5.416667
+can be automatized,tools,5.166667
+can be dangerous,kitchenutensils,3.666667
+can be dangerous,tools,4.250000
+can be dishwashed,kitchenutensils,4.333333
+can be electronic,kitchenutensils,4.583333
+can be manufactured by yourself,musicalinstruments,3.250000
+can be played on,musicalinstruments,6.583333
+can be shot with,weapons,5.000000
+can be used to cut things,kitchenutensils,4.416667
+can be used to eat with,kitchenutensils,5.416667
+can be used to get from one place to the other,vehicles,6.250000
+can cause accidents,vehicles,4.083333
+can move,vehicles,5.333333
+can rip,clothing,3.583333
+can stand heat,kitchenutensils,4.250000
+can wear off,clothing,3.416667
+comes in different fabrics,clothing,5.083333
+comes in different materials,kitchenutensils,3.750000
+comes in different materials,musicalinstruments,3.833333
+comes in different materials,tools,4.000000
+comes in different styles,clothing,4.833333
+comes in very handy,kitchenutensils,4.666667
+comes in very handy,tools,5.916667
+comes in very handy,vehicles,5.166667
+comes into fashion / goes out of fashion,clothing,5.833333
+contains bullets,weapons,4.916667
+custom-made,clothing,3.583333
+destroys,weapons,5.000000
+different types are available,vehicles,4.250000
+differs from one culture to the other,clothing,4.750000
+easily gets dirty,clothing,3.083333
+especially used by women,kitchenutensils,3.916667
+everybody has it,kitchenutensils,4.250000
+exists in different brands,vehicles,4.416667
+exists in different colors,clothing,4.166667
+exists in different colors,musicalinstruments,4.250000
+exists in different colors,vehicles,5.333333
+exists in different forms,kitchenutensils,3.416667
+exists in different forms,musicalinstruments,3.916667
+exists in different forms,tools,3.666667
+exists in different forms,vehicles,5.416667
+exists in different forms,weapons,4.333333
+exists in different kinds,kitchenutensils,3.666667
+exists in different kinds,musicalinstruments,5.416667
+exists in different kinds,tools,5.000000
+exists in different kinds,vehicles,5.916667
+exists in different kinds,weapons,4.250000
+exists in different sizes,clothing,5.583333
+exists in different sizes,musicalinstruments,4.833333
+exists in different sizes,tools,3.500000
+exists in different sizes,vehicles,3.500000
+exists in different sizes,weapons,4.083333
+expresses your personality,clothing,4.916667
+featured in a brass band,musicalinstruments,5.416667
+feels cold to the skin,kitchenutensils,2.833333
+for sale in a music shop,musicalinstruments,6.250000
+gives warmth,clothing,5.166667
+has a barrel,weapons,4.750000
+has a grip,kitchenutensils,2.833333
+has a grip,tools,5.166667
+has a grip,weapons,2.666667
+has a motor,vehicles,6.000000
+has a steering wheel,vehicles,6.000000
+has been existing for a long time,clothing,3.750000
+has been existing for a long time,kitchenutensils,3.333333
+has been existing for a long time,musicalinstruments,4.250000
+has been existing for a long time,vehicles,3.833333
+has been existing for a long time,weapons,4.083333
+has buttons,musicalinstruments,4.416667
+has esthetic purposes,clothing,5.500000
+has gone through a technological revolution,tools,4.583333
+has gone through a technological revolution,vehicles,4.833333
+has room for several people,vehicles,4.750000
+has snares,musicalinstruments,4.750000
+has to be washed after use,kitchenutensils,5.166667
+has wheels,vehicles,6.000000
+implement/tool,weapons,4.416667
+is a car,vehicles,5.583333
+is a collective noun,tools,4.666667
+is a crane,tools,3.166667
+is a faster form of transport than going by foot,vehicles,6.333333
+is a good invention,tools,4.666667
+is a guitar,musicalinstruments,3.750000
+is a hammer,tools,3.333333
+is a handtool,tools,6.250000
+is a harp,musicalinstruments,3.500000
+is a recorder,musicalinstruments,3.750000
+is a sort of piano,musicalinstruments,4.166667
+is a sort of violin,musicalinstruments,4.333333
+is a tool,kitchenutensils,4.750000
+is a tool,tools,6.500000
+is a tractor,tools,3.000000
+is abloom,clothing,2.833333
+is an aid,tools,5.750000
+is available for each price range,musicalinstruments,2.833333
+is beautiful,clothing,3.416667
+is big,tools,3.166667
+is black,weapons,2.583333
+is bought in a specialist shop,kitchenutensils,3.083333
+is dangerous,weapons,6.416667
+is different for men and women,clothing,5.666667
+is driven by meachanical means,vehicles,4.750000
+is electronic,kitchenutensils,3.333333
+is electronic,tools,3.250000
+is environmentally friendly,vehicles,3.250000
+is expensive,clothing,2.583333
+is expensive,kitchenutensils,2.333333
+is expensive,musicalinstruments,4.416667
+is expensive,tools,4.000000
+is expensive,vehicles,4.166667
+is fast,vehicles,4.916667
+is firm,kitchenutensils,3.750000
+is forbidden,weapons,4.416667
+is found in a clothing cupboard,clothing,6.000000
+is found in a cupboard,kitchenutensils,3.500000
+is fragile,musicalinstruments,3.666667
+is functional,kitchenutensils,5.833333
+is grey,kitchenutensils,2.250000
+is hard,weapons,3.666667
+is hard to play,musicalinstruments,4.666667
+is heavy,weapons,2.583333
+is indispensable,clothing,4.500000
+is indispensable,kitchenutensils,3.416667
+is indispensable,tools,4.083333
+is indispensable,vehicles,3.750000
+is made by hand,musicalinstruments,3.416667
+is made of fabric,clothing,5.250000
+is made of textile,clothing,5.583333
+is made of wool,clothing,3.916667
+is meant for people who are handy,tools,4.500000
+is meant to make music with,musicalinstruments,6.916667
+is meant to wear,clothing,6.583333
+is multifunctional,kitchenutensils,4.333333
+is multifunctional,tools,5.000000
+is often found in action movies,weapons,4.916667
+is only used by humans,musicalinstruments,5.083333
+is only used by humans,weapons,4.166667
+is operated,tools,3.916667
+is operated,vehicles,5.916667
+is pliable,clothing,3.583333
+is polluting,vehicles,4.583333
+is popular in the United States,weapons,4.000000
+is primarily used by men,tools,4.500000
+is season-tied,clothing,5.333333
+is sewn,clothing,5.083333
+is sharp,kitchenutensils,3.250000
+is sometimes given to newly-weds as a present,kitchenutensils,4.166667
+is subject to rules,weapons,4.500000
+is used a lot,vehicles,4.500000
+is used by a professional,tools,4.500000
+is used in combination with other instruments,musicalinstruments,5.750000
+is used in orchestras,musicalinstruments,6.000000
+is used to cover yourself,clothing,6.166667
+is used to make something with,tools,5.833333
+is used to prepare food,kitchenutensils,6.416667
+is used to protect you,weapons,4.750000
+is used to work with,tools,6.500000
+is violent,weapons,5.750000
+is white,kitchenutensils,2.250000
+is worn by everyone,clothing,5.916667
+made of metal,kitchenutensils,4.083333
+made of metal,musicalinstruments,3.666667
+made of metal,tools,4.916667
+made of metal,vehicles,5.166667
+made of metal,weapons,3.583333
+made of plastic,kitchenutensils,4.083333
+made of wood,kitchenutensils,3.166667
+made of wood,musicalinstruments,4.333333
+made of wood,tools,3.500000
+makes a special noise,musicalinstruments,5.333333
+makes work easier,tools,6.666667
+makes work in the kitchen easier,kitchenutensils,6.250000
+needs to be washed,clothing,5.500000
+occurs often in films,weapons,3.666667
+one has to learn how to play,musicalinstruments,6.500000
+played by a musician,musicalinstruments,6.500000
+produces different sounds,musicalinstruments,5.666667
+produces noise,kitchenutensils,2.583333
+produces noise,tools,4.666667
+produces noise,vehicles,5.416667
+produces sound,musicalinstruments,6.583333
+protects against the cold,clothing,6.583333
+protects against the rain,clothing,6.166667
+protects against the sun,clothing,6.083333
+protects your body,clothing,5.916667
+provides entertainment,musicalinstruments,4.500000
+provides you with freedom,vehicles,4.500000
+ready-to-wear clothes,clothing,4.916667
+sold in clothes shops,clothing,6.250000
+sometimes used to accompany voice,musicalinstruments,5.666667
+sounds beautiful,musicalinstruments,5.250000
+used by criminals,weapons,6.250000
+used by everybody,tools,4.500000
+used by police men,weapons,5.833333
+used by soldiers,weapons,6.000000
+used for cooking,kitchenutensils,6.750000
+used for long distances,vehicles,5.916667
+used in construction,tools,5.666667
+used in sports,weapons,2.583333
+used in the kitchen,kitchenutensils,6.333333
+used to hunt,weapons,6.250000
+used to make war,weapons,6.833333
+used to store food,kitchenutensils,4.333333
+used to work with,tools,6.500000
+uses fuel,vehicles,4.916667
+was used in early ages,musicalinstruments,3.583333
+was used in early ages,tools,4.833333
+you can injure someone with it,tools,4.750000
+you can injure someone with it,weapons,6.583333
+you can kill someone with it,weapons,6.500000
+you can transport things with it,vehicles,6.333333
+you have to be able to read notes for it,musicalinstruments,5.583333
+you have to blow on it,musicalinstruments,3.750000
+you need a weapon license for it,weapons,5.500000
