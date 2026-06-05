@@ -155,6 +155,10 @@ def normalize_text(value: str) -> str:
     return " ".join(str(value).strip().lower().split())
 
 
+def normalize_category_key(value: str) -> str:
+    return normalize_text(value).replace(" ", "")
+
+
 def load_frequency_map(path: Path) -> dict[str, float]:
     with path.open(newline="", encoding="utf-8") as handle:
         reader = csv.DictReader(handle)
@@ -204,7 +208,7 @@ def load_importance_map(path: Path) -> dict[tuple[str, str], float]:
         result: dict[tuple[str, str], float] = {}
         for row in reader:
             feature = normalize_text(row.get("features", ""))
-            category = str(row.get("category", "")).strip()
+            category = normalize_category_key(row.get("category", ""))
             raw = str(row.get("importance_rating", "")).strip()
             if not feature or not category:
                 continue
@@ -314,7 +318,10 @@ def main() -> None:
         # If an attribute belongs to multiple categories, emit one row per category.
         if categories:
             for category in categories:
-                importance_value = importance_map.get((feature_key, category), float("nan"))
+                importance_value = importance_map.get(
+                    (feature_key, normalize_category_key(category)),
+                    float("nan"),
+                )
                 rows.append(
                     {
                         "attribute": feature,

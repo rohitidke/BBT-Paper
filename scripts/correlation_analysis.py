@@ -6,7 +6,8 @@ This script:
 1. Loads base and reconstructed incidence CSVs
 2. Compares matrices using Jaccard (via goodness.compare_matrices)
 3. Merges row-wise similarity scores with typicality ratings
-4. Computes Pearson correlation by category
+4. Preserves optional metadata columns such as typicality rank
+5. Computes Pearson correlation by category
 """
 
 from __future__ import annotations
@@ -210,6 +211,10 @@ def main(
     df["exemplar"] = df["exemplar"].astype(str).str.strip()
     df["category"] = df["category"].astype(str).str.strip()
     df["typicality_rating"] = pd.to_numeric(df["typicality_rating"], errors="coerce")
+    if "rank" in df.columns:
+        df["rank"] = pd.to_numeric(df["rank"], errors="coerce").astype("Int64")
+    else:
+        df["rank"] = pd.Series([pd.NA] * len(df), dtype="Int64")
     unique_exemplars = df["exemplar"].unique()
     print(f"  Found {len(unique_exemplars)} unique exemplars in typicality data")
 
@@ -431,7 +436,18 @@ def main(
         results_csv = output_dir / "correlation_analysis_results.csv"
         enriched_csv = output_dir / "typicality_similarity_enriched.csv"
         corr_df.to_csv(results_csv, index=False)
-        df.to_csv(enriched_csv, index=False)
+
+        preferred_order = [
+            "exemplar",
+            "category",
+            "typicality_rating",
+            "rank",
+            "rowwise_similarity",
+            "bundles",
+        ]
+        remaining_columns = [col for col in df.columns if col not in preferred_order]
+        enriched_df = df[[*preferred_order, *remaining_columns]]
+        enriched_df.to_csv(enriched_csv, index=False)
 
         print("\n" + "=" * 80)
         print("COMPLETE RESULTS TABLE:")

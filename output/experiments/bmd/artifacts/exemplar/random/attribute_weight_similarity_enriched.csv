@@ -1,0 +1,472 @@
+attribute,category,bundles,bundle_specific_attribute,normalized_freq,importance_rating,columnwise_similarity
+is narrow,clothing,"1, 6",False,0.031680,2.250000,0.415584
+is narrow,kitchen utensils,"1, 6",False,0.031680,,0.415584
+is narrow,musical instruments,"1, 6",False,0.031680,,0.415584
+is narrow,tools,"1, 6",False,0.031680,2.916667,0.415584
+is narrow,vehicles,"1, 6",False,0.031680,,0.415584
+is narrow,weapons,"1, 6",False,0.031680,2.083333,0.415584
+shines,clothing,"3, 5, 6",False,0.035813,,0.609524
+shines,kitchen utensils,"3, 5, 6",False,0.035813,3.583333,0.609524
+shines,musical instruments,"3, 5, 6",False,0.035813,3.166667,0.609524
+shines,tools,"3, 5, 6",False,0.035813,2.750000,0.609524
+shines,vehicles,"3, 5, 6",False,0.035813,,0.609524
+shines,weapons,"3, 5, 6",False,0.035813,,0.609524
+has to do with nails,tools,,False,0.001377,4.416667,0.000000
+used at farms,clothing,,False,0.005510,,0.000000
+used at farms,kitchen utensils,,False,0.005510,,0.000000
+used at farms,tools,,False,0.005510,,0.000000
+used at farms,vehicles,,False,0.005510,3.916667,0.000000
+works with a shove system,musical instruments,,False,0.002755,3.250000,0.000000
+needs to be cleaned after use,clothing,"1, 2",False,0.011019,,0.360000
+needs to be cleaned after use,kitchen utensils,"1, 2",False,0.011019,,0.360000
+needs to be cleaned after use,musical instruments,"1, 2",False,0.011019,,0.360000
+needs to be cleaned after use,tools,"1, 2",False,0.011019,3.916667,0.360000
+needs to be cleaned after use,weapons,"1, 2",False,0.011019,,0.360000
+has a sail,vehicles,,False,0.006887,3.416667,0.000000
+has to be sharpened sometimes,kitchen utensils,,False,0.011019,2.666667,0.000000
+has to be sharpened sometimes,tools,,False,0.011019,4.333333,0.000000
+has to be sharpened sometimes,weapons,,False,0.011019,,0.000000
+has a skin,musical instruments,,False,0.033058,3.500000,0.000000
+is a television programme,,,False,0.002755,,0.000000
+used by Robin Hood,weapons,,False,0.004132,3.750000,0.000000
+classical music,musical instruments,5,True,0.008264,5.666667,0.703704
+can be held,clothing,"1, 2, 4, 5, 6",False,0.001377,,0.907143
+can be held,kitchen utensils,"1, 2, 4, 5, 6",False,0.001377,3.666667,0.907143
+can be held,musical instruments,"1, 2, 4, 5, 6",False,0.001377,,0.907143
+can be held,tools,"1, 2, 4, 5, 6",False,0.001377,,0.907143
+can be held,vehicles,"1, 2, 4, 5, 6",False,0.001377,,0.907143
+can be held,weapons,"1, 2, 4, 5, 6",False,0.001377,,0.907143
+flies,vehicles,,False,0.053719,5.000000,0.000000
+exists in different measurements,clothing,"1, 2, 3, 4, 5, 6",False,0.038567,4.000000,0.981928
+exists in different measurements,kitchen utensils,"1, 2, 3, 4, 5, 6",False,0.038567,,0.981928
+exists in different measurements,musical instruments,"1, 2, 3, 4, 5, 6",False,0.038567,4.916667,0.981928
+exists in different measurements,tools,"1, 2, 3, 4, 5, 6",False,0.038567,,0.981928
+exists in different measurements,vehicles,"1, 2, 3, 4, 5, 6",False,0.038567,5.583333,0.981928
+exists in different measurements,weapons,"1, 2, 3, 4, 5, 6",False,0.038567,4.083333,0.981928
+is worn to swim,clothing,,False,0.024793,2.750000,0.000000
+used to warm things up,kitchen utensils,,False,0.052342,3.833333,0.000000
+both large and small,clothing,"1, 2, 3, 4, 5, 6",False,0.002755,,1.000000
+both large and small,kitchen utensils,"1, 2, 3, 4, 5, 6",False,0.002755,,1.000000
+both large and small,musical instruments,"1, 2, 3, 4, 5, 6",False,0.002755,5.083333,1.000000
+both large and small,tools,"1, 2, 3, 4, 5, 6",False,0.002755,,1.000000
+both large and small,vehicles,"1, 2, 3, 4, 5, 6",False,0.002755,,1.000000
+both large and small,weapons,"1, 2, 3, 4, 5, 6",False,0.002755,,1.000000
+is heavy,kitchen utensils,"3, 6",False,0.303030,2.250000,0.602564
+is heavy,musical instruments,"3, 6",False,0.303030,3.666667,0.602564
+is heavy,tools,"3, 6",False,0.303030,4.166667,0.602564
+is heavy,vehicles,"3, 6",False,0.303030,4.416667,0.602564
+is heavy,weapons,"3, 6",False,0.303030,2.583333,0.602564
+is long,clothing,6,True,0.173554,2.000000,0.246575
+is long,kitchen utensils,6,True,0.173554,2.000000,0.246575
+is long,musical instruments,6,True,0.173554,3.000000,0.246575
+is long,tools,6,True,0.173554,2.916667,0.246575
+is long,vehicles,6,True,0.173554,3.333333,0.246575
+is long,weapons,6,True,0.173554,2.333333,0.246575
+can save lifes,vehicles,,False,0.000000,,0.000000
+can save lifes,weapons,,False,0.000000,4.250000,0.000000
+used for school,kitchen utensils,,False,0.004132,1.500000,0.000000
+used for school,musical instruments,,False,0.004132,,0.000000
+used for school,tools,,False,0.004132,,0.000000
+used for school,vehicles,,False,0.004132,,0.000000
+is relaxing,clothing,"3, 5",False,0.009642,,0.615385
+is relaxing,musical instruments,"3, 5",False,0.009642,6.000000,0.615385
+is relaxing,vehicles,"3, 5",False,0.009642,3.416667,0.615385
+is handy to transport,clothing,"1, 2, 3, 4, 5, 6",False,0.005510,,0.861446
+is handy to transport,kitchen utensils,"1, 2, 3, 4, 5, 6",False,0.005510,,0.861446
+is handy to transport,musical instruments,"1, 2, 3, 4, 5, 6",False,0.005510,2.666667,0.861446
+is handy to transport,tools,"1, 2, 3, 4, 5, 6",False,0.005510,,0.861446
+is handy to transport,vehicles,"1, 2, 3, 4, 5, 6",False,0.005510,,0.861446
+is handy to transport,weapons,"1, 2, 3, 4, 5, 6",False,0.005510,,0.861446
+has no smell,clothing,"1, 2, 3, 4, 5, 6",False,0.042700,,1.000000
+has no smell,kitchen utensils,"1, 2, 3, 4, 5, 6",False,0.042700,2.666667,1.000000
+has no smell,musical instruments,"1, 2, 3, 4, 5, 6",False,0.042700,,1.000000
+has no smell,tools,"1, 2, 3, 4, 5, 6",False,0.042700,3.666667,1.000000
+has no smell,vehicles,"1, 2, 3, 4, 5, 6",False,0.042700,,1.000000
+has no smell,weapons,"1, 2, 3, 4, 5, 6",False,0.042700,,1.000000
+is oval,kitchen utensils,,False,0.022039,2.166667,0.000000
+is oval,vehicles,,False,0.022039,2.583333,0.000000
+is oval,weapons,,False,0.022039,1.500000,0.000000
+has buttons,clothing,2,True,0.070248,4.000000,0.310345
+has buttons,kitchen utensils,2,True,0.070248,,0.310345
+has buttons,musical instruments,2,True,0.070248,4.416667,0.310345
+has buttons,tools,2,True,0.070248,,0.310345
+is synthetic,clothing,"1, 2",False,0.004132,3.333333,0.402597
+is synthetic,kitchen utensils,"1, 2",False,0.004132,,0.402597
+is synthetic,musical instruments,"1, 2",False,0.004132,,0.402597
+is synthetic,tools,"1, 2",False,0.004132,,0.402597
+is synthetic,vehicles,"1, 2",False,0.004132,,0.402597
+is synthetic,weapons,"1, 2",False,0.004132,,0.402597
+makes a piercing noise,kitchen utensils,6,True,0.015152,,0.159091
+makes a piercing noise,musical instruments,6,True,0.015152,4.166667,0.159091
+makes a piercing noise,tools,6,True,0.015152,4.000000,0.159091
+makes a piercing noise,vehicles,6,True,0.015152,,0.159091
+makes a piercing noise,weapons,6,True,0.015152,,0.159091
+protects your feet,clothing,,False,0.005510,3.750000,0.000000
+has been existing for a long time,clothing,"1, 3, 4, 5, 6",False,0.146006,3.750000,0.850932
+has been existing for a long time,kitchen utensils,"1, 3, 4, 5, 6",False,0.146006,3.333333,0.850932
+has been existing for a long time,musical instruments,"1, 3, 4, 5, 6",False,0.146006,4.250000,0.850932
+has been existing for a long time,tools,"1, 3, 4, 5, 6",False,0.146006,4.083333,0.850932
+has been existing for a long time,vehicles,"1, 3, 4, 5, 6",False,0.146006,3.833333,0.850932
+has been existing for a long time,weapons,"1, 3, 4, 5, 6",False,0.146006,4.083333,0.850932
+occurs in many (music)bands,musical instruments,,False,0.037190,5.666667,0.000000
+is modern,clothing,"2, 3",False,0.001377,,0.500000
+is modern,kitchen utensils,"2, 3",False,0.001377,3.583333,0.500000
+is modern,musical instruments,"2, 3",False,0.001377,,0.500000
+is modern,tools,"2, 3",False,0.001377,,0.500000
+is modern,vehicles,"2, 3",False,0.001377,,0.500000
+is modern,weapons,"2, 3",False,0.001377,,0.500000
+is violent,kitchen utensils,6,True,0.009642,,0.724138
+is violent,tools,6,True,0.009642,,0.724138
+is violent,vehicles,6,True,0.009642,,0.724138
+is violent,weapons,6,True,0.009642,5.750000,0.724138
+is thin,clothing,1,True,0.030303,2.333333,0.256757
+is thin,kitchen utensils,1,True,0.030303,,0.256757
+is thin,musical instruments,1,True,0.030303,,0.256757
+is thin,tools,1,True,0.030303,2.500000,0.256757
+is thin,vehicles,1,True,0.030303,,0.256757
+is thin,weapons,1,True,0.030303,1.916667,0.256757
+subdivided in A-class and B-class,kitchen utensils,,False,0.000000,,0.000000
+subdivided in A-class and B-class,vehicles,,False,0.000000,2.916667,0.000000
+occurs in films,clothing,"1, 2, 3, 4, 5, 6",False,0.050964,,1.000000
+occurs in films,kitchen utensils,"1, 2, 3, 4, 5, 6",False,0.050964,,1.000000
+occurs in films,musical instruments,"1, 2, 3, 4, 5, 6",False,0.050964,,1.000000
+occurs in films,tools,"1, 2, 3, 4, 5, 6",False,0.050964,,1.000000
+occurs in films,vehicles,"1, 2, 3, 4, 5, 6",False,0.050964,,1.000000
+occurs in films,weapons,"1, 2, 3, 4, 5, 6",False,0.050964,4.000000,1.000000
+is a home appliance,kitchen utensils,2,True,0.009642,5.166667,0.533333
+is a home appliance,tools,2,True,0.009642,,0.533333
+comes in different patterns,clothing,4,True,0.013774,4.083333,0.474576
+comes in different patterns,kitchen utensils,4,True,0.013774,2.500000,0.474576
+comes in different patterns,musical instruments,4,True,0.013774,,0.474576
+comes in different patterns,vehicles,4,True,0.013774,,0.474576
+comes in different patterns,weapons,4,True,0.013774,,0.474576
+is elongated,clothing,"1, 5, 6",False,0.151515,1.750000,0.469565
+is elongated,kitchen utensils,"1, 5, 6",False,0.151515,2.083333,0.469565
+is elongated,musical instruments,"1, 5, 6",False,0.151515,2.666667,0.469565
+is elongated,tools,"1, 5, 6",False,0.151515,3.750000,0.469565
+is elongated,vehicles,"1, 5, 6",False,0.151515,3.500000,0.469565
+is elongated,weapons,"1, 5, 6",False,0.151515,2.333333,0.469565
+is for all ages,clothing,"1, 2, 3, 4, 5",False,0.000000,4.666667,0.755396
+is for all ages,kitchen utensils,"1, 2, 3, 4, 5",False,0.000000,,0.755396
+is for all ages,musical instruments,"1, 2, 3, 4, 5",False,0.000000,,0.755396
+is for all ages,vehicles,"1, 2, 3, 4, 5",False,0.000000,,0.755396
+keeps your head warm,clothing,,False,0.001377,3.916667,0.000000
+used by painters,tools,,False,0.004132,4.000000,0.000000
+used by painters,vehicles,,False,0.004132,,0.000000
+exists in different colors,clothing,"1, 2, 3, 4, 5, 6",False,1.000000,4.166667,1.000000
+exists in different colors,kitchen utensils,"1, 2, 3, 4, 5, 6",False,1.000000,2.916667,1.000000
+exists in different colors,musical instruments,"1, 2, 3, 4, 5, 6",False,1.000000,4.250000,1.000000
+exists in different colors,tools,"1, 2, 3, 4, 5, 6",False,1.000000,3.250000,1.000000
+exists in different colors,vehicles,"1, 2, 3, 4, 5, 6",False,1.000000,5.333333,1.000000
+exists in different colors,weapons,"1, 2, 3, 4, 5, 6",False,1.000000,2.916667,1.000000
+played with the mouth,musical instruments,,False,0.006887,4.916667,0.000000
+flies low,vehicles,,False,0.000000,3.416667,0.000000
+is to be used outside,clothing,"3, 6",False,0.013774,2.833333,0.808824
+is to be used outside,tools,"3, 6",False,0.013774,4.916667,0.808824
+is to be used outside,vehicles,"3, 6",False,0.013774,,0.808824
+is to be used outside,weapons,"3, 6",False,0.013774,,0.808824
+used for safari,vehicles,,False,0.002755,3.333333,0.000000
+used to climb,tools,,False,0.024793,2.833333,0.000000
+indicates the rhythm,musical instruments,,False,0.015152,5.333333,0.000000
+consists of two parts,clothing,"1, 6",False,0.028926,1.916667,0.320988
+consists of two parts,kitchen utensils,"1, 6",False,0.028926,1.666667,0.320988
+consists of two parts,musical instruments,"1, 6",False,0.028926,,0.320988
+consists of two parts,tools,"1, 6",False,0.028926,2.750000,0.320988
+consists of two parts,vehicles,"1, 6",False,0.028926,,0.320988
+consists of two parts,weapons,"1, 6",False,0.028926,,0.320988
+consists of different parts,clothing,"2, 3, 5, 6",False,0.019284,3.750000,0.639098
+consists of different parts,kitchen utensils,"2, 3, 5, 6",False,0.019284,2.583333,0.639098
+consists of different parts,musical instruments,"2, 3, 5, 6",False,0.019284,4.083333,0.639098
+consists of different parts,tools,"2, 3, 5, 6",False,0.019284,,0.639098
+consists of different parts,vehicles,"2, 3, 5, 6",False,0.019284,,0.639098
+consists of different parts,weapons,"2, 3, 5, 6",False,0.019284,,0.639098
+is expensive,clothing,"2, 3, 5, 6",False,0.188705,2.583333,0.711538
+is expensive,kitchen utensils,"2, 3, 5, 6",False,0.188705,2.333333,0.711538
+is expensive,musical instruments,"2, 3, 5, 6",False,0.188705,4.416667,0.711538
+is expensive,tools,"2, 3, 5, 6",False,0.188705,4.000000,0.711538
+is expensive,vehicles,"2, 3, 5, 6",False,0.188705,4.166667,0.711538
+is expensive,weapons,"2, 3, 5, 6",False,0.188705,2.500000,0.711538
+is cold,kitchen utensils,,False,0.078512,2.583333,0.000000
+is cold,musical instruments,,False,0.078512,,0.000000
+is cold,tools,,False,0.078512,3.500000,0.000000
+is cold,vehicles,,False,0.078512,,0.000000
+has a label,clothing,4,True,0.001377,,0.933333
+has a label,kitchen utensils,4,True,0.001377,2.250000,0.933333
+it has screws in it,kitchen utensils,"2, 3, 5, 6",False,0.000000,,0.702703
+it has screws in it,musical instruments,"2, 3, 5, 6",False,0.000000,,0.702703
+it has screws in it,tools,"2, 3, 5, 6",False,0.000000,4.500000,0.702703
+it has screws in it,vehicles,"2, 3, 5, 6",False,0.000000,,0.702703
+it has screws in it,weapons,"2, 3, 5, 6",False,0.000000,,0.702703
+works on electricity,kitchen utensils,2,True,0.254821,2.833333,0.363636
+works on electricity,musical instruments,2,True,0.254821,,0.363636
+works on electricity,tools,2,True,0.254821,4.833333,0.363636
+works on electricity,vehicles,2,True,0.254821,3.500000,0.363636
+is primitive,clothing,,False,0.000000,,0.000000
+is primitive,kitchen utensils,,False,0.000000,,0.000000
+is primitive,musical instruments,,False,0.000000,,0.000000
+is primitive,tools,,False,0.000000,,0.000000
+is primitive,vehicles,,False,0.000000,,0.000000
+is primitive,weapons,,False,0.000000,3.083333,0.000000
+driven by a coachman,vehicles,,False,0.002755,3.416667,0.000000
+is healthy,kitchen utensils,,False,0.002755,1.916667,0.000000
+is healthy,vehicles,,False,0.002755,,0.000000
+is red,clothing,4,True,0.011019,1.916667,0.338235
+is red,kitchen utensils,4,True,0.011019,2.083333,0.338235
+is red,musical instruments,4,True,0.011019,,0.338235
+is red,tools,4,True,0.011019,,0.338235
+is red,vehicles,4,True,0.011019,,0.338235
+is drawn by dogs,vehicles,,False,0.001377,3.250000,0.000000
+separates liquid from solid material,kitchen utensils,,False,0.009642,2.166667,0.000000
+worn by men,clothing,4,True,0.100551,3.916667,0.741935
+worn by men,kitchen utensils,4,True,0.100551,,0.741935
+worn by men,weapons,4,True,0.100551,,0.741935
+used by a police officer,clothing,,False,0.001377,,0.000000
+used by a police officer,tools,,False,0.001377,,0.000000
+used by a police officer,vehicles,,False,0.001377,,0.000000
+used by a police officer,weapons,,False,0.001377,5.666667,0.000000
+is strong,kitchen utensils,"3, 6",False,0.068871,,0.689655
+is strong,tools,"3, 6",False,0.068871,4.583333,0.689655
+is strong,vehicles,"3, 6",False,0.068871,,0.689655
+is strong,weapons,"3, 6",False,0.068871,3.416667,0.689655
+there is soup in it,kitchen utensils,,False,0.000000,3.666667,0.000000
+used to hack,tools,,False,0.017906,4.583333,0.000000
+is a boat,vehicles,,False,0.005510,4.416667,0.000000
+comes in very handy,clothing,"1, 2, 3, 4, 6",False,0.187328,3.083333,0.877698
+comes in very handy,kitchen utensils,"1, 2, 3, 4, 6",False,0.187328,4.666667,0.877698
+comes in very handy,tools,"1, 2, 3, 4, 6",False,0.187328,5.916667,0.877698
+comes in very handy,vehicles,"1, 2, 3, 4, 6",False,0.187328,5.166667,0.877698
+comes in very handy,weapons,"1, 2, 3, 4, 6",False,0.187328,2.833333,0.877698
+used by everybody,clothing,"1, 2, 4",False,0.000000,,0.584270
+used by everybody,kitchen utensils,"1, 2, 4",False,0.000000,,0.584270
+used by everybody,tools,"1, 2, 4",False,0.000000,,0.584270
+used by everybody,vehicles,"1, 2, 4",False,0.000000,5.333333,0.584270
+can be connected to an amplifier,musical instruments,5,True,0.000000,5.250000,0.851852
+to grate,kitchen utensils,,False,0.001377,4.583333,0.000000
+can be bought everywhere,clothing,"1, 2, 4",False,0.000000,,0.637500
+can be bought everywhere,kitchen utensils,"1, 2, 4",False,0.000000,3.166667,0.637500
+can be bought everywhere,tools,"1, 2, 4",False,0.000000,,0.637500
+can be bought everywhere,vehicles,"1, 2, 4",False,0.000000,,0.637500
+can be used to make milkshake with,kitchen utensils,,False,0.000000,3.666667,0.000000
+used to paint,tools,,False,0.031680,4.083333,0.000000
+used to put sugar in coffee,kitchen utensils,,False,0.000000,3.500000,0.000000
+used to put sugar in coffee,tools,,False,0.000000,,0.000000
+is played while sitting,musical instruments,5,True,0.005510,4.666667,0.571429
+is played while sitting,vehicles,5,True,0.005510,,0.571429
+is used to plough the land,tools,,False,0.016529,4.583333,0.000000
+is used to plough the land,vehicles,,False,0.016529,,0.000000
+is hygienic,clothing,,False,0.000000,3.000000,0.000000
+is hygienic,kitchen utensils,,False,0.000000,,0.000000
+is hygienic,tools,,False,0.000000,,0.000000
+is often hot inside,clothing,"2, 4",False,0.000000,,0.377358
+is often hot inside,kitchen utensils,"2, 4",False,0.000000,,0.377358
+is often hot inside,vehicles,"2, 4",False,0.000000,3.833333,0.377358
+is often hot inside,weapons,"2, 4",False,0.000000,,0.377358
+is green,clothing,"2, 4",False,0.086777,1.916667,0.321839
+is green,kitchen utensils,"2, 4",False,0.086777,2.083333,0.321839
+is green,musical instruments,"2, 4",False,0.086777,,0.321839
+is green,tools,"2, 4",False,0.086777,2.250000,0.321839
+is green,vehicles,"2, 4",False,0.086777,1.916667,0.321839
+is green,weapons,"2, 4",False,0.086777,1.833333,0.321839
+is found in a museum,clothing,"5, 6",False,0.005510,,0.452055
+is found in a museum,kitchen utensils,"5, 6",False,0.005510,,0.452055
+is found in a museum,musical instruments,"5, 6",False,0.005510,,0.452055
+is found in a museum,tools,"5, 6",False,0.005510,,0.452055
+is found in a museum,vehicles,"5, 6",False,0.005510,,0.452055
+is found in a museum,weapons,"5, 6",False,0.005510,3.000000,0.452055
+is used to support the breasts,clothing,,False,0.004132,3.416667,0.000000
+used to make sand castles,tools,,False,0.002755,3.333333,0.000000
+classical instrument,musical instruments,5,True,0.020661,5.750000,0.740741
+has a cross or flat shape,kitchen utensils,,False,0.012397,,0.000000
+has a cross or flat shape,musical instruments,,False,0.012397,,0.000000
+has a cross or flat shape,tools,,False,0.012397,3.916667,0.000000
+is grey,clothing,"1, 2, 3, 4, 6",False,0.166667,1.833333,0.820690
+is grey,kitchen utensils,"1, 2, 3, 4, 6",False,0.166667,2.250000,0.820690
+is grey,musical instruments,"1, 2, 3, 4, 6",False,0.166667,,0.820690
+is grey,tools,"1, 2, 3, 4, 6",False,0.166667,3.000000,0.820690
+is grey,vehicles,"1, 2, 3, 4, 6",False,0.166667,2.416667,0.820690
+is grey,weapons,"1, 2, 3, 4, 6",False,0.166667,2.166667,0.820690
+you can scour stuff off with it,tools,,False,0.001377,3.666667,0.000000
+can be worn underneath other clothes,clothing,4,True,0.000000,4.250000,0.392857
+lies next to plate,kitchen utensils,,False,0.000000,3.416667,0.000000
+has a neck,kitchen utensils,"5, 6",False,0.001377,,0.396825
+has a neck,musical instruments,"5, 6",False,0.001377,3.250000,0.396825
+has a neck,tools,"5, 6",False,0.001377,,0.396825
+has a neck,weapons,"5, 6",False,0.001377,,0.396825
+has a point,kitchen utensils,,False,0.037190,,0.000000
+has a point,tools,,False,0.037190,,0.000000
+has a point,vehicles,,False,0.037190,,0.000000
+has a point,weapons,,False,0.037190,3.416667,0.000000
+is an object,clothing,"1, 2, 3, 4, 5, 6",False,0.050964,,1.000000
+is an object,kitchen utensils,"1, 2, 3, 4, 5, 6",False,0.050964,5.666667,1.000000
+is an object,musical instruments,"1, 2, 3, 4, 5, 6",False,0.050964,,1.000000
+is an object,tools,"1, 2, 3, 4, 5, 6",False,0.050964,5.666667,1.000000
+is an object,vehicles,"1, 2, 3, 4, 5, 6",False,0.050964,,1.000000
+is an object,weapons,"1, 2, 3, 4, 5, 6",False,0.050964,4.250000,1.000000
+can drive on rough roads,vehicles,,False,0.000000,4.583333,0.000000
+can drive on rough roads,weapons,,False,0.000000,,0.000000
+you play musical notes on it,musical instruments,5,True,0.023416,6.583333,0.888889
+is blue,clothing,"1, 2, 4",False,0.033058,1.750000,0.509434
+is blue,kitchen utensils,"1, 2, 4",False,0.033058,,0.509434
+is blue,musical instruments,"1, 2, 4",False,0.033058,,0.509434
+is blue,tools,"1, 2, 4",False,0.033058,,0.509434
+is blue,vehicles,"1, 2, 4",False,0.033058,,0.509434
+feels rough,kitchen utensils,,False,0.019284,,0.000000
+feels rough,tools,,False,0.019284,3.833333,0.000000
+is related to a guitar,musical instruments,,False,0.015152,4.750000,0.000000
+has a stick,musical instruments,,False,0.013774,,0.000000
+has a stick,weapons,,False,0.013774,2.166667,0.000000
+is hard,clothing,"1, 2, 3, 5, 6",False,0.154270,,0.971223
+is hard,kitchen utensils,"1, 2, 3, 5, 6",False,0.154270,3.166667,0.971223
+is hard,musical instruments,"1, 2, 3, 5, 6",False,0.154270,4.416667,0.971223
+is hard,tools,"1, 2, 3, 5, 6",False,0.154270,5.333333,0.971223
+is hard,vehicles,"1, 2, 3, 5, 6",False,0.154270,,0.971223
+is hard,weapons,"1, 2, 3, 5, 6",False,0.154270,3.666667,0.971223
+you can see it in big cities,vehicles,3,True,0.019284,4.833333,0.485714
+one can drink out of it,kitchen utensils,,False,0.060606,3.666667,0.000000
+one can drink out of it,vehicles,,False,0.060606,,0.000000
+has a basket,tools,,False,0.012397,,0.000000
+has a basket,vehicles,,False,0.012397,2.666667,0.000000
+is bent,musical instruments,,False,0.005510,,0.000000
+is bent,tools,,False,0.005510,,0.000000
+is bent,weapons,,False,0.005510,2.166667,0.000000
+is useful,clothing,"1, 2, 3, 4, 6",False,0.027548,,0.956835
+is useful,kitchen utensils,"1, 2, 3, 4, 6",False,0.027548,5.416667,0.956835
+is useful,tools,"1, 2, 3, 4, 6",False,0.027548,5.916667,0.956835
+is useful,vehicles,"1, 2, 3, 4, 6",False,0.027548,,0.956835
+is useful,weapons,"1, 2, 3, 4, 6",False,0.027548,3.333333,0.956835
+is often belated,vehicles,,False,0.000000,3.250000,0.000000
+can work as defence,kitchen utensils,6,True,0.033058,,0.666667
+can work as defence,tools,6,True,0.033058,4.250000,0.666667
+can work as defence,vehicles,6,True,0.033058,,0.666667
+can work as defence,weapons,6,True,0.033058,5.666667,0.666667
+is an agressive person,weapons,,False,0.000000,,0.000000
+you have to peddle,vehicles,,False,0.001377,4.916667,0.000000
+has black and white keys,musical instruments,,False,0.024793,3.666667,0.000000
+is black,clothing,"2, 3, 4",False,0.191460,2.000000,0.580000
+is black,kitchen utensils,"2, 3, 4",False,0.191460,2.250000,0.580000
+is black,musical instruments,"2, 3, 4",False,0.191460,2.750000,0.580000
+is black,tools,"2, 3, 4",False,0.191460,2.083333,0.580000
+is black,vehicles,"2, 3, 4",False,0.191460,2.583333,0.580000
+is black,weapons,"2, 3, 4",False,0.191460,2.583333,0.580000
+is brown,clothing,"1, 2, 4, 5, 6",False,0.170799,1.916667,0.638710
+is brown,kitchen utensils,"1, 2, 4, 5, 6",False,0.170799,2.166667,0.638710
+is brown,musical instruments,"1, 2, 4, 5, 6",False,0.170799,3.583333,0.638710
+is brown,tools,"1, 2, 4, 5, 6",False,0.170799,2.333333,0.638710
+is brown,vehicles,"1, 2, 4, 5, 6",False,0.170799,1.750000,0.638710
+is brown,weapons,"1, 2, 4, 5, 6",False,0.170799,2.083333,0.638710
+used by farmers,clothing,,False,0.044077,,0.000000
+used by farmers,kitchen utensils,,False,0.044077,,0.000000
+used by farmers,tools,,False,0.044077,5.083333,0.000000
+used by farmers,vehicles,,False,0.044077,3.666667,0.000000
+can defrost food,kitchen utensils,,False,0.001377,3.250000,0.000000
+one has to put ground coffeebeans in it,kitchen utensils,,False,0.002755,3.250000,0.000000
+bought in an underwear store,clothing,,False,0.008264,3.416667,0.000000
+is cheap,clothing,1,True,0.048209,2.666667,0.616667
+is cheap,kitchen utensils,1,True,0.048209,,0.616667
+is cheap,musical instruments,1,True,0.048209,2.333333,0.616667
+is cheap,tools,1,True,0.048209,2.750000,0.616667
+is cheap,vehicles,1,True,0.048209,3.500000,0.616667
+stops in a station,vehicles,,False,0.013774,4.250000,0.000000
+occurs in comic books,clothing,"1, 2, 3, 4, 5, 6",False,0.001377,,1.000000
+occurs in comic books,kitchen utensils,"1, 2, 3, 4, 5, 6",False,0.001377,,1.000000
+occurs in comic books,musical instruments,"1, 2, 3, 4, 5, 6",False,0.001377,,1.000000
+occurs in comic books,tools,"1, 2, 3, 4, 5, 6",False,0.001377,2.083333,1.000000
+occurs in comic books,vehicles,"1, 2, 3, 4, 5, 6",False,0.001377,,1.000000
+occurs in comic books,weapons,"1, 2, 3, 4, 5, 6",False,0.001377,,1.000000
+is warm,clothing,4,True,0.108815,4.166667,0.342857
+is warm,kitchen utensils,4,True,0.108815,,0.342857
+is warm,tools,4,True,0.108815,,0.342857
+steered by a captain,vehicles,,False,0.009642,3.583333,0.000000
+worn by business people,clothing,,False,0.004132,4.416667,0.000000
+stinks,clothing,3,True,0.041322,1.916667,0.571429
+stinks,kitchen utensils,3,True,0.041322,1.500000,0.571429
+stinks,tools,3,True,0.041322,2.833333,0.571429
+stinks,vehicles,3,True,0.041322,3.250000,0.571429
+you can get sick on it,vehicles,,False,0.004132,4.416667,0.000000
+is dangerous,kitchen utensils,"3, 6",False,0.308540,2.750000,0.628571
+is dangerous,tools,"3, 6",False,0.308540,5.333333,0.628571
+is dangerous,vehicles,"3, 6",False,0.308540,4.666667,0.628571
+is dangerous,weapons,"3, 6",False,0.308540,6.416667,0.628571
+worn by a boxer,clothing,,False,0.004132,,0.000000
+worn by a boxer,weapons,,False,0.004132,3.250000,0.000000
+is smaller than a lorry,clothing,"1, 2, 3, 4, 5, 6",False,0.001377,,0.945783
+is smaller than a lorry,kitchen utensils,"1, 2, 3, 4, 5, 6",False,0.001377,,0.945783
+is smaller than a lorry,musical instruments,"1, 2, 3, 4, 5, 6",False,0.001377,,0.945783
+is smaller than a lorry,tools,"1, 2, 3, 4, 5, 6",False,0.001377,,0.945783
+is smaller than a lorry,vehicles,"1, 2, 3, 4, 5, 6",False,0.001377,3.833333,0.945783
+is smaller than a lorry,weapons,"1, 2, 3, 4, 5, 6",False,0.001377,,0.945783
+has a brake,vehicles,3,True,0.026171,5.250000,0.714286
+has a brake,weapons,3,True,0.026171,,0.714286
+is fun to wear,clothing,4,True,0.001377,4.500000,1.000000
+used to file iron,tools,,False,0.000000,4.666667,0.000000
+used by children,clothing,,False,0.034435,,0.000000
+used by children,kitchen utensils,,False,0.034435,,0.000000
+used by children,vehicles,,False,0.034435,4.083333,0.000000
+used by children,weapons,,False,0.034435,,0.000000
+is small,clothing,1,True,0.212121,2.000000,0.486111
+is small,kitchen utensils,1,True,0.212121,2.750000,0.486111
+is small,musical instruments,1,True,0.212121,3.416667,0.486111
+is small,tools,1,True,0.212121,3.250000,0.486111
+is small,vehicles,1,True,0.212121,3.416667,0.486111
+is small,weapons,1,True,0.212121,2.416667,0.486111
+you can play tug-of-war with it,tools,,False,0.024793,3.583333,0.000000
+is round,kitchen utensils,,False,0.210744,2.250000,0.000000
+is round,musical instruments,,False,0.210744,2.583333,0.000000
+is round,tools,,False,0.210744,2.416667,0.000000
+is round,vehicles,,False,0.210744,,0.000000
+is round,weapons,,False,0.210744,1.833333,0.000000
+has a tail,clothing,,False,0.000000,,0.000000
+has a tail,vehicles,,False,0.000000,2.833333,0.000000
+is big,kitchen utensils,3,True,0.323691,2.250000,0.607843
+is big,musical instruments,3,True,0.323691,3.250000,0.607843
+is big,tools,3,True,0.323691,3.166667,0.607843
+is big,vehicles,3,True,0.323691,4.416667,0.607843
+is big,weapons,3,True,0.323691,2.416667,0.607843
+makes a buzzing sound,kitchen utensils,2,True,0.020661,1.833333,0.388889
+makes a buzzing sound,tools,2,True,0.020661,4.166667,0.388889
+makes a buzzing sound,vehicles,2,True,0.020661,,0.388889
+can cut you,kitchen utensils,,False,0.008264,3.750000,0.000000
+can cut you,tools,,False,0.008264,,0.000000
+can cut you,weapons,,False,0.008264,,0.000000
+is busy,vehicles,,False,0.002755,4.083333,0.000000
+drives under ground,vehicles,,False,0.020661,4.916667,0.000000
+the driver is very vulnerable on the road,tools,,False,0.000000,,0.000000
+the driver is very vulnerable on the road,vehicles,,False,0.000000,4.166667,0.000000
+is odourless,clothing,"1, 2, 3, 4, 5, 6",False,0.005510,,1.000000
+is odourless,kitchen utensils,"1, 2, 3, 4, 5, 6",False,0.005510,,1.000000
+is odourless,musical instruments,"1, 2, 3, 4, 5, 6",False,0.005510,,1.000000
+is odourless,tools,"1, 2, 3, 4, 5, 6",False,0.005510,,1.000000
+is odourless,vehicles,"1, 2, 3, 4, 5, 6",False,0.005510,,1.000000
+is odourless,weapons,"1, 2, 3, 4, 5, 6",False,0.005510,2.333333,1.000000
+is easy to wash,clothing,"1, 4",False,0.006887,,0.625000
+is easy to wash,kitchen utensils,"1, 4",False,0.006887,3.916667,0.625000
+is easy to wash,tools,"1, 4",False,0.006887,,0.625000
+is easy to wash,weapons,"1, 4",False,0.006887,,0.625000
+is yellow,clothing,,False,0.024793,,0.000000
+is yellow,musical instruments,,False,0.024793,,0.000000
+is yellow,tools,,False,0.024793,1.833333,0.000000
+shrinks when washed,clothing,4,True,0.000000,4.000000,0.800000
+shrinks when washed,kitchen utensils,4,True,0.000000,,0.800000
+does not weigh much,clothing,"1, 2, 4, 5, 6",False,0.015152,2.833333,0.918519
+does not weigh much,kitchen utensils,"1, 2, 4, 5, 6",False,0.015152,,0.918519
+does not weigh much,musical instruments,"1, 2, 4, 5, 6",False,0.015152,3.166667,0.918519
+does not weigh much,tools,"1, 2, 4, 5, 6",False,0.015152,,0.918519
+does not weigh much,vehicles,"1, 2, 4, 5, 6",False,0.015152,,0.918519
+does not weigh much,weapons,"1, 2, 4, 5, 6",False,0.015152,2.000000,0.918519
+whistles when water boils,kitchen utensils,2,True,0.001377,3.916667,0.200000
+is white,clothing,"2, 3, 4",False,0.110193,1.833333,0.571429
+is white,kitchen utensils,"2, 3, 4",False,0.110193,2.250000,0.571429
+is white,musical instruments,"2, 3, 4",False,0.110193,,0.571429
+is white,tools,"2, 3, 4",False,0.110193,,0.571429
+is white,vehicles,"2, 3, 4",False,0.110193,1.500000,0.571429
+is beautiful,clothing,"4, 5",False,0.071625,3.416667,0.800000
+is beautiful,musical instruments,"4, 5",False,0.071625,4.666667,0.800000
+is beautiful,vehicles,"4, 5",False,0.071625,3.250000,0.800000
+has a grillfunction,kitchen utensils,,False,0.002755,3.416667,0.000000
+has a grillfunction,vehicles,,False,0.002755,,0.000000
+constitutes a whole,clothing,"1, 2, 3, 4, 5, 6",False,0.013774,2.333333,1.000000
+constitutes a whole,kitchen utensils,"1, 2, 3, 4, 5, 6",False,0.013774,,1.000000
+constitutes a whole,musical instruments,"1, 2, 3, 4, 5, 6",False,0.013774,,1.000000
+constitutes a whole,tools,"1, 2, 3, 4, 5, 6",False,0.013774,,1.000000
+constitutes a whole,vehicles,"1, 2, 3, 4, 5, 6",False,0.013774,,1.000000
+constitutes a whole,weapons,"1, 2, 3, 4, 5, 6",False,0.013774,,1.000000
