@@ -46,7 +46,7 @@ end
 
 % if the result is transposed
 if(m < n) 
-    A = A;
+    A = A';
 end
 
 % % % % % Marketa
